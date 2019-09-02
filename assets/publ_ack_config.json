@@ -1,0 +1,9 @@
+{
+    "documents" : {
+        "did-spec" : {
+            "id": "TO_BE_SET",
+            "explicit_list": "https://raw.githubusercontent.com/w3c/did-spec/master/ack-script/separate_acks.json",
+            "html_pattern": "https://raw.githubusercontent.com/w3c/did-spec/master/ack-script/ack_pattern.html"
+        }
+    }
+}
