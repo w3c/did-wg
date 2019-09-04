@@ -18,6 +18,10 @@ json-ld: |
               "@type": "Person",
               "name": "Daniel Burnett",
               "email": "daniel.burnett@consensys.net"
+          },{
+              "@type": "Person",
+              "name": "Brent Zundel",
+              "email": "brent.zundel@evernym.com"
           }]
       },
       "contactPoint": {

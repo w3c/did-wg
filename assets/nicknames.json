@@ -5,6 +5,20 @@
     "name": "Christopher Allen"
 },
 {
+    "nick": [
+        "JoeAndrieu"
+    ],
+    "name": "Joe Andrieu",
+    "github": "jandrieu"
+},
+{
+    "nick" : [
+        "burn"
+    ],
+    "name" : "Daniel C. Burnett",
+    "github": "burnburn"
+},
+{
     "nick": ["pchampin"],
     "name": "Pierre-Antoine Champin",
     "github": "pchampin"
@@ -61,4 +75,11 @@
     ],
     "name": "Benjamin Young",
     "github": "BigBlueHat"
+},
+{
+    "nick" : [ 
+        "brent"
+    ],
+    "name" : "Brent Zundel",
+    "github": "brentzundel"
 }]
