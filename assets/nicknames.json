@@ -1,0 +1,85 @@
+[{
+    "nick": [
+        "ChristopherA"
+    ],
+    "name": "Christopher Allen"
+},
+{
+    "nick": [
+        "JoeAndrieu"
+    ],
+    "name": "Joe Andrieu",
+    "github": "jandrieu"
+},
+{
+    "nick" : [
+        "burn"
+    ],
+    "name" : "Daniel C. Burnett",
+    "github": "burnburn"
+},
+{
+    "nick": ["pchampin"],
+    "name": "Pierre-Antoine Champin",
+    "github": "pchampin"
+},
+{
+    "nick": [
+        "ivan",
+        "iherman"
+    ],
+    "name": "Ivan Herman",
+    "github": "iherman"
+},
+{
+    "nick": [
+        "gkellogg",
+        "gkellog"
+    ],
+    "name": "Gregg Kellogg",
+    "github": "gkellogg"
+},
+{
+    "nick": [
+        "davidlehn",
+        "dlehn"
+    ],
+    "name": "David I. Lehn",
+    "github": "davidlehn"
+},
+{
+    "nick": [
+        "dlongley",
+        "dlongley2"
+    ],
+    "name": "Dave Longley",
+    "github": "dlongley"
+},
+{
+    "nick": [
+        "azaroth",
+        "azaroth42"
+    ],
+    "name": "Rob Sanderson",
+    "github": "azaroth42"
+},
+{
+    "nick": ["manu"],
+    "name": "Manu Sporny",
+    "github": "msporny"
+},
+{
+    "nick": [
+        "bigbluehat",
+        "benjamin"
+    ],
+    "name": "Benjamin Young",
+    "github": "BigBlueHat"
+},
+{
+    "nick" : [ 
+        "brent"
+    ],
+    "name" : "Brent Zundel",
+    "github": "brentzundel"
+}]

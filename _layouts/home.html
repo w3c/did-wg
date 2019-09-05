@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" data-apiary-key="8zjsn0qpm1gc4wso4gogowwsg0skcso" data-apiary-group="{{ site.groupid }}">
+<head>
+    <meta charset="utf-8">
+    <title>W3C {{ site.wgname_uc }} Working Group</title>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="{{ site.wgname_uc }} Working Group" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="full-screen" content="yes" />
+    <meta name="description" content="{{ site.mission }}" />
+    {% if page.json-ld %}
+    <script type="application/ld+json">{{ page.json-ld }}</script>
+    {% endif %}
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="{{ site.baseurl }}/assets/js/hyphenate.min.js"></script>
+    <script async type="text/javascript" src="{{ site.baseurl }}/assets/js/newsfeed.js"> </script>
+    <style>
+        .todo {
+            background: yellow;
+            font-style: italic;
+        }
+        ul.inline {
+            margin: 0;
+            display: inline-block;
+        }
+        ul.inline li {
+            float: left;
+            margin-right: 2em;
+        }
+    </style>
+</head>
+<body>
+    {% include header.html %}
+    <main>
+        {% include nav.html %}
+        <section id='content'>
+            <h1 style="border-bottom: 1px solid #ccc">
+                {{ site.wgname_uc }} Working Group
+            </h1>
+
+            <script src="https://w3c.github.io/apiary/apiary.js"></script>
+
+            <section id=mission> 
+                <p>Mission: {{ site.mission }}</span>
+
+                <p>The co-chairs of the group are Daniel Burnett (<a href="mailto:daniel.burnett@consensys.net">daniel.burnett@consensys.net</a>) and Brent Zundel (<a href="mailto:brent.zundel@evernym.com">brent.zundel@evernym.com</a>). The staff contact is Ivan Herman (<a href="mailto:ivan@w3.org">ivan@w3.org</a>). The group is chartered until: 30 September, 2021.</p>
+            </section>
+ 
+            <section >
+                {{ content }}
+            </section>
+
+            <section id="minutes">
+                <h2><a href="Meetings/Minutes/">Telco Minutes</a></h2>
+                <ul class="inline">
+                {% assign minutes_length = site.minutes | size %}
+                {% assign reversed_minutes = site.minutes | reverse %}
+                {% for item in reversed_minutes limit:5 %}
+                  <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.date | date: '%d %B' }}</a></li>
+                {% endfor %}
+                {% if minutes_length > 5 %}
+                    <li><a href="Meetings/Minutes/">more...</a></li>
+                {% endif %}
+                </ul>
+            </section>
+            <section id='articles'>
+    			<h2>Latest activity news</h2>
+                <p>(See the <a href="https://www.w3.org/blog/category/technology/{{ site.wgname_lc }}/">activity blog</a> for all the news.)</p>
+            </section>
+        </section>
+        {% include aside.html %}
+    </main>
+    {% include footer.html %}
+</body>
+</html>

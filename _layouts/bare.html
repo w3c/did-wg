@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>W3C {{ site.wgname_uc }} Working Group</title>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="{{ site.wgname_uc }} Working Group" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="full-screen" content="yes" />
+    <meta name="description" content="{{ site.mission }}" />
+    {% if page.json-ld %}
+    <script type="application/ld+json">{{ page.json-ld }}</script>
+    {% endif %}
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+        function cleanmd() {
+            var as = document.getElementsByTagName('a');
+            for (var i = 0; i < as.length; i++) {
+                var a = as[i];
+                var href = a.getAttribute("href");
+                if (href) {
+                    if (href.startsWith('id:')) {
+                        /* yes, this is an id value in the markdown sense */
+                        a.setAttribute("id",href.slice(3));
+                        a.removeAttribute("href")
+                    }
+                }
+            }
+        }
+        window.onload = cleanmd;
+    </script>
+    <style>
+        .todo {
+            background: yellow;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    {% include header.html %}
+    <main>
+        <section id='content'>
+            <h1 style="border-bottom: 1px solid #ccc">
+                DID Working Group
+            </h1>
+            {{ content }}
+        </section>
+    </main>
+    {% include footer.html %}
+    <!-- <script src="https://w3c.github.io/apiary/apiary.js"></script> -->
+</body>
+</html>

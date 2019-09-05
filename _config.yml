@@ -1,0 +1,25 @@
+baseurl: /2019/did-wg
+groupid: 117488
+charter: /2019/09/did-wg-charter.html
+wgname_lc: did
+wgname_uc: DID
+mission: "The mission of the Decentralized Identifier Working Group is to standardize the DID URI scheme, the data model and syntax of DID Documents, which contain information related to DIDs that enable the aforementioned initial use cases, and the requirements for DID Method specifications."
+
+
+#theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - node_modules/
+
+collections:
+  minutes:
+    output: true
+    permalink: /Meetings/Minutes/:name

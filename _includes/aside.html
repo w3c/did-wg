@@ -1,0 +1,34 @@
+
+        <aside id="communications">
+            <h3>GitHub repositories</h3>
+            <ul id="github-repositories-list">
+                <li><a href="https://github.com/search?q=topic%3A{{ site.wgname_lc }}-wg+org%3Aw3c&type=Repositories">List of WG repositories</a>.</li>
+            </ul>
+            <script async defer>
+let repos_list = document.getElementById('github-repositories-list');
+fetch('https://api.github.com/search/repositories?q=topic:{{ site.wgname_lc }}-wg')
+  .then((r) => r.json())
+  .then((repos) => {
+    if ('items' in repos) {
+      // empty list
+      while (repos_list.firstChild) {
+        repos_list.removeChild(repos_list.firstChild);
+      }
+      repos.items.forEach((repo) => {
+        repos_list.insertAdjacentHTML('beforeend', `
+<li><strong><a href="${repo.html_url}">${repo.name}</a>
+ - <a href="${repo.homepage}">site</a></strong>
+<br />${repo.description}</li>`);
+      });
+    }
+  });
+            </script>
+
+            <h3>Mailing lists</h3>
+            <ul>
+                <li><a href="mailto:public-{{ site.wgname_lc }}-wg@w3.org">public-{{ site.wgname_lc }}-wg@w3.org</a>: the group’s primary mailing list. Group members are automatically signed up. The <a href="https://lists.w3.org/Archives/Public/public-{{ site.wgname_lc }}-wg/">archives</a> are publicly visible, and anyone can post a mail.</li>
+                <li><a href="mailto:member-{{ site.wgname_lc }}-wg@w3.org">member-{{ site.wgname_lc }}-wg@w3.org</a>: the group’s member confidential mailing list. Group members are automatically signed up. The <a href="https://lists.w3.org/Archives/Member/member-{{ site.wgname_lc }}-wg/">archives</a> are visible to W3C members only, and only group members can post a mail.</li>
+                <li><a href="mailto:group-{{ site.wgname_lc }}-wg-chairs@w3.org">group-{{ site.wgname_lc }}-wg-chairs@w3.org</a>: list for chairs and W3C staff contact(s). The <a href="https://lists.w3.org/Archives/Group/group-{{ site.wgname_lc }}-wg-chairs/">archives</a> are only visible to the chairs and the W3C staff, but anybody can post a mail.</li>
+            </ul>
+
+        </aside>
