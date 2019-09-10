@@ -1,5 +1,9 @@
 [
     {
+        "nick": [],
+        "name": "Ganesh Annan"
+    },
+    {
         "nick": [
             "PhilA"
         ],
@@ -7,17 +11,12 @@
         "github": "philarcher"
     },
     {
-        "nick": [
-            "ChristopherA"
-        ],
-        "name": "Christopher Allen"
+        "nick": [],
+        "name": "Dmitry Barinov"
     },
     {
-        "nick": [
-            "JoeAndrieu"
-        ],
-        "name": "Joe Andrieu",
-        "github": "jandrieu"
+        "nick": [],
+        "name": "Pelle Braendgaard"
     },
     {
         "nick": [
@@ -27,11 +26,43 @@
         "github": "burnburn"
     },
     {
+        "nick": [],
+        "name": "Matthew Collier"
+    },
+    {
+        "nick": [],
+        "name": "Dudley Collinson"
+    },
+    {
+        "nick": [],
+        "name": "Robert Coote"
+    },
+    {
+        "nick": [],
+        "name": "Mike Crockart"
+    },
+    {
+        "nick": [],
+        "name": "David Ezell"
+    },
+    {
         "nick": [
-            "pchampin"
+            "rhiaro"
         ],
-        "name": "Pierre-Antoine Champin",
-        "github": "pchampin"
+        "name": "Amy Guy",
+        "github": "rhiaro"
+    },
+    {
+        "nick": [],
+        "name": "Lovesh Harchandani"
+    },
+    {
+        "nick": [],
+        "name": "Daniel Hardman"
+    },
+    {
+        "nick": [],
+        "name": "Rouven Heck"
     },
     {
         "nick": [
@@ -42,19 +73,20 @@
         "github": "iherman"
     },
     {
-        "nick": [
-            "gkellogg",
-            "gkellog"
-        ],
-        "name": "Gregg Kellogg",
-        "github": "gkellogg"
+        "nick": [],
+        "name": "Kangchan Lee",
+        "github": "kangchan"
+    },
+    {
+        "nick": [],
+        "name": "WonSuk Lee"
     },
     {
         "nick": [
             "davidlehn",
             "dlehn"
         ],
-        "name": "David I. Lehn",
+        "name": "David Lehn",
         "github": "davidlehn"
     },
     {
@@ -66,12 +98,39 @@
         "github": "dlongley"
     },
     {
+        "nick": [],
+        "name": "Christian Lundkvist"
+    },
+    {
         "nick": [
-            "azaroth",
-            "azaroth42"
+            "chaals"
         ],
-        "name": "Rob Sanderson",
-        "github": "azaroth42"
+        "name": "Charles 'chaals' (McCathie) Nevile",
+        "github": "chaals"
+    },
+    {
+        "nick": [],
+        "name": "Grant Noble"
+    },
+    {
+        "nick": [],
+        "name": "Drummond Reed"
+    },
+    {
+        "nick": [],
+        "name": "Yancy Ribbens"
+    },
+    {
+        "nick": [],
+        "name": "Troy Ronda"
+    },
+    {
+        "nick": [],
+        "name": "Markus Sabadello"
+    },
+    {
+        "nick": [],
+        "name": "Samuel Smith"
     },
     {
         "nick": [
@@ -79,6 +138,22 @@
         ],
         "name": "Manu Sporny",
         "github": "msporny"
+    },
+    {
+        "nick": [],
+        "name": "Orie Steele"
+    },
+    {
+        "nick": [],
+        "name": "Oliver Terbu"
+    },
+    {
+        "nick": [],
+        "name": "David Trang"
+    },
+    {
+        "nick": [],
+        "name": "Mike Varley"
     },
     {
         "nick": [
@@ -89,6 +164,10 @@
         "github": "BigBlueHat"
     },
     {
+        "nick": [],
+        "name": "Dmitri Zagidulin"
+    },
+    {
         "nick": [
             "brent"
         ],
@@ -96,88 +175,39 @@
         "github": "brentzundel"
     },
     {
-        "name": "Robert Coote",
         "nick": [
-            "RobertCoote"
-        ]
-    },
-    {
-        "name": "Lovesh Harchandani",
-        "nick": [
-            "LoveshHarchandani"
-        ]
-    },
-    {
-        "name": "Daniel Hardman",
-        "nick": [
-            "DanielHardman"
-        ]
-    },
-    {
-        "name": "Rouven Heck",
-        "nick": [
-            "RouvenHeck"
-        ]
-    },
-    {
-        "name": "Kangchan Lee",
-        "nick": [
-            "KangchanLee"
+            "JoeAndrieu"
         ],
-        "github": "kangchan"
+        "name": "Joe Andrieu",
+        "github": "jandrieu"
     },
     {
-        "name": "WonSuk Lee",
         "nick": [
-            "WonSukLee"
-        ]
-    },
-    {
-        "name": "Christian Lundkvist",
-        "nick": [
-            "ChristianLundkvist"
-        ]
-    },
-    {
-        "name": "Charles 'chaals' (McCathie) Nevile",
-        "nick": [
-            "chaals"
+            "pchampin"
         ],
-        "github": "chaals"
+        "name": "Pierre-Antoine Champin",
+        "github": "pchampin"
     },
     {
-        "name": "Grant Noble",
         "nick": [
-            "GrantNoble"
-        ]
+            "gkellogg",
+            "gkellog"
+        ],
+        "name": "Gregg Kellogg",
+        "github": "gkellogg"
     },
     {
-        "name": "Drummond Reed",
         "nick": [
-            "DrummondReed"
-        ]
+            "ChristopherA"
+        ],
+        "name": "Christopher Allen"
     },
     {
-        "name": "Markus Sabadello",
         "nick": [
-            "MarkusSabadello"
-        ]
-    },
-    {
-        "name": "Samuel Smith",
-        "nick": [
-            "SamuelSmith"
-        ]
-    },
-    {
-        "name": "Oliver Terbu",
-        "nick": [
-            "OliverTerbu"
-        ]
-    },
-    {
-        "name": "Amy Guy",
-        "nick": ["rhiaro"],
-        "github": "rhiaro"
+            "azaroth",
+            "azaroth42"
+        ],
+        "name": "Rob Sanderson",
+        "github": "azaroth42"
     }
 ]
