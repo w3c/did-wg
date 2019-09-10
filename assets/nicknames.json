@@ -3,7 +3,8 @@
         "nick": [
             "PhilA"
         ],
-        "name": "Phil Archer"
+        "name": "Phil Archer",
+        "github": "philarcher"
     },
     {
         "nick": [
@@ -122,7 +123,8 @@
         "name": "Kangchan Lee",
         "nick": [
             "KangchanLee"
-        ]
+        ],
+        "github": "kangchan"
     },
     {
         "name": "WonSuk Lee",
@@ -140,7 +142,8 @@
         "name": "Charles 'chaals' (McCathie) Nevile",
         "nick": [
             "chaals"
-        ]
+        ],
+        "github": "chaals"
     },
     {
         "name": "Grant Noble",
@@ -171,5 +174,10 @@
         "nick": [
             "OliverTerbu"
         ]
+    },
+    {
+        "name": "Amy Guy",
+        "nick": ["rhiaro"],
+        "github": "rhiaro"
     }
 ]
