@@ -1,5 +1,18 @@
 [
     {
+        "nick": [
+            "ChristopherA"
+        ],
+        "name": "Christopher Allen"
+    },
+    {
+        "nick": [
+            "JoeAndrieu"
+        ],
+        "name": "Joe Andrieu",
+        "github": "jandrieu"
+    },
+    {
         "nick": [],
         "name": "Ganesh Annan"
     },
@@ -43,7 +56,23 @@
     },
     {
         "nick": [],
+        "name": "Sam Curren"
+    },
+    {
+        "nick": [],
+        "name": "Kenneth Ebert"
+    },
+    {
+        "nick": [],
         "name": "David Ezell"
+    },
+    {
+        "nick": [],
+        "name": "Helen Garneau"
+    },
+    {
+        "nick": [],
+        "name": "Nathan  George"
     },
     {
         "nick": [
@@ -74,12 +103,12 @@
     },
     {
         "nick": [],
-        "name": "Kangchan Lee",
-        "github": "kangchan"
+        "name": "WonSuk Lee"
     },
     {
         "nick": [],
-        "name": "WonSuk Lee"
+        "name": "Kangchan Lee",
+        "github": "kangchan"
     },
     {
         "nick": [
@@ -88,6 +117,10 @@
         ],
         "name": "David Lehn",
         "github": "davidlehn"
+    },
+    {
+        "nick": [],
+        "name": "Michael Lodder"
     },
     {
         "nick": [
@@ -127,6 +160,10 @@
     {
         "nick": [],
         "name": "Markus Sabadello"
+    },
+    {
+        "nick": [],
+        "name": "Andrei Sambra"
     },
     {
         "nick": [],
@@ -173,41 +210,5 @@
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"
-    },
-    {
-        "nick": [
-            "JoeAndrieu"
-        ],
-        "name": "Joe Andrieu",
-        "github": "jandrieu"
-    },
-    {
-        "nick": [
-            "pchampin"
-        ],
-        "name": "Pierre-Antoine Champin",
-        "github": "pchampin"
-    },
-    {
-        "nick": [
-            "gkellogg",
-            "gkellog"
-        ],
-        "name": "Gregg Kellogg",
-        "github": "gkellogg"
-    },
-    {
-        "nick": [
-            "ChristopherA"
-        ],
-        "name": "Christopher Allen"
-    },
-    {
-        "nick": [
-            "azaroth",
-            "azaroth42"
-        ],
-        "name": "Rob Sanderson",
-        "github": "azaroth42"
     }
 ]
