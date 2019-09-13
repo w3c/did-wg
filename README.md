@@ -1,8 +1,4 @@
 
-**_Preliminary Home Page, the Working Group is currently not (yet?) approved by the W3C Management!_**
-
----
-
 ![W3C Logo](https://www.w3.org/Icons/w3c_home)
 
 # Decentralized Identifier Working Group
