@@ -170,7 +170,15 @@
     },
     {
         "nick": [],
-        "name": "Andrei Sambra"
+        "name": "Michiel Schok",
+        "github": "michielschok"
+    },
+    {
+        "nick": [
+            "deiu"
+        ],
+        "name": "Andrei Sambra",
+        "github": "deiu"
     },
     {
         "nick": [],
