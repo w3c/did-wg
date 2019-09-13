@@ -3,7 +3,8 @@
         "nick": [
             "ChristopherA"
         ],
-        "name": "Christopher Allen"
+        "name": "Christopher Allen",
+        "github": "ChristopherA"
     },
     {
         "nick": [
@@ -142,8 +143,11 @@
         "github": "chaals"
     },
     {
-        "nick": [],
-        "name": "Grant Noble"
+        "nick": [
+            "grantnoble"
+        ],
+        "name": "Grant Noble",
+        "github": "grantnoble"
     },
     {
         "nick": [],
@@ -161,7 +165,8 @@
         "nick": [
             "peacekeeper"
         ],
-        "name": "Markus Sabadello"
+        "name": "Markus Sabadello",
+        "github": "peacekeeper"
     },
     {
         "nick": [],
