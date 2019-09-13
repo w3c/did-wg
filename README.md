@@ -26,6 +26,11 @@ Editorial changes that improve the readability of the spec or correct spelling o
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
+## Meetings
+
+Our kickoff meeting will be September 16-17, 2019, at [TPAC](https://www.w3.org/2019/09/TPAC/Overview.html).
+Details for participation are located on our [meeting page](Meetings/F2F/2019.09.Fuk.md).
+
 ## Tools
 
 Generating weekly minutes is done via the
