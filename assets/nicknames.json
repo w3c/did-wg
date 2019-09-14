@@ -60,8 +60,11 @@
         "name": "Sam Curren"
     },
     {
-        "nick": [],
-        "name": "Kenneth Ebert"
+        "nick": [
+            "ken"
+        ],
+        "name": "Kenneth Ebert",
+        "github": "ken-ebert"
     },
     {
         "nick": [],
@@ -87,8 +90,11 @@
         "name": "Lovesh Harchandani"
     },
     {
-        "nick": [],
-        "name": "Daniel Hardman"
+        "nick": [
+            "danielhardman"
+        ],
+        "name": "Daniel Hardman",
+        "github": "dhh1128"
     },
     {
         "nick": [],
@@ -120,8 +126,11 @@
         "github": "davidlehn"
     },
     {
-        "nick": [],
-        "name": "Michael Lodder"
+        "nick": [
+            "mikelodder7"
+        ],
+        "name": "Michael Lodder",
+        "github": "mikelodder7"
     },
     {
         "nick": [
@@ -150,8 +159,11 @@
         "github": "grantnoble"
     },
     {
-        "nick": [],
-        "name": "Drummond Reed"
+        "nick": [
+            "drummond"
+        ],
+        "name": "Drummond Reed",
+        "github": "talltree"
     },
     {
         "nick": [],
@@ -216,8 +228,11 @@
         "github": "BigBlueHat"
     },
     {
-        "nick": [],
-        "name": "Dmitri Zagidulin"
+        "nick": [
+            "dmitriz"
+        ],
+        "name": "Dmitri Zagidulin",
+        "github": "dmitrizagidulin"
     },
     {
         "nick": [
