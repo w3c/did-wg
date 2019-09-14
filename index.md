@@ -33,3 +33,5 @@ json-ld: |
   }
 ---
 
+Please join us for our kickoff meeting September 16-17, 2019, at [TPAC](https://www.w3.org/2019/09/TPAC/Overview.html)!
+Details for participation are located on our [meeting page](Meetings/F2F/2019.09.Fuk.md).
