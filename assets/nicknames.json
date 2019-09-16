@@ -64,6 +64,12 @@
     },
     {
         "nick": [
+            "pamela"
+        ],
+        "name" : "Pamela Dingle"
+    },
+    {
+        "nick": [
             "ken"
         ],
         "name": "Kenneth Ebert",
@@ -71,9 +77,11 @@
     },
     {
         "nick": [
-            "DavidE"
+            "DavidE",
+            "dezell2"
         ],
-        "name": "David Ezell"
+        "name": "David Ezell",
+        "github": "dezell"
     },
     {
         "nick": [],
@@ -146,6 +154,13 @@
         ],
         "name": "Dave Longley",
         "github": "dlongley"
+    },
+    {
+        "nick": [
+            "tplooker"
+        ],
+        "name": "Tobias Looker",
+        "github": "tplooker"
     },
     {
         "nick": [],
