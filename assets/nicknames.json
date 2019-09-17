@@ -34,6 +34,10 @@
         "name": "Pelle Braendgaard"
     },
     {
+        "nick": [],
+        "name": "Daniel Buchner"
+    },
+    {
         "nick": [
             "burn",
             "burnburn"
@@ -126,6 +130,13 @@
         ],
         "name": "Ivan Herman",
         "github": "iherman"
+    },
+    {
+        "nick": [
+            "selfissued"
+        ],
+        "name": "Michael Jones",
+        "github": "selfissued"
     },
     {
         "nick": [],
@@ -272,7 +283,8 @@
     },
     {
         "nick": [
-            "brent"
+            "brent",
+            "brentzundel"
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"
