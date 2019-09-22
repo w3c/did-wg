@@ -47,6 +47,10 @@
     },
     {
         "nick": [],
+        "name": "Wayne Chang"
+    },
+    {
+        "nick": [],
         "name": "Matthew Collier"
     },
     {
@@ -71,7 +75,7 @@
         "nick": [
             "pamela"
         ],
-        "name" : "Pamela Dingle"
+        "name": "Pamela Dingle"
     },
     {
         "nick": [
@@ -171,13 +175,6 @@
         ],
         "name": "Dave Longley",
         "github": "dlongley"
-    },
-    {
-        "nick": [
-            "tplooker"
-        ],
-        "name": "Tobias Looker",
-        "github": "tplooker"
     },
     {
         "nick": [],
@@ -288,5 +285,19 @@
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"
+    },
+    {
+        "nick": [
+            "tplooker"
+        ],
+        "name": "Tobias Looker",
+        "github": "tplooker"
+    },
+    {
+        "nick": [
+            "kimdhamilton"
+        ],
+        "name": "Kim Duffy",
+        "github": "kimdhamilton"
     }
 ]
