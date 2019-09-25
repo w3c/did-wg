@@ -79,6 +79,13 @@
     },
     {
         "nick": [
+            "kimhd"
+        ],
+        "name": "Kim Duffy",
+        "github": "kimdhamilton"
+    },
+    {
+        "nick": [
             "ken"
         ],
         "name": "Kenneth Ebert",
@@ -292,12 +299,5 @@
         ],
         "name": "Tobias Looker",
         "github": "tplooker"
-    },
-    {
-        "nick": [
-            "kimdhamilton"
-        ],
-        "name": "Kim Duffy",
-        "github": "kimdhamilton"
     }
 ]
