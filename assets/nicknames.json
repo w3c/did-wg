@@ -15,7 +15,10 @@
         "github": "jandrieu"
     },
     {
-        "nick": [],
+        "nick": [
+            "ganesh",
+            "gannan"
+        ],
         "name": "Ganesh Annan"
     },
     {
@@ -40,7 +43,8 @@
     {
         "nick": [
             "burn",
-            "burnburn"
+            "burnburn",
+            "danb"
         ],
         "name": "Daniel Burnett",
         "github": "burnburn"
@@ -50,7 +54,9 @@
         "name": "Wayne Chang"
     },
     {
-        "nick": [],
+        "nick": [
+            "collier-matthew"
+        ],
         "name": "Matthew Collier"
     },
     {
@@ -102,6 +108,10 @@
     },
     {
         "nick": [],
+        "name": "James Fishback"
+    }
+    {
+        "nick": [],
         "name": "Helen Garneau"
     },
     {
@@ -109,12 +119,16 @@
         "name": "Nathan  George"
     },
     {
-        "nick": [],
+        "nick": [
+            "adrian",
+            "agropper"
+        ],
         "name": "Adrian Gropper"
     },
     {
         "nick": [
-            "rhiaro"
+            "rhiaro",
+            "amyg"
         ],
         "name": "Amy Guy",
         "github": "rhiaro"
@@ -203,6 +217,12 @@
     },
     {
         "nick": [
+
+        ],
+        "name": "Steven Patterson"
+    },
+    {
+        "nick": [
             "drummond"
         ],
         "name": "Drummond Reed",
@@ -215,7 +235,9 @@
         "name": "Yancy Ribbens"
     },
     {
-        "nick": [],
+        "nick": [
+            "troyronda"
+        ],
         "name": "Troy Ronda"
     },
     {
@@ -227,7 +249,9 @@
     },
     {
         "nick": [
-            "deiu"
+            "deiu",
+            "andrei",
+            "andreis"
         ],
         "name": "Andrei Sambra",
         "github": "deiu"
@@ -257,12 +281,21 @@
         "name": "Matt Stone"
     },
     {
-        "nick": [],
+        "nick": [
+            "oliver"
+        ],
         "name": "Oliver Terbu"
     },
     {
         "nick": [
-            "David_Trang"
+            "TallTed"
+        ],
+        "name": "Ted Thibodeau"
+    },
+    {
+        "nick": [
+            "David_Trang",
+            "trang"
         ],
         "name": "David Trang"
     },
@@ -273,7 +306,8 @@
     {
         "nick": [
             "bigbluehat",
-            "benjamin"
+            "benjamin",
+            "benjaminy"
         ],
         "name": "Benjamin Young",
         "github": "BigBlueHat"
@@ -288,7 +322,8 @@
     {
         "nick": [
             "brent",
-            "brentzundel"
+            "brentzundel",
+            "brentz"
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"
