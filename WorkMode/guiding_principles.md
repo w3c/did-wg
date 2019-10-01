@@ -124,7 +124,7 @@ then it is permissible (just not standardized) rather than being disallowed.
 **Notes**
 
 * It is hard to judge when it is appropriate to be prescriptive, and when
-    it is appropriate to be silent. Several issues have arisen on both
+    it is appropriate to be silent.
     sides -- sometimes 1.0 is too prescriptive, sometimes the definition is
     not precise enough.
 
