@@ -290,10 +290,13 @@
     },
     {
         "nick": [
-            "TallTed"
+            "TallTed",
+            "MacTed"
         ],
-        "name": "Ted Thibodeau"
+        "name": "Ted Thibodeau Jr",
+        "github": "TallTed"
     },
+    
     {
         "nick": [
             "David_Trang",
