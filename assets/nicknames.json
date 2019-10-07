@@ -86,6 +86,10 @@
         "name": "Pamela Dingle"
     },
     {
+        "nick": [],
+        "name": "Kyle Den Hartog"
+    },
+    {
         "nick": [
             "kimhd"
         ],
@@ -223,9 +227,12 @@
     },
     {
         "nick": [
-
         ],
         "name": "Steven Patterson"
+    },
+    {
+        "nick": [],
+        "name": "Sapkal Ravi"
     },
     {
         "nick": [
@@ -301,7 +308,10 @@
         "name": "Ted Thibodeau Jr",
         "github": "TallTed"
     },
-    
+    {
+        "nick": [],
+        "name": "Paul Tinson"
+    },
     {
         "nick": [
             "David_Trang",
@@ -333,7 +343,8 @@
         "nick": [
             "brent",
             "brentzundel",
-            "brentz"
+            "brentz",
+            "zundel"
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"
