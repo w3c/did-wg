@@ -19,7 +19,7 @@ This document is a *Living Document* and as such will change. Members of the gro
 
 ## Participation and Communication
 
-The group's formal Participation and Communication models are documented in the [Participation](https://www.w3.org/2019/03/jsonld-wg-charter.html#participation) and [Communications](https://www.w3.org/2019/03/jsonld-wg-charter.html#communication) sections of its Charter, respectively.
+The group's formal Participation and Communication models are documented in the [Participation](https://www.w3.org/2019/09/did-wg-charter.html#participation) and [Communications](https://www.w3.org/2019/09/did-wg-charter.html#communication) sections of its Charter, respectively.
 
 A WG member may participate in various ways including:
 
@@ -87,7 +87,7 @@ In line with the spirit of the asynchronous decision procedures outlined above, 
 
 #### Issue labels
 
-GitHub issues are also used as a records of wide reviews, of horizontal reviews, etc. The Working Group will define a number of labels (e.g., labeling an issue as part of the Horizontal Security review). Chairs, staff, and editors are responsible to set those labels accordingly. Similarly, when issues are waiting for external reviewers to react, labels will be used to signal the status of the issue. (See the [current set of labels](https://github.com/w3c/did-syntax/labels).)
+GitHub issues are also used as a records of wide reviews, of horizontal reviews, etc. The Working Group will define a number of labels (e.g., labeling an issue as part of the Horizontal Security review). Chairs, staff, and editors are responsible to set those labels accordingly. Similarly, when issues are waiting for external reviewers to react, labels will be used to signal the status of the issue. (See the [current set of labels](https://github.com/w3c/did-spec/labels).)
 
 ### Mailing lists (Policy, Usage, Etiquette, etc.)
 
