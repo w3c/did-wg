@@ -19,7 +19,7 @@ This document is a *Living Document* and as such will change. Members of the gro
 
 ## Participation and Communication
 
-The group's formal Participation and Communication models are documented in the [Participation](https://www.w3.org/2019/03/jsonld-wg-charter.html#participation) and [Communications](https://www.w3.org/2019/03/jsonld-wg-charter.html#communication) sections of its Charter, respectively.
+The group's formal Participation and Communication models are documented in the [Participation](https://www.w3.org/2019/09/did-wg-charter.html#participation) and [Communications](https://www.w3.org/2019/09/did-wg-charter.html#communication) sections of its Charter, respectively.
 
 A WG member may participate in various ways including:
 
@@ -64,12 +64,13 @@ The consortium usually has an annual [“Technical Plenary and All Working Group
 
 For the minutes, resolutions, and consensus achieved at the f2f meetings the same [rules](#telco) as for teleconferences apply.
 
-### Meeting observers
-It is possible for people who are not members of the DID WG to attend meetings as observers. Non-members have not made any commitment to provide standard W3C royalty-free licensing, so non-members are restricted to observer status only.
+### Public participation
 
-Observers may listen, and participate in general discussions during the meeting. However, they must not make technical contributions, or attempt to influence an approach to a feature that may become part of the specification being discussed.
+It is possible for people who are not members of the DID WG to follow the Working Group's work by signing up to the group's public mailing list, read the mailing list archives, or watch the github issues. They can also raise issues on github and the Working Group is required to answer to those issues within a reasonable time. The chairs of the Working Group may also occasionally invite them for a teleconference to, e.g., discuss those issues. In the case of a specific contribution to the specification in the form of, e.g., a Pull Request, see the [separate text](https://github.com/w3c/did-wg/blob/master/CONTRIBUTING.md) for the modalities.
 
-If the attendee works for a W3C member company, they are encouraged to ask their Advisory Committee (AC) representative to make them a Web Platform WG participant. Alternatively, their AC representative can make a formal [royalty-free licensing commitment](https://www.w3.org/2004/01/pp-impl/{{ site.groupid }}/join). They can then fully participate in the meeting.
+It is also possible for people who are not members of the DID WG to attend face-to-face meetings as observers. Non-members have not made any commitment to provide standard W3C royalty-free licensing, so non-members are restricted to observer status only. Observers may listen, and participate in general discussions during the meeting. However, they must not make technical contributions, or attempt to influence an approach to a feature that may become part of the specification being discussed.
+
+If the public contributor, or the observer, works for a W3C member company, they are encouraged to ask their Advisory Committee (AC) representative to make them a DID WG participant.
 
 Please note that this is to provide as much protection as possible through the W3C Patent Policy. We take the royalty-free status of W3C standards very seriously, and any attempt to work-around these basic requirements would be considered a serious breach of meeting participation.
 
@@ -86,7 +87,7 @@ In line with the spirit of the asynchronous decision procedures outlined above, 
 
 #### Issue labels
 
-GitHub issues are also used as a records of wide reviews, of horizontal reviews, etc. The Working Group will define a number of labels (e.g., labeling an issue as part of the Horizontal Security review). Chairs, staff, and editors are responsible to set those labels accordingly. Similarly, when issues are waiting for external reviewers to react, labels will be used to signal the status of the issue. (See the [current set of labels](https://github.com/w3c/did-syntax/labels).)
+GitHub issues are also used as a records of wide reviews, of horizontal reviews, etc. The Working Group will define a number of labels (e.g., labeling an issue as part of the Horizontal Security review). Chairs, staff, and editors are responsible to set those labels accordingly. Similarly, when issues are waiting for external reviewers to react, labels will be used to signal the status of the issue. (See the [current set of labels](https://github.com/w3c/did-spec/labels).)
 
 ### Mailing lists (Policy, Usage, Etiquette, etc.)
 
