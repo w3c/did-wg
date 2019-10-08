@@ -38,8 +38,11 @@
         "name": "Pelle Braendgaard"
     },
     {
-        "nick": [],
-        "name": "Daniel Buchner"
+        "nick": [
+            "daniel"
+        ],
+        "name": "Daniel Buchner",
+        "github": "csuwildcat"
     },
     {
         "nick": [
@@ -113,7 +116,9 @@
         "github": "dezell"
     },
     {
-        "nick": [],
+        "nick": [
+            "jfishback"
+        ],
         "name": "James Fishback"
     },
     {
@@ -163,7 +168,9 @@
         "github": "iherman"
     },
     {
-        "nick": [],
+        "nick": [
+            "ahripak"
+        ],
         "name": "Alexander Hripak"
     },
     {
@@ -226,6 +233,10 @@
         "github": "grantnoble"
     },
     {
+        "nick": [],
+        "name": "`Jian Jin"
+    },
+    {
         "nick": [
         ],
         "name": "Steven Patterson"
@@ -255,7 +266,8 @@
     },
     {
         "nick": [
-            "peacekeeper"
+            "peacekeeper",
+            "markus_sabadello"
         ],
         "name": "Markus Sabadello",
         "github": "peacekeeper"
@@ -275,7 +287,9 @@
         "github": "michielschok"
     },
     {
-        "nick": [],
+        "nick": [
+            "sam_smith"
+        ],
         "name": "Samuel Smith"
     },
     {
