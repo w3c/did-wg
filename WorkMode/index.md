@@ -123,22 +123,29 @@ the same [rules](#telco) as for teleconferences apply.
 We encourage all WG members to take turns serving as scribe for meetings,
 and expect all WG members who are able to scribe to do so.
 
-### Meeting observers
-It is possible for people who are not members of the DID WG to attend
-meetings as observers. Non-members have not made any commitment to provide
-standard W3C royalty-free licensing, so non-members are restricted to
-observer status only.
+### Public participation
+It is possible for people who are not members of the DID WG to follow the
+Working Group's work by signing up to the group's public mailing list,
+read the mailing list archives, or watch the github issues. They can also
+raise issues on github and the Working Group is required to answer to those
+issues within a reasonable time. The chairs of the Working Group may also
+occasionally invite them for a teleconference to, e.g., discuss those issues.
+In the case of a specific contribution to the specification in the form of,
+e.g., a Pull Request, see the
+[separate text](https://github.com/w3c/did-wg/blob/master/CONTRIBUTING.md)
+for the modalities.
 
-Observers may listen, and participate in general discussions during the
-meeting. However, they must not make technical contributions, or attempt to
-influence an approach to a feature that may become part of the
-specification being discussed.
+It is also possible for people who are not members of the DID WG to attend
+face-to-face meetings as observers. Non-members have not made any commitment
+to provide standard W3C royalty-free licensing, so non-members are restricted
+to observer status only. Observers may listen, and participate in general
+discussions during the meeting. However, they must not make technical
+contributions, or attempt to influence an approach to a feature that may
+become part of the specification being discussed.
 
-If the attendee works for a W3C member company, they are encouraged to ask
-their Advisory Committee (AC) representative to make them a DID WG
-participant. Alternatively, their AC representative can make a formal
-[royalty-free licensing commitment](https://www.w3.org/2004/01/pp-impl/{{ site.groupid }}/join).
-They can then fully participate in the meeting.
+If the public contributor, or the observer, works for a W3C member company,
+they are encouraged to ask their Advisory Committee (AC) representative to
+make them a DID WG participant.
 
 Please note that this is to provide as much protection as possible through
 the W3C Patent Policy. We take the royalty-free status of W3C standards
@@ -179,7 +186,6 @@ week. If no objection is raised during that time the issue can be closed or
 the pull request can be merged, respectively.
 
 #### Issue labels
-
 GitHub issues are also used as a records of wide reviews, of horizontal
 reviews, etc. The Working Group will define a number of labels (e.g.,
 labeling an issue as part of the Horizontal Security review). Chairs,
