@@ -15,7 +15,7 @@ rules, but instead as informative of the overall direction of the group to
 promote consistency and usability of the resulting specifications. 
 
 This document is a *Living Document* and as such will change. Members of
-the group are encouraged to edit (e.g. to update, correct, etc.) the
+the group are encouraged to edit (e.g., to update, correct, etc.) the
 information. Comments about this document are welcome via issues and pull
 request on the [group’s “admin” repository](https://github.com/w3c/did-wg/)
 or via emails sent to the group’s
@@ -64,8 +64,8 @@ proposed form.
 
 **Notes**
 
-* Any independent organization, group or individual can be a supporter,
-    regardless of whether they are part of the Working Group, or members of
+* Any independent organization, group, or individual can be a supporter,
+    regardless of whether they are part of the Working Group, or a member of
     the W3C. Consortia or other standards organizations that represent many
     participants can thus fulfill this principle via their members.
 * This is orthogonal to implementations of the specifications, which are
@@ -73,7 +73,7 @@ proposed form.
 
 ## As simple as possible, but no simpler.
 
-A simpler solution (to understand, implement and use) is better than a more
+A solution that is simpler (to understand, implement, and use) is better than a more
 complex solution that accomplishes the same result.
 
 ## Consistency is simpler than exceptions.

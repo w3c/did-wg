@@ -17,7 +17,7 @@ contains additional information about how the group *really* works, so this
 information may be particularly useful to new members of the group.
 
 This document is a *Living Document* and as such will change. Members of
-the group are encouraged to edit (e.g. to update, correct, etc.) the
+the group are encouraged to edit (e.g., to update, correct, etc.) the
 information. Comments about this document are welcome via issues and pull
 requests on the [group’s “admin” repository](https://github.com/w3c/did-wg/)
 or via emails sent to the group’s [`public-did-wg@w3.org`](mailto:public-did-wg@w3.org)
@@ -56,7 +56,7 @@ A WG member is added to the group’s lists `public-did-wg@w3.org` and
 more details. Other mailing lists may be set up for task forces or other
 sub-committees; signing up to those list must be done manually.
 
-Participation from the Public (i.e., non group members), via our Public
+Participation from the Public (i.e., non group members) via our Public
 e-mail lists is also welcome, provided comments, contributions, etc., are
 consistent with the [W3C Patent Policy](https://www.w3.org/TR/patent-policy/).
 
