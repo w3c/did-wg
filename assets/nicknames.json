@@ -174,6 +174,10 @@
         "name": "Alexander Hripak"
     },
     {
+        "nick": [],
+        "name": "Yue Jing"
+    },
+    {
         "nick": [
             "selfissued"
         ],
@@ -352,6 +356,10 @@
         ],
         "name": "Dmitri Zagidulin",
         "github": "dmitrizagidulin"
+    },
+    {
+        "nick": [],
+        "name": "Yi Lin Zhang"
     },
     {
         "nick": [
