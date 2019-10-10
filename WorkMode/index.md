@@ -140,7 +140,7 @@ face-to-face meetings as observers. Non-members have not made any commitment
 to provide standard W3C royalty-free licensing, so non-members are restricted
 to observer status only. Observers may listen, and participate in general
 discussions during the meeting. However, they must not make technical
-contributions, or attempt to influence an approach to a feature that may
+contributions, nor attempt to influence an approach, to a feature that may
 become part of the specification being discussed.
 
 If the public contributor, or the observer, works for a W3C member company,
