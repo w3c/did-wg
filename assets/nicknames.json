@@ -174,8 +174,11 @@
         "name": "Alexander Hripak"
     },
     {
-        "nick": [],
-        "name": "Yue Jing"
+        "nick": [
+            "Yue"
+        ],
+        "name": "Yue Jing",
+        "github": "YueJing95"
     },
     {
         "nick": [
