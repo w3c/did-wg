@@ -16,10 +16,11 @@
     },
     {
         "nick": [
-            "ganesh",
-            "gannan"
+            "gannan",
+            "ganeshannan"
         ],
-        "name": "Ganesh Annan"
+        "name": "Ganesh Annan",
+        "github": "gannan08"
     },
     {
         "nick": [
@@ -37,8 +38,11 @@
         "name": "Pelle Braendgaard"
     },
     {
-        "nick": [],
-        "name": "Daniel Buchner"
+        "nick": [
+            "daniel"
+        ],
+        "name": "Daniel Buchner",
+        "github": "csuwildcat"
     },
     {
         "nick": [
@@ -85,6 +89,10 @@
         "name": "Pamela Dingle"
     },
     {
+        "nick": [],
+        "name": "Kyle Den Hartog"
+    },
+    {
         "nick": [
             "kimhd"
         ],
@@ -108,7 +116,9 @@
         "github": "dezell"
     },
     {
-        "nick": [],
+        "nick": [
+            "jfishback"
+        ],
         "name": "James Fishback"
     },
     {
@@ -156,6 +166,16 @@
         ],
         "name": "Ivan Herman",
         "github": "iherman"
+    },
+    {
+        "nick": [
+            "ahripak"
+        ],
+        "name": "Alexander Hripak"
+    },
+    {
+        "nick": [],
+        "name": "Yue Jing"
     },
     {
         "nick": [
@@ -217,10 +237,17 @@
         "github": "grantnoble"
     },
     {
+        "nick": [],
+        "name": "`Jian Jin"
+    },
+    {
         "nick": [
-
         ],
         "name": "Steven Patterson"
+    },
+    {
+        "nick": [],
+        "name": "Sapkal Ravi"
     },
     {
         "nick": [
@@ -243,7 +270,8 @@
     },
     {
         "nick": [
-            "peacekeeper"
+            "peacekeeper",
+            "markus_sabadello"
         ],
         "name": "Markus Sabadello",
         "github": "peacekeeper"
@@ -263,7 +291,9 @@
         "github": "michielschok"
     },
     {
-        "nick": [],
+        "nick": [
+            "sam_smith"
+        ],
         "name": "Samuel Smith"
     },
     {
@@ -290,9 +320,15 @@
     },
     {
         "nick": [
-            "TallTed"
+            "TallTed",
+            "MacTed"
         ],
-        "name": "Ted Thibodeau"
+        "name": "Ted Thibodeau Jr",
+        "github": "TallTed"
+    },
+    {
+        "nick": [],
+        "name": "Paul Tinson"
     },
     {
         "nick": [
@@ -322,10 +358,15 @@
         "github": "dmitrizagidulin"
     },
     {
+        "nick": [],
+        "name": "Yi Lin Zhang"
+    },
+    {
         "nick": [
             "brent",
             "brentzundel",
-            "brentz"
+            "brentz",
+            "zundel"
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"

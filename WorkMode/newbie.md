@@ -37,7 +37,7 @@ may be of help.)
 
 Once you have your GitHub account name, **send this name to ivan@w3.org, or
 to one of the chairs**, who will add you to the Working Group’s “GitHub
-team” (in GitHub‘s jargon). That would give you the possibility of being
+team” (in GitHub‘s jargon). That would enable you to be
 asked personally to review or be assigned to issues, or to edit the wiki
 pages.
 
@@ -55,11 +55,11 @@ properly handled by virtue of your institution’s Working Group membership.
 
 Meetings usually use [IRC](index#irc) as a tool for queue control and
 minute taking (and general chit-chat). **You should also send ivan@w3.org
-your preferred IRC nickname (or nicknames, if you use several of those).**
+your preferred IRC nickname(s).**
 The goal is to improve the readability of the meeting minutes, so that
 third parties can also understand whose comments and remarks are in the
-minutes. Actually, in case you are already a seasoned GitHub user: the
-nicknames are stored (of course:-) in a
+minutes. If you are already a seasoned GitHub user: the
+IRC and GitHub nicknames are stored (of course :-) ) in a
 [file on GitHub](https://github.com/w3c/did-wg/blob/master/assets/nicknames.json),
 meaning that you can simply make a pull request adding your nickname(s)
 instead of sending an e-mail.
@@ -86,11 +86,11 @@ teleconference meeting.
 
 Please contact the group's Chairs and staff contacts (using the
 [group-did-wg-chairs@w3.org](mailto:group-did-wg-chairs@w3.org) list) — *at
-any time* — if you have any questions, issues, concerns, etc. about the
+any time* — if you have any questions, issues, concerns, etc., about the
 Working Group.
 
 ## Resources
 
 If you are unfamiliar with processes and roles within the Consortium; there
 is an [introduction course](http://lists.w3.org/Archives/Public/www-archive/2014Apr/0026.html)
-available which takes little over an hour and a half to complete.
+available which typically takes about 90 minutes to complete.

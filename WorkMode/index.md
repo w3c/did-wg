@@ -17,7 +17,7 @@ contains additional information about how the group *really* works, so this
 information may be particularly useful to new members of the group.
 
 This document is a *Living Document* and as such will change. Members of
-the group are encouraged to edit (e.g. to update, correct, etc.) the
+the group are encouraged to edit (e.g., to update, correct, etc.) the
 information. Comments about this document are welcome via issues and pull
 requests on the [group’s “admin” repository](https://github.com/w3c/did-wg/)
 or via emails sent to the group’s [`public-did-wg@w3.org`](mailto:public-did-wg@w3.org)
@@ -56,7 +56,7 @@ A WG member is added to the group’s lists `public-did-wg@w3.org` and
 more details. Other mailing lists may be set up for task forces or other
 sub-committees; signing up to those list must be done manually.
 
-Participation from the Public (i.e., non group members), via our Public
+Participation from the Public (i.e., non group members) via our Public
 e-mail lists is also welcome, provided comments, contributions, etc., are
 consistent with the [W3C Patent Policy](https://www.w3.org/TR/patent-policy/).
 
@@ -88,7 +88,7 @@ The charter also states that:
 >
 > A call for consensus (CfC) will be issued for all resolutions (for
     example, via email and/or web-based survey), with a response period
-    from one week to 10 working days, depending on the chair's evaluation
+    from 5 to 10 working days, depending on the chair's evaluation
     of the group consensus on the issue.
 >
 > If no objections are raised on the mailing list by the end of the
@@ -115,33 +115,40 @@ face-to-face meeting week (a.k.a “TPAC”) and this group typically has a f2f
 meeting during that week. The dates/locations are generally known a year or
 more in advance.
 
-For the minutes, resolutions, and consensus achieved at the f2f meetings
+For the minutes, resolutions, and consensus achieved at the f2f meetings,
 the same [rules](#telco) as for teleconferences apply.
 
 #### Scribing
 We encourage all WG members to take turns serving as scribe for meetings,
 and expect all WG members who are able to scribe to do so.
 
-### Meeting observers
-It is possible for people who are not members of the DID WG to attend
-meetings as observers. Non-members have not made any commitment to provide
-standard W3C royalty-free licensing, so non-members are restricted to
-observer status only.
+### Public participation
+It is possible for people who are not members of the DID WG to follow the
+Working Group's work by signing up to the group's public mailing list,
+reading the mailing list archives, or watching the github issues. They can also
+raise issues on github, which the Working Group is required to answer
+within a reasonable time. The chairs of the Working Group may also
+occasionally invite them for a teleconference to, e.g., discuss those issues.
+In the case of a specific contribution to the specification in the form of,
+e.g., a Pull Request, see the
+[separate text](https://github.com/w3c/did-wg/blob/master/CONTRIBUTING.md)
+for the modalities.
 
-Observers may listen, and participate in general discussions during the
-meeting. However, they must not make technical contributions, or attempt to
-influence an approach to a feature that may become part of the
-specification being discussed.
+It is also possible for people who are not members of the DID WG to attend
+face-to-face meetings as observers. Non-members have not made any commitment
+to provide standard W3C royalty-free licensing, so non-members are restricted
+to observer status only. Observers may listen, and participate in general
+discussions during the meeting. However, they must not make technical
+contributions, nor attempt to influence an approach, to a feature that may
+become part of the specification being discussed.
 
-If the attendee works for a W3C member company, they are encouraged to ask
-their Advisory Committee (AC) representative to make them a DID WG
-participant. Alternatively, their AC representative can make a formal
-[royalty-free licensing commitment](https://www.w3.org/2004/01/pp-impl/{{ site.groupid }}/join).
-They can then fully participate in the meeting.
+If the public contributor, or the observer, works for a W3C member company,
+they are encouraged to ask their Advisory Committee (AC) representative to
+make them a DID WG participant.
 
 Please note that this is to provide as much protection as possible through
 the W3C Patent Policy. We take the royalty-free status of W3C standards
-very seriously, and any attempt to work-around these basic requirements
+very seriously, and any attempt to work around these basic requirements
 would be considered a serious breach of meeting participation.
 
 ### GitHub
@@ -164,8 +171,8 @@ Other members of the group are encouraged to use the
 when contributing to the text: work on a forked repository and issue a pull
 request on the main repository for that document when the contribution is
 ready. Editors should use the pull request mechanism (except for obvious,
-grammatical or stylistic changes), albeit they can choose to do that
-directly on the core repository.
+grammatical, or stylistic changes), albeit they can choose to do that
+directly on the core repository (i.e., without creating a distinct fork).
 
 (If you are new to GitHub, the
 [*“Introduction to Basic GitHub Contribution”*](https://iherman.github.io/misc-notes/docs/BasicGitHubContributionIntro)
@@ -174,12 +181,11 @@ may be of help.)
 In line with the spirit of the asynchronous decision procedures outlined
 above, significant pull requests, as well as the closure of open issues,
 should be marked with a special label (to be defined) and left open for a
-week. If no objection is raised during that time the issue can be closed or
+week. If no objection is raised during that time, the issue can be closed or
 the pull request can be merged, respectively.
 
 #### Issue labels
-
-GitHub issues are also used as a records of wide reviews, of horizontal
+GitHub issues are also used as a record of wide reviews, of horizontal
 reviews, etc. The Working Group will define a number of labels (e.g.,
 labeling an issue as part of the Horizontal Security review). Chairs,
 staff, and editors are responsible to set those labels accordingly.
@@ -246,7 +252,7 @@ status.
 
 The [Charter](https://www.w3.org{{ site.charter }}) and the
 [W3C Process Document](https://www.w3.org/Consortium/Process/) are the
-final arbiters of any process question, however the Working Group has
+final arbiters of any process question; however, the Working Group has
 adopted some complimentary, additional processes to aid in its productivity.
 
 * Adoption of [guiding technical principles](guiding_principles) towards
@@ -261,7 +267,7 @@ adopted some complimentary, additional processes to aid in its productivity.
     * Any decision to merge may be challenged during a 48-hour window
         following the decision.
 * It is encouraged that any Pull Request which changes the normative text
-    of the [DID Specification](https://github.com/w3c/did-spec) will be
+    of the [DID Specification](https://github.com/w3c/did-spec) be
     accompanied by an equivalent Pull Request which changes the appropriate
     tests in the [Test Suite](https://github.com/w3c/did-test-suite).
     
