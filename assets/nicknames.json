@@ -38,6 +38,10 @@
         "name": "Pelle Braendgaard"
     },
     {
+        "nick": [],
+        "name": "Chris Buchanan"
+    },
+    {
         "nick": [
             "daniel"
         ],
@@ -52,6 +56,10 @@
         ],
         "name": "Daniel Burnett",
         "github": "burnburn"
+    },
+    {
+        "nick": [],
+        "name": "Alex Cai"
     },
     {
         "nick": [],
