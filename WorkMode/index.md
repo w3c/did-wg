@@ -79,8 +79,7 @@ meeting and its agenda are announced **at least 24 hours** before the
 meeting begins. Minutes are taken for every meeting and are automatically
 published after the meeting in a provisional format. A more readable,
 cleaned-up format is published usually within 24 hours after the meeting
-ends. These minutes are considered as “Drafts” until they are approved at
-the next teleconference when they become official.
+ends. 
 
 The charter also states that:
 
@@ -96,10 +95,10 @@ The charter also states that:
     response period, the resolution will be considered to have obtained
     consensus as a resolution of the Working Group.
 
-By default, publication of the draft meeting minutes is considered as a
-call for consensus for any formal resolution therein. However, depending
-on the assessment and the importance of a specific resolution at hand, the
-chairs may issue an more explicit CfC by email when the issue requires more
+By default, publication of the meeting minutes is considered as a call for
+consensus for any formal resolution therein. However, depending on the
+assessment and the importance of a specific resolution at hand, the chairs
+may issue an more explicit CfC by email when the issue requires more
 details and explanations.
 
 #### Face-to-face meetings
