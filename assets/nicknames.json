@@ -220,7 +220,8 @@
     },
     {
         "nick": [
-            "mikelodder7"
+            "mikelodder7",
+            "mike-lodder"
         ],
         "name": "Michael Lodder",
         "github": "mikelodder7"
@@ -278,7 +279,10 @@
         "name": "Yancy Ribbens"
     },
     {
-        "nick": [],
+        "nick": [
+            "justing",
+            "Justin_R"
+        ],
         "name": "Justin Richer"
     },
     {
@@ -311,7 +315,8 @@
     },
     {
         "nick": [
-            "sam_smith"
+            "sam_smith",
+            "samsmith"
         ],
         "name": "Samuel Smith"
     },
@@ -323,7 +328,7 @@
         "github": "msporny"
     },
     {
-        "nick": [],
+        "nick": ["orie"],
         "name": "Orie Steele"
     },
     {
