@@ -329,7 +329,8 @@
     },
     {
         "nick": ["orie"],
-        "name": "Orie Steele"
+        "name": "Orie Steele",
+        "github": "OR13"
     },
     {
         "nick": [],
@@ -364,6 +365,10 @@
     {
         "nick": [],
         "name": "Mike Varley"
+    },
+    {
+        "nick": [],
+        "name": "Chris Winczewski"
     },
     {
         "nick": [
