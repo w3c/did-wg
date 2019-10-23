@@ -97,7 +97,7 @@
         "name": "Pamela Dingle"
     },
     {
-        "nick": [],
+        "nick": ["kdenhartog", "kyle_denhartog"],
         "name": "Kyle Den Hartog"
     },
     {
@@ -190,7 +190,8 @@
     },
     {
         "nick": [
-            "selfissued"
+            "selfissued",
+            "mike_jones"
         ],
         "name": "Michael Jones",
         "github": "selfissued"
