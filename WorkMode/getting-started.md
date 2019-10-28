@@ -4,8 +4,8 @@ layout: default
 # Welcome to the DID Working Group
 {: .no_toc}
 
-This document includes some information for new members ("*Newbies*") of
-the DID Working Group (DID WG).
+This document includes some information for new members of the DID Working
+Group (DID WG).
 
 Members of the WG, **especially new members** are encouraged to help
 maintain this document.
