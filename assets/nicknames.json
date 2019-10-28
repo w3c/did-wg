@@ -98,7 +98,8 @@
     },
     {
         "nick": ["kdenhartog", "kyle_denhartog"],
-        "name": "Kyle Den Hartog"
+        "name": "Kyle Den Hartog",
+        "github": "kdenhartog"
     },
     {
         "nick": [
@@ -316,6 +317,14 @@
     },
     {
         "nick": [
+            "azaroth",
+            "azaroth42"
+        ],
+        "name": "Rob Sanderson",
+        "github": "azaroth42"
+    },
+    {
+        "nick": [
             "sam_smith",
             "samsmith"
         ],
@@ -366,6 +375,10 @@
     {
         "nick": [],
         "name": "Mike Varley"
+    },
+    {
+        "nick": [],
+        "name": "Xing Wei"
     },
     {
         "nick": [],
