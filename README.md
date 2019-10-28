@@ -22,6 +22,16 @@ Editorial changes that improve the readability of the spec or correct spelling o
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
+### DID Working Group Repositories
+
+* [W3C Decentralized Identifier Specification v1.0](https://github.com/w3c/did-core)
+* [Home page of the Decentralized Identifier Working Group](https://github.com/w3c/did-wg)
+* [Specs and documentation for all DID-related /.well-known resources](https://github.com/decentralized-identity/.well-known)
+* [W3C Decentralized Characteristics Rubric v1.0](https://github.com/w3c/did-rubric)
+* [Decentralized Identifier Use Cases v1.0](https://github.com/w3c/did-use-cases)
+* [W3C DID Test Suite and Implementation Report](https://github.com/w3c/did-test-suite)
+
+
 ## Meetings
 
 Our kickoff meeting will be September 16-17, 2019, at [TPAC](https://www.w3.org/2019/09/TPAC/Overview.html).
