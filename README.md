@@ -34,8 +34,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md), about licensing contributions.
 
 ## Meetings
 
-Our kickoff meeting will be September 16-17, 2019, at [TPAC](https://www.w3.org/2019/09/TPAC/Overview.html).
-Details for participation are located on our [meeting page](Meetings/F2F/2019.09.Fuk.md).
+See [separate page](https://www.w3.org/2019/did-wg/Meetings/) for information on meetings.
+
 
 ## Tools
 
