@@ -60,12 +60,13 @@ Participation from the Public (i.e., non group members) via our Public
 e-mail lists is also welcome, provided comments, contributions, etc., are
 consistent with the [W3C Patent Policy](https://www.w3.org/TR/patent-policy/).
 
-### Information for “Newbies” — New Group Members
+### Information for New Group Members
 
 *New members of the group are strongly encouraged to read the group’s
-[Newbie](newbie) document which includes links to important resources.* New
-members are also encouraged to send a short introductory e-mail to the
-group's [primary mail list](https://lists.w3.org/Archives/Public/public-did-wg/).
+[Getting Started](getting-started) document which includes links to 
+important resources.* New members are also encouraged to send a short
+introductory e-mail to the group's 
+[public mailing list](https://lists.w3.org/Archives/Public/public-did-wg/).
 
 ## Communications
 
