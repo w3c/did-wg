@@ -9,7 +9,7 @@ layout: default
 
 | Document | Latest official release | Editors’ Draft | Repository |
 |----------|:-----------------------:|:--------------:|:----------:|
-| DID Identifiers v1.0| t.b.d. | [ed](https://w3c.github.io/did-spec/) | [github rep](https://github.com/w3c/did-spec) |
+| DID Identifiers v1.0| [did-core](https://www.w3.org/TR/did-core/) | [ed](https://w3c.github.io/did-spec/) | [github rep](https://github.com/w3c/did-spec) |
 | DID Use Cases and Requirements<sup>†<sup>   | t.b.d. | [ed](https://w3c.github.io/did-use-cases/) | [github rep](https://github.com/w3c/did-use-cases) |
 | Decentralized Characteristics Rubric<sup>†<sup>  | t.b.d. | [ed](https://w3c.github.io/did-rubric/) | [github rep](https://github.com/w3c/did-rubric) |
 {: .zebra}
