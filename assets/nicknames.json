@@ -43,7 +43,8 @@
     },
     {
         "nick": [
-            "daniel"
+            "daniel",
+            "danielb"
         ],
         "name": "Daniel Buchner",
         "github": "csuwildcat"
@@ -101,7 +102,7 @@
         "name": "Pamela Dingle"
     },
     {
-        "nick": ["kdenhartog", "kyle_denhartog"],
+        "nick": ["kdenhartog", "kyle_denhartog", "kyle"],
         "name": "Kyle Den Hartog",
         "github": "kdenhartog"
     },
@@ -188,7 +189,7 @@
     },
     {
         "nick": [
-            "jonnycrunch"
+            "jonnycrunch", "jonathan_holt"
         ],
         "name": "Jonathan Holt",
         "github": "jonnycrunch"
@@ -317,7 +318,8 @@
     {
         "nick": [
             "peacekeeper",
-            "markus_sabadello"
+            "markus_sabadello",
+            "markus"
         ],
         "name": "Markus Sabadello",
         "github": "peacekeeper"
