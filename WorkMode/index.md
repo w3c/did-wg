@@ -185,43 +185,10 @@ should be marked with a special label (to be defined) and left open for a
 week. If no objection is raised during that time, the issue can be closed or
 the pull request can be merged, respectively.
 
-The recommended way to interact with a DID WG github repository is to:
-1. Create a fork of the repository under your own github account.
-   1. When you have done this, you will have access to two versions of the
-   DID WG repository: 
-      1. the primary repo, 
-      1. and your online fork.
-1. Then you would clone the primary repo. This creates a local version of
-the repo that resides on your computer.
-1. Once you have a local version, you should set up the primary and forked
-repos as remote links.
-1. These three versions of the repository enable you to follow the standard
-git workflow:
-   1. The primary repo is used to pull remote changes down to your local
-   repo. This is done to keep the local repo up to date.
-   1. The local repo is used to make your changes.
-   1. Your local changes can then be pushed (along with the updates from
-   the primary repo) to your online fork.
-   1. Once your changes are ready to be considered for the primary repo,
-   you submit a pull request from your online fork to the primary repo.
-   1. After discussion, your pull request may be merged into the primary
-   repo.
-1. This standard git workflow can be enhanced through the use of branches
-on your local and online forks.
-1. Collaborating with others using the standard workflow is also possible:
-   1. Create a branch on your local repo where the changes will be made
-   1. Push this branch to your online fork.
-   1. Collaborators add your online fork as a remote to their local repo.
-   1. They can then:
-      1. pull down changes from your online branch to their local repo
-      1. Add their contributions to their local repo.
-      1. push changes they make to their online fork (of the primary repo)
-      1. submit a pull request from their online fork to your online fork
-
-To summarize the recommended git workflow:
-1. Pull from the primary repo to your local copy.
-1. Push local changes to your online fork.
-1. Submit a pull request from your online fork to the primary repo.
+The recommended way to interact with a DID WG github repository is to
+follow the [standard github flow](https://guides.github.com/introduction/flow/).
+We strongly encourage members to use
+[their own fork of the WG repo](https://guides.github.com/activities/forking/).
 
 #### Issue labels
 GitHub issues are also used as a record of wide reviews, of horizontal
