@@ -69,6 +69,10 @@
         "name": "Wayne Chang"
     },
     {
+        "nick": [],
+        "name": "Nick Clark"
+    },
+    {
         "nick": [
             "collier-matthew",
             "collier"
@@ -347,6 +351,13 @@
         ],
         "name": "Rob Sanderson",
         "github": "azaroth42"
+    },
+    {
+        "nick": [
+            "tzviya"
+        ],
+        "name": "Tzviya Siegman",
+        "github": "TzviyaSiegman"
     },
     {
         "nick": [
