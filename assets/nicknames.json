@@ -260,6 +260,13 @@
         "github": "dlongley"
     },
     {
+        "nick": [
+            "tplooker"
+        ],
+        "name": "Tobias Looker",
+        "github": "tplooker"
+    },
+    {
         "nick": [],
         "name": "Christian Lundkvist"
     },
@@ -285,7 +292,7 @@
     },
     {
         "nick": [],
-        "name": "`Jian Jin"
+        "name": "Jian Jin"
     },
     {
         "nick": [
@@ -423,6 +430,10 @@
         "name": "Chris Winczewski"
     },
     {
+        "nick": [],
+        "name": "Peter Winstanley"
+    },
+    {
         "nick": [
             "bigbluehat",
             "benjamin",
@@ -455,12 +466,5 @@
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"
-    },
-    {
-        "nick": [
-            "tplooker"
-        ],
-        "name": "Tobias Looker",
-        "github": "tplooker"
     }
 ]
