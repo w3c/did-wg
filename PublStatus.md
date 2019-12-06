@@ -24,12 +24,12 @@ The Editors’ drafts are managed in GitHub repositories; the list of those repo
 ## Major planned milestones (from the charter)
 
 * DID Identifiers v1.0:
-    * First Public Working Draft (FPWD): November 2019
+    * First Public Working Draft (FPWD): November 2019 (✓)
     * Candidate Recommendation (CR): November 2020
     * Proposed Recommendation (PR): July 2021
     * Recommendation (REC): August 2021.
 * Decentralized Identifier Use Cases & Requirements (Note):
-    * First Public Working Draft (FPWD): November 2019
+    * First Public Working Draft (FPWD): November 2019 (✓)
     * Note: August 2021.
 * Decentralized Characteristics Rubric (Note):
     * First Public Working Draft (FPWD): December 2019
