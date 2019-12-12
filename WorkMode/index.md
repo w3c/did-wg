@@ -185,6 +185,11 @@ should be marked with a special label (to be defined) and left open for a
 week. If no objection is raised during that time, the issue can be closed or
 the pull request can be merged, respectively.
 
+The recommended way to interact with a DID WG github repository is to
+follow the [standard github flow](https://guides.github.com/introduction/flow/).
+We strongly encourage members to use
+[their own fork of the WG repo](https://guides.github.com/activities/forking/).
+
 #### Issue labels
 GitHub issues are also used as a record of wide reviews, of horizontal
 reviews, etc. The Working Group will define a number of labels (e.g.,
