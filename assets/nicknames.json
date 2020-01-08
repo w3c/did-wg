@@ -3,7 +3,9 @@
         "nick": [
             "adamski",
             "Irene",
-            "Irene_Jolocom" 
+            "Irene_Jolocom",
+            "Irene__Jolocom"
+
         ],
         "name": "Irene Adamski"
     },
@@ -74,7 +76,7 @@
         "name": "Alex Cai"
     },
     {
-        "nick": [],
+        "nick": ["wayne"],
         "name": "Wayne Chang"
     },
     {
@@ -223,6 +225,12 @@
         ],
         "name": "Michael Jones",
         "github": "selfissued"
+    },
+    {
+        "nick" : [
+            "sumita"
+        ],
+        "name": "Sumita T. Jonak"
     },
     {
         "nick": [],
@@ -474,5 +482,9 @@
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"
+    },
+    {
+        "nick" : ["identitywoman"],
+        "name": "Kaliya Young"
     }
 ]
