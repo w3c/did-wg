@@ -57,7 +57,8 @@
     {
         "nick": [
             "daniel",
-            "danielb"
+            "danielb",
+            "dpubc"
         ],
         "name": "Daniel Buchner",
         "github": "csuwildcat"
@@ -335,7 +336,8 @@
     {
         "nick": [
             "justin",
-            "Justin_R"
+            "Justin_R",
+            "jrichter"
         ],
         "name": "Justin Richer"
     },
@@ -344,6 +346,13 @@
             "troyronda"
         ],
         "name": "Troy Ronda"
+    },
+    {
+        "nick": [
+            "Eugeniu_Jolocom",
+            "Eugeniu__Jolocom"
+        ],
+        "name": "Eugeniu Rusu"
     },
     {
         "nick": [
@@ -486,5 +495,9 @@
     {
         "nick" : ["identitywoman"],
         "name": "Kaliya Young"
+    },
+    {
+        "nick" : ["Tom_S_USAA"],
+        "name" : "Tom S."
     }
 ]
