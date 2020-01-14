@@ -408,7 +408,10 @@
         "github": "msporny"
     },
     {
-        "nick": ["orie"],
+        "nick": [
+            "orie",
+            "Orie__Transmute"
+        ],
         "name": "Orie Steele",
         "github": "OR13"
     },
