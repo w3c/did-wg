@@ -500,7 +500,10 @@
         "github": "brentzundel"
     },
     {
-        "nick" : ["identitywoman"],
+        "nick" : [
+            "identitywoman",
+            "identity_woman"
+        ],
         "name": "Kaliya Young"
     },
     {
