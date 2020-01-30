@@ -223,6 +223,7 @@
     {
         "nick": [
             "selfissued",
+            "self-issued",
             "mike_jones"
         ],
         "name": "Michael Jones",
@@ -279,7 +280,8 @@
     },
     {
         "nick": [
-            "tplooker"
+            "tplooker",
+            "tobias"
         ],
         "name": "Tobias Looker",
         "github": "tplooker"
@@ -351,7 +353,8 @@
     {
         "nick": [
             "Eugeniu_Jolocom",
-            "Eugeniu__Jolocom"
+            "Eugeniu__Jolocom",
+            "Eugeniu_Rusu"
         ],
         "name": "Eugeniu Rusu"
     },
