@@ -406,6 +406,14 @@
         "github": "michielschok"
     },
     {
+        "nick" : [
+            "Tom_S_USAA",
+            "Tom_S__USAA",
+            "Tom_S__USAA_"
+        ],
+        "name" : "Thomas Schwarz"
+    },
+    {
         "nick": [
             "azaroth",
             "azaroth42"
@@ -535,11 +543,7 @@
         ],
         "name": "Kaliya Young"
     },
-    {
-        "nick" : ["Tom_S_USAA"],
-        "name" : "Tom S."
-    },
-    {
+     {
         "nick": ["nicole"],
         "name": "Yuwen Zhang"
     }
