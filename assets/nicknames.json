@@ -42,6 +42,10 @@
     },
     {
         "nick": [],
+        "name": "Dirk Balfanz"
+    },
+    {
+        "nick": [],
         "name": "Dmitry Barinov"
     },
     {
@@ -322,6 +326,14 @@
         "name": "Jian Jin"
     },
     {
+        "nick": [],
+        "name": "Margo Johnson"
+    },
+    {
+        "nick": [],
+        "name": "Duy-Tung Luu"
+    },
+    {
         "nick": [
         ],
         "name": "Steven Patterson"
@@ -468,6 +480,10 @@
     {
         "nick": [],
         "name": "Xing Wei"
+    },
+    {
+        "nick": [],
+        "name": "Clément Warnier"
     },
     {
         "nick": ["chriswinc"],
