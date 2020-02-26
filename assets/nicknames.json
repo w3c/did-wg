@@ -160,6 +160,10 @@
     },
     {
         "nick": [],
+        "name": "Likun Gao"
+    },
+    {
+        "nick": [],
         "name": "Helen Garneau"
     },
     {
@@ -268,6 +272,12 @@
     {
         "nick": [],
         "name": "Haihua Li"
+    },
+    {
+        "nick": [
+            "jingxuan"
+        ],
+        "name": "Jingxuan Li"
     },
     {
         "nick": [
@@ -502,6 +512,10 @@
         "name": "Peter Winstanley"
     },
     {
+        "nick": [],
+        "name": "Xiaoyu You"
+    },
+    {
         "nick": [
             "bigbluehat",
             "benjamin",
@@ -523,7 +537,19 @@
     },
     {
         "nick": [],
+        "name": "Yurong Li"
+    },
+    {
+        "nick": [],
         "name": "Yuwen Zhang"
+    },
+    {
+        "nick": [],
+        "name": "Bo Zhang"
+    },
+    {
+        "nick": [],
+        "name": "Siyu Zhu"
     },
     {
         "nick": [
