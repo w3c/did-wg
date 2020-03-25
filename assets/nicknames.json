@@ -125,7 +125,11 @@
         "name": "Pamela Dingle"
     },
     {
-        "nick": ["kdenhartog", "kyle_denhartog", "kyle"],
+        "nick": [
+            "kdenhartog",
+            "kyle_denhartog",
+            "kyle"
+        ],
         "name": "Kyle Den Hartog",
         "github": "kdenhartog"
     },
@@ -239,7 +243,8 @@
         "nick": [
             "selfissued",
             "self-issued",
-            "mike_jones"
+            "mike_jones",
+            "MikeJones"
         ],
         "name": "Michael Jones",
         "github": "selfissued"
@@ -313,13 +318,16 @@
     },
     {
         "nick": [
-            "madsen"
+            "madsen", 
+            "PaulMadsen"
         ],
         "name": "Paul Madsen"
     },
     {
         "nick": [
-            "brett"
+            "brett",
+            "BrettM",
+            "BrettMcDowell"
         ],
         "name": "Brett McDowell"
     },
