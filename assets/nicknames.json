@@ -81,6 +81,14 @@
         "name": "Alex Cai"
     },
     {
+        "nick": [
+            "timcappalli",
+            "tim"
+        ],
+        "name": "Tim Cappalli",
+        "github": "timcappalli"
+    },
+    {
         "nick": ["wayne"],
         "name": "Wayne Chang"
     },
