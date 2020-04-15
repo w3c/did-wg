@@ -11,7 +11,7 @@ layout: default
 ## Teleconferences
 
 
-The weekly teleconferences on Tuesdays at various times to allow for all geographical areas to participate on calls at least 1-2 times. See the (member only) [notification](https://lists.w3.org/Archives/Member/member-did-wg/2020Feb/0000.html) for the details. See the [separate page](./webex) for further information on the WebEx bridge.
+The weekly teleconferences on Tuesdays at various times to allow for all geographical areas to participate on calls at least 1-2 times. See the (member only) [notification](https://lists.w3.org/Archives/Member/member-did-wg/2020Apr/0007.html) for the details. See the [separate page](./zoom) for further information on the Zoom bridge.
 
 The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#did` channel, and makes use of two bots on IRC:
 
