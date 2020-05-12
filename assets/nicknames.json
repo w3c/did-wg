@@ -216,7 +216,9 @@
         "github": "dhh1128"
     },
     {
-        "nick": [],
+        "nick": [
+            "rouven"
+        ],
         "name": "Rouven Heck"
     },
     {
@@ -502,6 +504,12 @@
         ],
         "name": "Orie Steele",
         "github": "OR13"
+    },
+    {
+        "nick" : [
+            "nicholas"
+        ],
+        "name": "Nicholas Steele"
     },
     {
         "nick": [],
