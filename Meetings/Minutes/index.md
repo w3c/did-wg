@@ -17,8 +17,12 @@ layout: default
 
 <ul>
 {% for item in year.items reversed %}
-  <li>{{ item.date | date: '%d %B' }}:
-    <a href="{{ site.baseurl }}{{ item.url }}">Telco or F2F Minutes</a>
+  <li>
+    {% if item.url contains "did-topic" %}
+        <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+    {% else %}
+        <a href="{{ site.baseurl }}{{ item.url }}"><em>{{ item.title }}</em></a>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
