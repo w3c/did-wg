@@ -13,5 +13,5 @@ The group uses MIT’s Zoom Account for the calls.
 
 ## Teleconference Logistics
 
-* Zoom can be used via dial-in as well as from a Web Browser or an app via a meeting ID or a URL. See [our announcement](https://lists.w3.org/Archives/Member/member-did-wg/2020Apr/0006.html) for further details on the dial numbers and the call. (This is a member-only link!).
+* Zoom can be used via dial-in as well as from a Web Browser or an app via a meeting ID or a URL. See [our announcement](https://lists.w3.org/Archives/Member/member-did-wg/2020Jun/0000.html) for further details on the dial numbers and the call. (This is a member-only link!).
 * Further information on Zoom are available on the [W3C zoom page](https://www.w3.org/Guide/meetings/zoom.html).
