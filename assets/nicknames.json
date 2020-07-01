@@ -41,7 +41,9 @@
         "github": "philarcher"
     },
     {
-        "nick": [],
+        "nick": [
+            "dirk"
+        ],
         "name": "Dirk Balfanz"
     },
     {
@@ -104,7 +106,7 @@
         "name": "Matthew Collier"
     },
     {
-        "nick": ["charles", "charlescunningham"],
+        "nick": ["charles", "charlescunningham", "ch"],
         "name": "Charles Cunningham"
     },
     {
