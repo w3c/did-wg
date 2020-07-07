@@ -338,7 +338,7 @@
     },
     {
         "nick": [
-            "madsen", 
+            "madsen",
             "PaulMadsen"
         ],
         "name": "Paul Madsen"
@@ -479,7 +479,7 @@
     },
     {
         "nick": [
-            "tzviya", 
+            "tzviya",
             "Tzviya_Siegman"
         ],
         "name": "Tzviya Siegman",
@@ -619,6 +619,13 @@
         ],
         "name": "Brent Zundel",
         "github": "brentzundel"
+    },
+    {
+        "nick": [
+            "yasda",
+            "kristina"
+        ],
+        "name": "Kristina Yasda"
     },
     {
         "nick" : [
