@@ -276,6 +276,12 @@
         "name": "Sumita T. Jonak"
     },
     {
+        "nick" : [
+            "lucian"
+        ],
+        "name" : "Lucian Lauritz"
+    },
+    {
         "nick": [],
         "name": "WonSuk Lee"
     },
@@ -553,6 +559,12 @@
     {
         "nick": [],
         "name": "Mike Varley"
+    },
+    {
+        "nick" : [
+            "andy"
+        ],
+        "name" : "Andy Watson" 
     },
     {
         "nick": [],
