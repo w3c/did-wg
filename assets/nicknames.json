@@ -652,7 +652,9 @@
         "name": "Kaliya Young"
     },
      {
-        "nick": ["nicole"],
+        "nick": [
+            "nicole"
+        ],
         "name": "Yuwen Zhang"
     }
 ]
