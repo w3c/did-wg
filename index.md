@@ -17,7 +17,7 @@ json-ld: |
           "member": [{
               "@type": "Person",
               "name": "Daniel Burnett",
-              "email": "daniel.burnett@consensys.net"
+              "email": "danielcburnett@gmail.com"
           },{
               "@type": "Person",
               "name": "Brent Zundel",
