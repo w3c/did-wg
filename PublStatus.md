@@ -11,6 +11,7 @@ layout: default
 |----------|:-----------------------:|:--------------:|:----------:|
 | DID Identifiers v1.0| [did-core](https://www.w3.org/TR/did-core/) | [ed](https://w3c.github.io/did-spec/) | [github rep](https://github.com/w3c/did-spec) |
 | DID Use Cases and Requirements<sup>†<sup>   | [did-use-cases](https://www.w3.org/TR/did-use-cases/) | [ed](https://w3c.github.io/did-use-cases/) | [github rep](https://github.com/w3c/did-use-cases) |
+| DID Specification Registries<sup>†<sup>   | [did-use-cases](https://www.w3.org/TR/did-spec-registries/) | [ed](https://w3c.github.io/did-spec-registries/) | [github rep](https://github.com/w3c/did-spec-registries/) |
 | Decentralized Characteristics Rubric<sup>†<sup>  | t.b.d. | [ed](https://w3c.github.io/did-rubric/) | [github rep](https://github.com/w3c/did-rubric) |
 {: .zebra}
 
@@ -30,6 +31,9 @@ The Editors’ drafts are managed in GitHub repositories; the list of those repo
     * Recommendation (REC): August 2021.
 * Decentralized Identifier Use Cases & Requirements (Note):
     * First Public Working Draft (FPWD): November 2019 (✓)
+    * Note: August 2021.
+* DID Specification Registries (Note):
+    * First Public Working Draft (FPWD): June 2020 (✓)
     * Note: August 2021.
 * Decentralized Characteristics Rubric (Note):
     * First Public Working Draft (FPWD): December 2019
