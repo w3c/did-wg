@@ -264,7 +264,8 @@
             "selfissued",
             "self-issued",
             "mike_jones",
-            "MikeJones"
+            "MikeJones",
+            "webauthn"
         ],
         "name": "Michael Jones",
         "github": "selfissued"
