@@ -43,13 +43,19 @@
                 {{ site.wgname_uc }} Working Group
             </h1>
 
-            <script src="https://w3c.github.io/apiary/apiary.js"></script>
+            <!-- <script src="https://w3c.github.io/apiary/apiary.js"></script> -->
 
             <section id=mission> 
-                <p class="apiary" data-apiary="description">[Loading...]</span>
-                
-                <p>The co-chairs of the group are <span class="apiary chairs" data-apiary="chairs">[Loading...]</span>. The staff contact is <span class="apiary" data-apiary="team-contacts">[Loading...]</span>. The group is chartered until: <span data-apiary="end-date">[Loading...]</span></p>
+                <p>{{ site.mission }}</p>
+
+                <p>The co-chairs of the group are 
+                    <a href="mailto:danielcburnett@gmail.com">Daniel Burnett</a> (Invited Expert) and
+                    <a href="mailto:brent.zundel@evernym.com">Brent Zundel</a> (Evernym).
+                    The staff contact is <a href="mailto:ivan@w3.org">Ivan Herman</a>.
+                    The group is chartered until September 2021.
+                </p>
             </section>
+
  
             <section >
                 {{ content }}
