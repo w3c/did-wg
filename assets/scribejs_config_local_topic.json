@@ -1,0 +1,9 @@
+{
+	"ghrepo"       : "w3c/did-wg",
+	"ghpath"       : "_minutes",
+	"ghbranch"     : "master",
+	"group"        : "did",
+    "nicknames"    : "/Users/ivan/W3C/github/DID/did-wg/assets/nicknames.json",
+    "acrepo"       : "w3c/did-wg",
+    "acurlpattern" : "https://www.w3.org/2019/did-wg/Meetings/Minutes/%DATE%-did-topic"
+}
