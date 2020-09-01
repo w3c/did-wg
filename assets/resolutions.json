@@ -1,0 +1,495 @@
+{
+    "short_names": [
+        "2019-09-16-did.md",
+        "2019-09-17-did.md",
+        "2019-10-01-did.md",
+        "2019-10-08-did.md",
+        "2019-10-15-did.md",
+        "2019-10-22-did.md",
+        "2019-10-29-did.md",
+        "2019-11-05-did.md",
+        "2019-11-06-did-topic.md",
+        "2019-11-12-did.md",
+        "2019-11-13-did-topic.md",
+        "2019-11-19-did.md",
+        "2019-11-25-did-topic.md",
+        "2019-11-26-did.md",
+        "2019-12-03-did.md",
+        "2019-12-04-did-topic.md",
+        "2019-12-10-did.md",
+        "2019-12-17-did.md",
+        "2020-01-07-did.md",
+        "2020-01-14-did-topic.md",
+        "2020-01-14-did.md",
+        "2020-01-17-did-topic.md",
+        "2020-01-21-did.md",
+        "2020-01-29-did.md",
+        "2020-01-30-did.md",
+        "2020-01-31-did.md",
+        "2020-02-11-did.md",
+        "2020-02-18-did.md",
+        "2020-02-25-did.md",
+        "2020-03-03-did.md",
+        "2020-03-05-did-topic.md",
+        "2020-03-10-did.md",
+        "2020-03-16-did-topic.md",
+        "2020-03-17-did.md",
+        "2020-03-24-did.md",
+        "2020-03-26-did-topic.md",
+        "2020-03-31-did.md",
+        "2020-04-01-did-topic.md",
+        "2020-04-07-did.md",
+        "2020-04-14-did.md",
+        "2020-04-16-did-topic.md",
+        "2020-04-21-did-topic.md",
+        "2020-04-21-did.md",
+        "2020-05-05-did.md",
+        "2020-05-12-did-topic.md",
+        "2020-05-12-did.md",
+        "2020-05-19-did.md",
+        "2020-05-21-did-topic.md",
+        "2020-05-26-did.md",
+        "2020-05-28-did-topic.md",
+        "2020-06-02-did-topic.md",
+        "2020-06-02-did.md",
+        "2020-06-09-did.md",
+        "2020-06-11-did-topic.md",
+        "2020-06-16-did.md",
+        "2020-06-18-did-topic.md",
+        "2020-06-23-did.md",
+        "2020-06-25-did-topic.md",
+        "2020-06-30-did.md",
+        "2020-07-01-did.md",
+        "2020-07-14-did.md",
+        "2020-07-16-did-topic.md",
+        "2020-07-21-did-topic.md",
+        "2020-07-21-did.md",
+        "2020-07-28-did.md",
+        "2020-08-04-did-topic.md",
+        "2020-08-04-did.md",
+        "2020-08-11-did.md",
+        "2020-08-13-did-topic.md",
+        "2020-08-18-did-topic.md",
+        "2020-08-18-did.md",
+        "2020-08-25-did.md",
+        "2020-08-27-did-topic.md"
+    ],
+    "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-08-27",
+            "number": 1,
+            "text": "Discuss in a non-normative appendix how one might model Service Endpoints that preserve privacy.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-27-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-27",
+            "number": 2,
+            "text": "Define an abstract data model for serviceEndpoints in normative text, like we have done with verification methods.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-27-did-topic#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-27",
+            "number": 3,
+            "text": "Define how you do service endpoint extensions using the DID Spec Registry.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-27-did-topic#resolution3",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-18",
+            "number": 1,
+            "text": "Add the <code>alsoKnownAs</code> property to the DID Core specification which expresses a uni-directional alias relationship between the DID Subject and any other URI.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-18-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-11",
+            "number": 1,
+            "text": "Define how fragment identifiers are dereferenced within the DID Core specification, anything else is defined elsewhere.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-11-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-11",
+            "number": 2,
+            "text": "Define an DID Dereferencing abstract function with inputs and outputs in the specification.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-11-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-04",
+            "number": 1,
+            "text": "Add one issue in the Verification Methods section with a warning stating that there is an ongoing discussion around the naming of verification methods that may impact the final names used in the specification.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-04-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-04",
+            "number": 2,
+            "text": "DID Core states clearly that private information of any type should not be included in did documents, including but not limited to verification relationships and services.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-04-did-topic#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-04",
+            "number": 3,
+            "text": "DID Core states that DID URI fragments in a DID Document SHOULD NOT contain private or sensitive information.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-04-did-topic#resolution3",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-04",
+            "number": 4,
+            "text": "DID Core warns that all key representations in a DID Document SHOULD NOT contain information that isn't required to verify a proof.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-04-did-topic#resolution4",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-04",
+            "number": 5,
+            "text": "DID Core warns that encryption SHOULD NOT be used to protect sensitive information in DID Document.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-04-did-topic#resolution5",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-08-04",
+            "number": 6,
+            "text": "The values associated with publicKeyJwk property MUST be expressed as pure JSON. This is being done to align with the value space of RFC7517. The JSON-LD Context MUST align the value space of publicKeyJwk by specifying \"@type\": \"@json\".",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-08-04-did-topic#resolution6",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-07-21",
+            "number": 1,
+            "text": "did-core will restrict usage of prohibited algorithms and further restrictions can be set by did method authors",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-07-21-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-07-21",
+            "number": 2,
+            "text": "Producers that express cryptographic values in DID Documents MUST NOT include Parameter Information Classes that are private in nature. For example, JWK formats MUST NOT include JWK parameters that are listed as \"Private\" in the parameter information class.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-07-21-did-topic#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-07-01",
+            "number": 1,
+            "text": "The test suite will be containerized (using docker), will allow structured configuration input, and produce structured result outputs",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-07-01-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-07-01",
+            "number": 2,
+            "text": "Use YAML for config for inputs",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-07-01-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-06-30",
+            "number": 1,
+            "text": "That we use the term \"Requesting Party\"",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-06-30-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-06-30",
+            "number": 2,
+            "text": "Use <a href=\"https://docs.google.com/document/d/1rYdWiwawWmLOWtHRvT0GzYcdewW_OS9M2mAkENLFdtY/edit?pli=1#heading=h.4p260dq0jbu\">https://docs.google.com/document/d/1rYdWiwawWmLOWtHRvT0GzYcdewW_OS9M2mAkENLFdtY/edit?pli=1#heading=h.4p260dq0jbu</a> as a starting point for a document intended to become a WG NOTE.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-06-30-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-06-09",
+            "number": 1,
+            "text": "The DID WG will publish a FPWD Note of the DID Specification Registries document, using the short name did-spec-registries, and use echidna to update the note as PRs are merged.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-06-09-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-05-19",
+            "number": 1,
+            "text": "Rename the did-core-registries GitHub repo to did-spec-registries",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-05-19-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-05-12",
+            "number": 1,
+            "text": "Rename the \"DID Core Registries\" document to \"DID Specification Registries\".",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-05-12-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-05-12",
+            "number": 2,
+            "text": "Group items that are of the same kind together in the DID Specification Registries.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-05-12-did-topic#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-05-12",
+            "number": 3,
+            "text": "Eliminate the need for a JSON-LD Extensions \"kitchen sink\" context, DID Method implementers will pick and choose which properties they want to include in their DID Method-specific JSON-LD Context or a shared context between communities.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-05-12-did-topic#resolution3",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-04-21",
+            "number": 1,
+            "text": "It is in scope for the DID WG to normatively define the parameters of a concrete set of processes that take a DID as input and provides a DID Document as output.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-04-21-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-04-21",
+            "number": 2,
+            "text": "It is in scope to make these processes take in options and provide back a document along with different classes of metadata (e.g., document metadata and resolution metadata).",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-04-21-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-04-21",
+            "number": 3,
+            "text": "It is in scope to add tests to the test suite that exercise these processes to test the inputs (DIDs, DID URLs, and input metadata) as well as the outputs (DID Documents, resources, and output metadata).",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-04-21-did#resolution3",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-04-21",
+            "number": 4,
+            "text": "It is out of scope to normatively define how any specific DID method implements method-specific details of DID resolution.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-04-21-did#resolution4",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-04-21",
+            "number": 5,
+            "text": "it is out of scope to define whether protocols are used for DID Method implementations or to define those protocols.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-04-21-did#resolution5",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-04-21",
+            "number": 6,
+            "text": "It is out of scope to test concrete DID Resolution protocols and data formats beyond the necessary process to demonstrate interoperability between the test suite and an implementation.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-04-21-did#resolution6",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-04-14",
+            "number": 1,
+            "text": "Integrate the DID Method Registry into the DID Core Registries document.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-04-14-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-04-07",
+            "number": 1,
+            "text": "Use query parameter syntax for encoding DID Parameters, reserving matrix parameter characters for possible use in a future specification.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-04-07-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-03-31",
+            "number": 1,
+            "text": "close issue 218",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-03-31-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-03-16",
+            "number": 1,
+            "text": "Any addition to the DID Core Registries MUST link, via at least a URL, preferably a content-integrity protected one, to the defining specification so that implementers can implement the property.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-03-16-did#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-02-11",
+            "number": 1,
+            "text": "Adopt <a href=\"https://msporny.github.io/did-core-registry/\">https://msporny.github.io/did-core-registry/</a> as an Editors Draft for the DID WG's DID Core Registry.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-02-11-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-02-11",
+            "number": 2,
+            "text": "Adopt <a href=\"https://msporny.github.io/did-imp-guide/\">https://msporny.github.io/did-imp-guide/</a> as an Editors Draft for the DID WG's DID Implementation Guide.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-02-11-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-02-11",
+            "number": 3,
+            "text": "Merge PR #186 to implement structural changes to the specification as discussed during the recent DID WG F2F meeting, as soon as a note is added which informs readers that further changes are underway.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-02-11-did#resolution3",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-01-30",
+            "number": 1,
+            "text": "Proposal #1 above is agreed to by the Working Group. Further proposals may modify the baseline proposal above.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-01-30-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-12-04",
+            "number": 1,
+            "text": "Pull in PRs 100, 101, 102, 109, and 110 (with editorial changes made by the end of Friday) after the next DID WG call.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-12-04-did#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2019,
+            "date": "2019-12-04",
+            "number": 2,
+            "text": "We should use the same base-encoding format for secp256k1, secp256r1, ed25519, and curve25519 base-encoded public key values.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-12-04-did#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2019,
+            "date": "2019-11-19",
+            "number": 1,
+            "text": "The DID WG will publish the current Use Cases and Requirements document as a FPWD of the Note, with a publication date of November 28, 2019. Subsequent WDs will be published automatically using Echidna as the editors see fit, following standard group discussion of any PRs.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-11-19-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-11-05",
+            "number": 1,
+            "text": "The DID WG will use <a href=\"https://www.w3.org/ns/did/v1\">https://www.w3.org/ns/did/v1</a> as the URL for the DID spec context documents.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-11-05-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-10-29",
+            "number": 1,
+            "text": "Publish the DID Core specification as a FPWD with a short name of did-core within the month of November.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-10-29-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-10-22",
+            "number": 1,
+            "text": "WG will let the editors start with a working mode they choose with team contact and chair approval and modify if necessary",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-10-22-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-10-15",
+            "number": 1,
+            "text": "last week's minutes accepted",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-10-15-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-10-08",
+            "number": 1,
+            "text": "last week's minutes accepted",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-10-08-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-09-17",
+            "number": 1,
+            "text": "The DID WG will use the existing CCG DID test suite as a starting point for the DID WG test suite.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-09-17-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-09-17",
+            "number": 2,
+            "text": "The DID WG will move the existing CCG did spec test suite into the DID WG did spec test suite, preserving the commit history if possible.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-09-17-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-09-16",
+            "number": 1,
+            "text": "The Working Group will adopt the CCG DID Use Cases document as the starting point for our group's DID Use Cases and Requirements document.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-09-09-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-09-16",
+            "number": 2,
+            "text": "The Working Group will move the CCG DID Use case issues into our DID Use Cases and Requirements repository. This does not indicate support for any of the issues, and any issue can be closed at any time.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-09-09-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-09-16",
+            "number": 3,
+            "text": "The Working Group will adopt the CCG \"Decentralized Identifiers (DIDs) v0.13 Data Model and Syntaxes\" Final Report as the first editors' draft of our Recommendation-track document.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-09-09-did#resolution3",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-09-16",
+            "number": 4,
+            "text": "The Working Group will move the open CCG DID Spec issues into our DID Spec repository.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-09-09-did#resolution4",
+            "call": "did"
+        },
+        {
+            "year": 2019,
+            "date": "2019-09-16",
+            "number": 5,
+            "text": "The Working Group will keep all of the current CCG DID spec PRs that are actively in progress. Whether this occurs by copying, moving, or recreating is TBD.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2019-09-09-did#resolution5",
+            "call": "did"
+        }
+    ]
+}
