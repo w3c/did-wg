@@ -3,6 +3,12 @@ layout: default
 ---
 
 # List of Working Group Resolutions
+{: .no_toc}
+
+* TOC
+{:toc}
+
+
 
 ## Resolutions taken at regular Working Group calls
 
@@ -12,6 +18,7 @@ layout: default
 
 
 ## Resolutions taken at Working Group topic calls
+
 
 <div id='resolutions_topic'>
 
