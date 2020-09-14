@@ -75,3 +75,7 @@ table.zebra td{border-bottom:1px solid #ddd;padding:.2em 1em;}
     content: "†";
     vertical-align: super;
 }
+
+span.provisional {
+    color: red;
+}

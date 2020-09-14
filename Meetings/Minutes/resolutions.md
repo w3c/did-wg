@@ -12,6 +12,8 @@ layout: default
 
 ## Resolutions taken at regular Working Group calls
 
+Resolutions are marked “<span class='provisional'>Provisional</span>” if the 1 week period after their acceptance has not yet passed.
+
 <div id='resolutions_regular'>
 
 </div>
@@ -19,6 +21,7 @@ layout: default
 
 ## Resolutions taken at Working Group topic calls
 
+All resolutions taken at these calls are considered to be provisional.
 
 <div id='resolutions_topic'>
 
@@ -28,7 +31,7 @@ layout: default
 
 <script type='text/javascript'>
     window.addEventListener('load', () => {
-        display_resolutions('resolutions_regular', '../../assets/resolutions.json', 3, 'did');
-        display_resolutions('resolutions_topic', '../../assets/resolutions.json', 3, 'did-topic');
+        display_resolutions('resolutions_regular', '../../assets/resolutions.json', 3, true, 'did');
+        display_resolutions('resolutions_topic', '../../assets/resolutions.json', 3, false, 'did-topic');
     });
 </script>
