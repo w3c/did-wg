@@ -1,5 +1,5 @@
 {
-    "date": "2020-09-11T09:48:21.289Z",
+    "date": "2020-09-15T16:08:55.648Z",
     "short_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -77,9 +77,26 @@
         "2020-09-01-did-topic.md",
         "2020-09-01-did.md",
         "2020-09-08-did.md",
-        "2020-09-10-did-topic.md"
+        "2020-09-10-did-topic.md",
+        "2020-09-15-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-09-15",
+            "number": 1,
+            "text": "If all of these 5 steps are not done by the end of September, the CBOR representation will be removed from DID core and made its own note.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-15-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-09-15",
+            "number": 2,
+            "text": "Language should be added to the DID Core specification that provides guidelines to Representation specification writers.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-15-did#resolution2",
+            "call": "did"
+        },
         {
             "year": 2020,
             "date": "2020-08-27",
