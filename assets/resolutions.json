@@ -1,5 +1,5 @@
 {
-    "date": "2020-09-16T07:35:29.022Z",
+    "date": "2020-09-23T04:56:01.402Z",
     "short_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -79,9 +79,18 @@
         "2020-09-08-did.md",
         "2020-09-10-did-topic.md",
         "2020-09-15-did.md",
-        "2020-09-15-did-topic.md"
+        "2020-09-15-did-topic.md",
+        "2020-09-22-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-09-22",
+            "number": 1,
+            "text": "Add Number as a primitive type to the Abstract Data Model.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-22-did#resolution1",
+            "call": "did"
+        },
         {
             "year": 2020,
             "date": "2020-09-15",
