@@ -1,5 +1,5 @@
 {
-    "date": "2020-09-23T04:56:01.402Z",
+    "date": "2020-09-24T17:15:27.098Z",
     "short_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -80,9 +80,42 @@
         "2020-09-10-did-topic.md",
         "2020-09-15-did.md",
         "2020-09-15-did-topic.md",
-        "2020-09-22-did.md"
+        "2020-09-22-did.md",
+        "2020-09-24-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-09-24",
+            "number": 1,
+            "text": "The ability for a controller to optionally state at least one service endpoint in the DID Document increases their control and agency",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-24-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-09-24",
+            "number": 2,
+            "text": "Add concrete examples to the Privacy Considerations section to demonstrate how service endpoints might account for varying levels of privacy requirements.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-24-did-topic#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-09-24",
+            "number": 3,
+            "text": "Add privacy guidance that establishes that there is a privacy spectrum and publication strategies along that privacy spectrum of how service endpoints might be published.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-24-did-topic#resolution3",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-09-24",
+            "number": 4,
+            "text": "Add privacy guidance that discourages services from being expressed in DID Documents that are published to Verifiable Data Registries unless a DID Method specification have given specific guidance about how privacy concerns are addressed.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-24-did-topic#resolution4",
+            "call": "did-topic"
+        },
         {
             "year": 2020,
             "date": "2020-09-22",
