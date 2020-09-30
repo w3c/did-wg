@@ -1,5 +1,5 @@
 {
-    "date": "2020-09-29T09:22:53.442Z",
+    "date": "2020-09-30T09:31:23.182Z",
     "short_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -82,9 +82,34 @@
         "2020-09-15-did-topic.md",
         "2020-09-22-did.md",
         "2020-09-24-did-topic.md",
-        "2020-09-29-did.md"
+        "2020-09-29-did.md",
+        "2020-09-29-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-09-29",
+            "number": 1,
+            "text": "A DID Method MUST NOT add, modify, or remove from the production or consumption rules for a representation.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-29-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-09-29",
+            "number": 2,
+            "text": "A DID Method may process the abstract data model in pre-production or post-consumption to enforce DID Method-specific rules and transformations.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-29-did-topic#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-09-29",
+            "number": 3,
+            "text": "The Working Group supports a general \"preserve by default\" design goal for the abstract data model. This means that a general rule for the abstract data model is to preserve properties that are not registered or documented anywhere, such as \"foo\": \"bar\", as long as the property name and property value datatype can be cleanly and losslessly consumed from a representation into the abstract data model and produced from the abstract data model to a representation. The WG may specify exceptions to this general design goal.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-09-29-did-topic#resolution3",
+            "call": "did-topic"
+        },
         {
             "year": 2020,
             "date": "2020-09-24",
