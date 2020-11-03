@@ -93,18 +93,18 @@
     ],
     "resolutions": [
         {
-            "year": 2010,
-            "date": "2010-11-02",
+            "year": 2020,
+            "date": "2020-11-02",
             "number": 1,
-            "text": "Adopt the language on slide 23 to add a section on \"Avoiding Privacy-Violating Properties in Public DID Documents\" to DID Core. URL here <a href=\"https://docs.google.com/presentation/d/1RoE8E4y8S1j65EJaXZ8oihkduNbjTXXvdwtkzw961Xw/edit#slide=id.ga6aa7427ae_1_42\">https://docs.google.com/presentation/d/1RoE8E4y8S1j65EJaXZ8oihkduNbjTXXvdwtkzw961Xw/edit#slide=id.ga6aa7427ae_1_42</a>",
+            "text": "Adopt the language on slide 23 to add a section on \"Avoiding Privacy-Violating Properties in Public DID Documents\" to DID Core. See <a href=\"https://docs.google.com/presentation/d/1RoE8E4y8S1j65EJaXZ8oihkduNbjTXXvdwtkzw961Xw/edit#slide=id.ga6aa7427ae_1_42\">slide</a>",
             "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2010-11-02-did#resolution1",
             "call": "did"
         },
         {
-            "year": 2010,
-            "date": "2010-11-02",
+            "year": 2020,
+            "date": "2020-11-02",
             "number": 2,
-            "text": "Adopt the language on slide 34 as a starting point for a PR that establishes new language around Persistence. URL is here: <a href=\"https://docs.google.com/presentation/d/1RoE8E4y8S1j65EJaXZ8oihkduNbjTXXvdwtkzw961Xw/edit#slide=id.ga6aa7427ae_1_61\">https://docs.google.com/presentation/d/1RoE8E4y8S1j65EJaXZ8oihkduNbjTXXvdwtkzw961Xw/edit#slide=id.ga6aa7427ae_1_61</a>",
+            "text": "Adopt the language on slide 34 as a starting point for a PR that establishes new language around Persistence. See <a href=\"https://docs.google.com/presentation/d/1RoE8E4y8S1j65EJaXZ8oihkduNbjTXXvdwtkzw961Xw/edit#slide=id.ga6aa7427ae_1_61\">slide</a>",
             "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2010-11-02-did#resolution2",
             "call": "did"
         },

@@ -79,6 +79,7 @@ async function display_resolutions(target_id, resolution_asset, header_level, ch
             return `${retval}`;
         }
         else {
+
             resolutions.forEach((resolution) => {
                 if (resolution.year < year) {
                     // Close the previous list if there was any
@@ -101,6 +102,7 @@ async function display_resolutions(target_id, resolution_asset, header_level, ch
     };
     const target = document.getElementById(target_id);
     const resolution_structures = (await (await fetch(resolution_asset)).json());
+
     const resolutions = (call !== null) ? resolution_structures.resolutions.filter((resolution) => resolution.call === call) : resolution_structures.resolutions;
     target.innerHTML = retrieve_html(resolutions.sort(sort_resolutions));
 }
