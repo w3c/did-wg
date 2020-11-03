@@ -11,6 +11,14 @@
     },
     {
         "nick": [
+            "by_caballero__juan",
+            "by_caballero_juan",
+            "caballero_juan"
+        ],
+        "name": "Juan Caballero"
+    },
+    {
+        "nick": [
             "ChristopherA"
         ],
         "name": "Christopher Allen",
@@ -400,12 +408,15 @@
     },
     {
         "nick": [
-            "Geunhyung"
+            "Geunhyung",
+            "GeunHyung_Kim"
         ],
         "name": "Geunhyung Kim"
     },
     {
-        "nick": [],
+        "nick": [
+            "luu"
+        ],
         "name": "Duy-Tung Luu"
     },
     {
@@ -558,6 +569,13 @@
         "name": "Liam Tait"
     },
     {
+        "nick" : [
+            "tan",
+            "Leonard_Tan"
+        ],
+        "name": "Leonard Tan"
+    },
+    {
         "nick": [
             "oliver"
         ],
@@ -586,6 +604,12 @@
     {
         "nick": [],
         "name": "Mike Varley"
+    },
+    {
+        "nick": [
+            "Wang_Haiguang"
+        ],
+        "name": "Wang Haiguang"
     },
     {
         "nick" : [
@@ -661,10 +685,10 @@
     },
     {
         "nick": [
-            "yasda",
+            "yasuda",
             "kristina"
         ],
-        "name": "Kristina Yasda"
+        "name": "Kristina Yasuda"
     },
     {
         "nick" : [
