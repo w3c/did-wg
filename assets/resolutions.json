@@ -1,5 +1,5 @@
 {
-    "date": "2020-11-03T10:15:44.598Z",
+    "date": "2020-11-04T06:01:15.522Z",
     "short_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -89,9 +89,26 @@
         "2020-10-13-did-topic.md",
         "2020-10-13-did.md",
         "2020-10-27-did.md",
-        "2020-11-02-did.md"
+        "2020-11-02-did.md",
+        "2020-11-03-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-11-03",
+            "number": 1,
+            "text": "The DID Spec Registries MUST contain a section on Representations to enable future representations to be registered in an extensible manner. The DID Core specification MUST specify the requirements, such as invariants representations must preserve, on additional representations.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-03-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-11-03",
+            "number": 2,
+            "text": "Unrecognized properties MUST be preserved.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-03-did#resolution2",
+            "call": "did"
+        },
         {
             "year": 2020,
             "date": "2020-11-02",
