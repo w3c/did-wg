@@ -13,7 +13,8 @@
         "nick": [
             "by_caballero__juan",
             "by_caballero_juan",
-            "caballero_juan"
+            "caballero_juan",
+            "by_caballero__juan"
         ],
         "name": "Juan Caballero"
     },
@@ -78,6 +79,7 @@
         "nick": [
             "daniel",
             "danielb",
+            "Daniel_Buchner",
             "dbuc"
         ],
         "name": "Daniel Buchner",
@@ -267,14 +269,17 @@
     },
     {
         "nick": [
-            "jonnycrunch", "jonathan_holt", "jonathan"
+            "jonnycrunch", 
+            "jonathan_holt", 
+            "jonathan"
         ],
         "name": "Jonathan Holt",
         "github": "jonnycrunch"
     },
     {
         "nick": [
-            "Yue"
+            "Yue",
+            "YueJing"
         ],
         "name": "Yue Jing (景越)",
         "github": "YueJing95"
