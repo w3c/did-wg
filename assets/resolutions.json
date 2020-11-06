@@ -1,5 +1,5 @@
 {
-    "date": "2020-11-04T06:01:15.522Z",
+    "date": "2020-11-06T09:31:33.020Z",
     "short_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -90,9 +90,59 @@
         "2020-10-13-did.md",
         "2020-10-27-did.md",
         "2020-11-02-did.md",
-        "2020-11-03-did.md"
+        "2020-11-03-did.md",
+        "2020-11-04-did.md",
+        "2020-11-05-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-11-05",
+            "number": 1,
+            "text": "Add a test to the test suite that includes <code>"@context": true</code> when testing pure JSON implementations, which passes only if no error is thrown. The MIME type application/JSON corresponds to pure JSON processing.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-05-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-11-05",
+            "number": 2,
+            "text": "change the text from \"The value of the <code>@context</code> object member MUST be ignored as this is reserved for JSON-LD consumers.\" to \"Note that the value of the <code>@context</code> object member will be ignored, if present.\"",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-05-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-11-05",
+            "number": 3,
+            "text": "Unknown properties are added to the Abstract Data Model by consumers using generic type processing rules per representation. Unknown properties are serialized by producers using generic type processing rules per representation.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-05-did#resolution3",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-11-05",
+            "number": 4,
+            "text": "The definition of \"ignore a property during consumption\" is to preserve the property in the Abstract Data Model using generic type processing rules per representation with no additional semantic processing performed.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-05-did#resolution4",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-11-05",
+            "number": 5,
+            "text": "1) The DID Core spec Core Properties section shall define “representation-independent properties”; 2) each Representation MAY define its own “representation-specific syntax”, and 3) the ADM section should define how representation-specific syntax is handled if it appears in a representation other than the one in which the syntax is defined (“representation-foreign syntax”).",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-05-did#resolution5",
+            "call": "did"
+        },
+        {
+            "year": 2020,
+            "date": "2020-11-05",
+            "number": 6,
+            "text": "Processing of representation-specific syntax are defined by their representation and only processed when that representation is used, when another representation is used, the representation-specific syntax is ignored and preserved and passed through the ADM.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-05-did#resolution6",
+            "call": "did"
+        },
         {
             "year": 2020,
             "date": "2020-11-03",
