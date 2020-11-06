@@ -99,7 +99,7 @@
             "year": 2020,
             "date": "2020-11-05",
             "number": 1,
-            "text": "Add a test to the test suite that includes <code>"@context": true</code> when testing pure JSON implementations, which passes only if no error is thrown. The MIME type application/JSON corresponds to pure JSON processing.",
+            "text": "Add a test to the test suite that includes <code>\"@context\": true</code> when testing pure JSON implementations, which passes only if no error is thrown. The MIME type application/JSON corresponds to pure JSON processing.",
             "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-11-05-did#resolution1",
             "call": "did"
         },
