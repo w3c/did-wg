@@ -1,0 +1,36 @@
+Welcome to the W3C Decentralized Identifier Working Group!
+
+We are delighted to have you join us. Our mission is is to standardize the DID URI scheme, the data model and syntax of DID Documents, which contain information related to DIDs that enable the aforementioned initial use cases, and the requirements for DID Method specifications.
+
+Our co-chairs are Daniel Burnett (Invited Expert) and Brent Zundel (Evernym). The staff contact is Ivan Herman.
+
+You will find all information on the Working Group on the Group's home page:
+
+  https://www.w3.org/2019/did-wg/
+
+In particular, you can find:
+
+our Work mode: 
+  https://www.w3.org/2019/did-wg/WorkMode/
+
+meeting schedules and details:
+  https://www.w3.org/2019/did-wg/Meetings/
+
+publication status and milestones:
+  https://www.w3.org/2019/did-wg/PublStatus
+
+current participants:
+  https://www.w3.org/groups/wg/did/participants?sortaff=1
+
+list of the group repositories on github:
+  https://github.com/topics/did-wg
+
+All participants are required to follow the W3C Code of Ethics and Professional Conduct:
+  https://www.w3.org/Consortium/cepc/
+
+
+Should you have any questions on how to get up to speed with the group, please get in touch with us, e.g., by using the chairs' mailing list:
+  group-did-wg-chairs@w3.org
+
+Dan, Brent, and Ivan
+
