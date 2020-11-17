@@ -14,7 +14,8 @@
             "by_caballero__juan",
             "by_caballero_juan",
             "caballero_juan",
-            "by_caballero__juan"
+            "by_caballero__juan",
+            "by_caballero"
         ],
         "name": "Juan Caballero"
     },
@@ -504,6 +505,12 @@
     },
     {
         "nick": [
+            "Joaquin_Salvachua"
+        ],
+        "name": "Joaquin Salvachua"
+    },
+    {
+        "nick": [
             "deiu",
             "deiu7",
             "andrei",
@@ -609,7 +616,7 @@
             "TallTed",
             "MacTed"
         ],
-        "name": "Ted Thibodeau Jr",
+        "name": "Ted Thibodeau Jr.",
         "github": "TallTed"
     },
     {
@@ -670,7 +677,8 @@
     },
     {
         "nick": [
-            "dmitriz"
+            "dmitriz",
+            "dmitripre"
         ],
         "name": "Dmitri Zagidulin",
         "github": "dmitrizagidulin"
