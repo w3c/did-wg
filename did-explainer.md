@@ -181,14 +181,14 @@ One possible use for DIDs is as an
 While at first glance it may appear that DIDs compete with existing
 authentication mechanisms such as OIDC or WebAuthn, they are actually
 complementary to such technologies and with some effort
-[may even be incorporated with them.](https://medium.com/decentralized-identity/using-openid-connect-with-decentralized-identifiers-24733f6fa636)
+[may even be incorporated with them](https://medium.com/decentralized-identity/using-openid-connect-with-decentralized-identifiers-24733f6fa636).
 
 ### Other URI Schemes
 DIDs are a new type of identifier that has some essential characteristics:
 - *decentralized*: there should be no central issuing agency;
 - *persistent*: the identifier should be inherently persistent, not requiring
   the continued operation of an underlying organization;
-- *crytopgraphically verifiable*: it should be possible to prove control of the
+- *cryptographically verifiable*: it should be possible to prove control of the
   identifier cryptographically;
 - *resolvable*: it should be possible to discover metadata about the identifier.
 - *replaceable*: it should be simple to discard old and create new identifiers.
