@@ -1,5 +1,6 @@
 {
 	"ghrepo"       : "w3c/did-wg",
+	"issuerepo"    : "w3c/did-core",
 	"ghpath"       : "_minutes",
 	"ghbranch"     : "master",
 	"group"        : "did",
