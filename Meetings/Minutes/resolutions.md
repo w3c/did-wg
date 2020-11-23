@@ -31,7 +31,7 @@ All resolutions taken at these calls are considered to be provisional.
 
 <script type='text/javascript'>
     window.addEventListener('load', () => {
-        display_resolutions('resolutions_regular', '../../assets/resolutions.json', 3, true, 'did');
-        display_resolutions('resolutions_topic', '../../assets/resolutions.json', 3, false, 'did-topic');
+        display_resolutions('resolutions_regular', '../../assets/minute_processing.json', 3, true, 'did');
+        display_resolutions('resolutions_topic', '../../assets/minute_processing.json', 3, false, 'did-topic');
     });
 </script>
