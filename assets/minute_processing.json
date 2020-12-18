@@ -1,5 +1,5 @@
 {
-    "date": "2020-12-16T05:46:52.377Z",
+    "date": "2020-12-18T06:06:32.051Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -100,9 +100,42 @@
         "2020-12-03-did-topic.md",
         "2020-12-08-did.md",
         "2020-12-08-did-topic.md",
-        "2020-12-15-did.md"
+        "2020-12-15-did.md",
+        "2020-12-17-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2020,
+            "date": "2020-12-17",
+            "number": 1,
+            "text": "The DID Working Group will maintain the DID Spec Registries until the end of its charter. The DID Working Group plans to request the management of W3C to submit a charter for a maintenance DID Working Group to the W3C Advisory Committee as a successor to this Working Group. Per the planned charter of that Working Group, that group would officially manage the registry, and would do that in cooperation with the W3C Credentials Community Group.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-12-17-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-12-17",
+            "number": 2,
+            "text": "The DID Spec Registries maintenance process will be documented in the DID Spec Registries document..",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-12-17-did-topic#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-12-17",
+            "number": 3,
+            "text": "The Editors of the DID Spec Registries must consider copyright, trademark, legal, security, moral, and privacy concerns when reviewing additions to the registry and may reject registry entries if they deem the addition would cause undue harm. Considerations will be expressed as policies in the DID Spec Registries Process section. Entities registering items can challenge rejections first with the DID WG and then with the W3C Staff..",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-12-17-did-topic#resolution3",
+            "call": "did-topic"
+        },
+        {
+            "year": 2020,
+            "date": "2020-12-17",
+            "number": 4,
+            "text": "W3C Staff need not be consulted on changes to the DID Spec Registries, but do have the final say on registry contents. This is to ensure that W3C can adeqately respond to time sensitive legal, privacy, security, moral, or other pressing concerns without putting an undue operational burden on them..",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2020-12-17-did-topic#resolution4",
+            "call": "did-topic"
+        },
         {
             "year": 2020,
             "date": "2020-11-19",
