@@ -1,5 +1,5 @@
 {
-    "date": "2020-12-23T07:41:59.667Z",
+    "date": "2021-01-06T10:03:40.497Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -102,9 +102,18 @@
         "2020-12-08-did-topic.md",
         "2020-12-15-did.md",
         "2020-12-17-did-topic.md",
-        "2020-12-22-did.md"
+        "2020-12-22-did.md",
+        "2021-01-05-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-01-05",
+            "number": 1,
+            "text": "The DID Working Group will maintain the DID Spec Registries until the end of its charter. The DID Working Group plans to request the management of W3C to submit a charter for a maintenance DID Working Group to the W3C Advisory Committee as a successor to this Working Group. Per the planned charter of that Working Group, that group would officially manage the registry, and would do that in cooperation with the W3C Credentials Community Group..",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-01-05-did#resolution1",
+            "call": "did"
+        },
         {
             "year": 2020,
             "date": "2020-12-17",
