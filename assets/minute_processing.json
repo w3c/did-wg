@@ -1,5 +1,5 @@
 {
-    "date": "2021-01-12T17:09:15.099Z",
+    "date": "2021-01-15T09:00:31.282Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -104,9 +104,18 @@
         "2020-12-17-did-topic.md",
         "2020-12-22-did.md",
         "2021-01-05-did.md",
-        "2021-01-12-did.md"
+        "2021-01-12-did.md",
+        "2021-01-14-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-01-14",
+            "number": 1,
+            "text": "Move <code>resource=true</code> from DID Core to the DID Spec Registries (as an extension)..",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-01-14-did-topic#resolution1",
+            "call": "did-topic"
+        },
         {
             "year": 2021,
             "date": "2021-01-05",
