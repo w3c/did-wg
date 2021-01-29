@@ -1,5 +1,5 @@
 {
-    "date": "2021-01-28T05:36:36.758Z",
+    "date": "2021-01-29T10:13:49.029Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -108,9 +108,18 @@
         "2021-01-14-did-topic.md",
         "2021-01-19-did-topic.md",
         "2021-01-19-did.md",
-        "2021-01-26-did.md"
+        "2021-01-26-did.md",
+        "2021-01-28-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-01-28",
+            "number": 1,
+            "text": "The DID Working Group will not define a canonical form for the Abstract Data Model.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-01-28-did-topic#resolution1",
+            "call": "did-topic"
+        },
         {
             "year": 2021,
             "date": "2021-01-14",
