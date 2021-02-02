@@ -1,5 +1,5 @@
 {
-    "date": "2021-01-29T10:13:49.029Z",
+    "date": "2021-02-02T17:18:06.857Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -109,9 +109,26 @@
         "2021-01-19-did-topic.md",
         "2021-01-19-did.md",
         "2021-01-26-did.md",
-        "2021-01-28-did-topic.md"
+        "2021-01-28-did-topic.md",
+        "2021-02-02-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-02-02",
+            "number": 1,
+            "text": "The DagCBOR representation will be moved into its own specification and registered in the DID Spec Registries.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-02-02-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2021,
+            "date": "2021-02-02",
+            "number": 2,
+            "text": "The CBOR representation will be kept in the DID Core specification as an at-risk representation.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-02-02-did#resolution2",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-01-28",
