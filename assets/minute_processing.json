@@ -1,5 +1,5 @@
 {
-    "date": "2021-02-03T06:06:42.450Z",
+    "date": "2021-02-10T08:15:39.642Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -111,9 +111,18 @@
         "2021-01-26-did.md",
         "2021-01-28-did-topic.md",
         "2021-02-02-did.md",
-        "2021-02-02-did-topic.md"
+        "2021-02-02-did-topic.md",
+        "2021-02-09-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-02-09",
+            "number": 1,
+            "text": "To exit the DID Core Candidate Recommendation phase, the DID WG will require two things: 1) for normative statements that are machine testable, at least two interoperable implementations per feature, where each feature is defined as one or more normative statement in the specification, and 2) for normative statements that are only human-testable, at least two demonstrations of implementation per feature, where each feature is defined as one or more normative statement in the specification.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-02-09-did#resolution1",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-02-02",
