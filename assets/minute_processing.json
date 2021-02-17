@@ -1,5 +1,5 @@
 {
-    "date": "2021-02-16T17:16:54.453Z",
+    "date": "2021-02-17T09:28:13.973Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -114,9 +114,26 @@
         "2021-02-02-did-topic.md",
         "2021-02-09-did.md",
         "2021-02-11-did-topic.md",
-        "2021-02-16-did.md"
+        "2021-02-16-did.md",
+        "2021-02-16-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-02-16",
+            "number": 1,
+            "text": "The ADM is only used to represent a DID document or parts of a DID document (e.g. a verification method). For DID Resolution data structures, INFRA will be referenced normatively, as well as the JSON serialization rules for INFRA, to note that the data structure must be able to be serialized using INFRA-&gt;JSON rules.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-02-16-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2021,
+            "date": "2021-02-16",
+            "number": 2,
+            "text": "If possible, and in order to increase interoperability, we should ensure that every normative MUST statement is machine-testable in the DID Resolution section. If it turns out to not be possible then further discussion will be necessary.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-02-16-did-topic#resolution2",
+            "call": "did-topic"
+        },
         {
             "year": 2021,
             "date": "2021-02-09",

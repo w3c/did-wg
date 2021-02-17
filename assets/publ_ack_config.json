@@ -1,7 +1,7 @@
 {
     "documents" : {
         "did-spec" : {
-            "id": "T117488",
+            "id": "117488",
             "explicit_list": "https://raw.githubusercontent.com/w3c/did-spec/master/ack-script/separate_acks.json",
             "html_pattern": "https://raw.githubusercontent.com/w3c/did-spec/master/ack-script/ack_pattern.html"
         }
