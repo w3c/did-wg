@@ -1,5 +1,5 @@
 {
-    "date": "2021-02-24T06:00:50.039Z",
+    "date": "2021-02-26T11:07:12.767Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -116,9 +116,18 @@
         "2021-02-11-did-topic.md",
         "2021-02-16-did.md",
         "2021-02-16-did-topic.md",
-        "2021-02-23-did.md"
+        "2021-02-23-did.md",
+        "2021-02-25-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-02-25",
+            "number": 1,
+            "text": "The DID Core Test Suite will, at a minimum, enable implementers to submit at least one set of serializations for the data structures defined in DID Core to be tested against the applicable normative statements in the specification.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-02-25-did-topic#resolution1",
+            "call": "did-topic"
+        },
         {
             "year": 2021,
             "date": "2021-02-16",
