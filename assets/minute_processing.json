@@ -1,5 +1,5 @@
 {
-    "date": "2021-02-26T11:07:12.767Z",
+    "date": "2021-03-02T16:44:39.763Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -117,9 +117,18 @@
         "2021-02-16-did.md",
         "2021-02-16-did-topic.md",
         "2021-02-23-did.md",
-        "2021-02-25-did-topic.md"
+        "2021-02-25-did-topic.md",
+        "2021-03-02-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-03-02",
+            "number": 1,
+            "text": "We will publish the Use Cases and Requirements document as a Note",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-02-did#resolution1",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-02-25",
