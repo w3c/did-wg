@@ -1,5 +1,5 @@
 {
-    "date": "2021-03-02T16:44:39.763Z",
+    "date": "2021-03-09T16:45:30.107Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -118,9 +118,18 @@
         "2021-02-16-did-topic.md",
         "2021-02-23-did.md",
         "2021-02-25-did-topic.md",
-        "2021-03-02-did.md"
+        "2021-03-02-did.md",
+        "2021-03-09-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-03-09",
+            "number": 1,
+            "text": "Initiate the transition request to publish DID Core[1] 1.0 as a Candidate Recommendation Snapshot on March 18th 2021 - [1] <a href=\"https://w3c.github.io/did-core/CR/2021-03-18/\">https://w3c.github.io/did-core/CR/2021-03-18/</a>",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-09-did#resolution1",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-03-02",
