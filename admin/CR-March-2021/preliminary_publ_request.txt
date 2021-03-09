@@ -13,7 +13,7 @@ and the lead editors of the document (Manu Sporny and Amy Guy, cc-d) have gone t
 we would appreciate if you could check the document whether it is ready for publication, or whether
 we have to make some editorial changes.
 
-Of course, as soon as we get the transition approval, I will send you (ie, the webmaster) and official
+Of course, as soon as we get the transition approval, I will send you (ie, the webmaster) an official
 publication request, and I will also send the drafts for the CR AC announcement and the HPN to
 Xueyuan.
 
@@ -23,4 +23,3 @@ Ivan
 
 
 [1] https://github.com/w3c/transitions/issues/@@@
-
