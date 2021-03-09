@@ -1,0 +1,69 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu
+
+
+[DRAFT] Decentralized Identifiers (DIDs) v1.0 is a W3C Candidate Recommendation (Call for Implementations)
+-----------------------------------------------------------------------------------------------------------
+
+
+Dear Advisory Committee Representatives,
+Chairs,
+
+I am pleased to announce that the following document is now a Candidate Recommendation:
+
+Decentralized Identifiers (DIDs) v1.0
+	https://www.w3.org/TR/2021/CR-did-core-20210318/
+
+The approval and publication are in response to this transition request:
+   	https://github.com/w3c/transitions/issues/@@@@@
+
+The group welcomes feedback by 18 April 2021 via issues raised in:
+    https://github.com/w3c/did-core/issues/
+
+Patent disclosures relevant to this specification may be found on the 
+Decentralized Identifier Working Group's patent disclosure page in conformance 
+with W3C policy:
+    https://www.w3.org/2004/01/pp-impl/117488/status
+
+This Call for Implementations follows section 6.2.8.1 "Candidate 
+Recommendation Snapshot" of the W3C Process Document:
+     https://www.w3.org/2020/Process-20200915/#publishing-crrs
+
+
+Thank you,
+
+For Tim Berners-Lee, Director, and
+Philippe Le Hégaret, Project Management Lead;
+Ivan Herman, DID WG Staff contact;
+Xueyuan Jia, W3C Marketing & Communications
+
+=============================
+Quoting from
+Decentralized Identifiers (DIDs) v1.0
+W3C Candidate Recommendation Snapshot 18 March 2021
+
+This version:
+     https://www.w3.org/TR/2021/CR-did-core-20210318/
+Latest published version:
+     https://www.w3.org/TR/did-core/
+
+Abstract
+
+Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, 
+decentralized digital identity. A DID identifies any subject (e.g., a person, organization, 
+thing, data model, abstract entity, etc.) that the controller of the DID decides that it 
+identifies. In contrast to typical, federated identifiers, DIDs have been designed so that 
+they may be decoupled from centralized registries, identity providers, and certificate 
+authorities. Specifically, while other parties might be used to help enable the discovery 
+of information related to a DID, the design enables the controller of a DID to prove control 
+over it without requiring permission from any other party. DIDs are URIs that associate a DID 
+subject with a DID document allowing trustable interactions associated with that subject.
+
+Each DID document can express cryptographic material, verification methods, or services, 
+which provide a set of mechanisms enabling a DID controller to prove control of the DID. 
+Services enable trusted interactions associated with the DID subject. A DID might provide 
+the means to return the DID subject itself, if the DID subject is an information resource 
+such as a data model.
+
+This document specifies the DID syntax, a common data model, core properties, serialized 
+representations, DID operations, and an explanation of the process of resolving DIDs to 
+the resources that they represent.

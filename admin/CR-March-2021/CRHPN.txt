@@ -1,0 +1,29 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu
+
+
+Subject: [DRAFT HPN] Candidate Recommendation published for Decentralized Identifiers (DIDs) v1.0.
+
+----------------------------
+
+<p>The <a href="https://www.w3.org/2019/did-wg/">Decentralized Identifier Working Group</a> has just 
+published a Candidate Recommendation for the 
+<a href="https://www.w3.org/TR/2021/CR-did-core-20210318/">Decentralized Identifiers (DIDs) v1.0</a> document.</p>
+
+<p>
+This document defines Decentralized identifiers (DIDs), a new type of identifier that enables 
+verifiable, decentralized digital identity. A DID identifies any subject (e.g., a person, organization, 
+thing, data model, abstract entity, etc.) that the controller of the DID decides that it identifies. 
+In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled 
+from centralized registries, identity providers, and certificate authorities.  DIDs are URIs that 
+associate a DID subject with a DID document allowing trustable interactions associated with that
+subject. Each DID document can express cryptographic material, verification methods, or services, 
+which provide a set of mechanisms enabling a DID controller to prove control of the DID. 
+</p>
+
+<p>Candidate Recommendation means that the Working Group considers the technical design to be complete, 
+and is seeking implementation feedback on the document. The group is keen to get 
+comments and implementation experiences on this specification as issues raised in the 
+documents’ <a href="https://github.com/w3c/did-core/">Github repository</a>.</p>
+
+<p>The group expects to satisfy the implementation goals (i.e., at least two, independent
+implementations for each of the test cases) by April 18, 2021.</p>
