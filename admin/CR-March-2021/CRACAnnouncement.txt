@@ -33,6 +33,7 @@ Thank you,
 
 For Tim Berners-Lee, Director, and
 Philippe Le Hégaret, Project Management Lead;
+Ivan Herman, DID WG Staff contact;
 Xueyuan Jia, W3C Marketing & Communications
 
 =============================
