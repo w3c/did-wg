@@ -5,7 +5,7 @@ To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Ma
 -----------------------------------------------------------------------------------------------------------
 
 
-Dear Advisory Committee Representative,
+Dear Advisory Committee Representatives,
 Chairs,
 
 I am pleased to announce that the following document is now a Candidate Recommendation:
