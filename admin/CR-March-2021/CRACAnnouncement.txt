@@ -1,7 +1,7 @@
 To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu
 
 
-[DRAFT] Decentralized Identifiers (DIDs) v1.0 is a W3C Candidate Recommendations (Call for Implementations)
+[DRAFT] Decentralized Identifiers (DIDs) v1.0 is a W3C Candidate Recommendation (Call for Implementations)
 -----------------------------------------------------------------------------------------------------------
 
 
