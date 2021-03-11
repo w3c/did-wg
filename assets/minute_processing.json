@@ -1,5 +1,5 @@
 {
-    "date": "2021-03-09T16:45:30.107Z",
+    "date": "2021-03-11T18:30:09.791Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -119,9 +119,26 @@
         "2021-02-23-did.md",
         "2021-02-25-did-topic.md",
         "2021-03-02-did.md",
-        "2021-03-09-did.md"
+        "2021-03-09-did.md",
+        "2021-03-11-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-03-11",
+            "number": 1,
+            "text": "Allow <a href=\"did:3\">did:3</a> to be registered in the DID Spec Registries -- pull in PR 260.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-11-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2021,
+            "date": "2021-03-11",
+            "number": 2,
+            "text": "Remove the requirement in DID Spec Registries process to register any schema language (e.g., JSON Schema, SHACL, SHeX, CDDL) as a part of property registrations. The process will encourage providing schema languages for appropriate representations.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-11-did-topic#resolution2",
+            "call": "did-topic"
+        },
         {
             "year": 2021,
             "date": "2021-03-09",
