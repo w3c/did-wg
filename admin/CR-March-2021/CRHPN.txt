@@ -20,6 +20,10 @@ subject. Each DID document can express cryptographic material, verification meth
 which provide a set of mechanisms enabling a DID controller to prove control of the DID. 
 </p>
 
+<p>The Working Group has also published a separate 
+<a href="https://www.w3.org/TR/did-use-cases/">Use Cases and Requirement document</a> 
+that provides some background for the usage of this technology.</p>
+
 <p>Candidate Recommendation means that the Working Group considers the technical design to be complete, 
 and is seeking implementation feedback on the document. The group is keen to get 
 comments and implementation experiences on this specification as issues raised in the 
