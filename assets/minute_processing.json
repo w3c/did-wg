@@ -1,5 +1,5 @@
 {
-    "date": "2021-03-11T18:30:09.791Z",
+    "date": "2021-03-17T05:46:45.086Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -120,9 +120,34 @@
         "2021-02-25-did-topic.md",
         "2021-03-02-did.md",
         "2021-03-09-did.md",
-        "2021-03-11-did-topic.md"
+        "2021-03-11-did-topic.md",
+        "2021-03-16-did-topic.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-03-16",
+            "number": 1,
+            "text": "change provisional to \"Provisional. + YYYY-MM\" so that date of registration can be used to sort",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-16-did-topic#resolution1",
+            "call": "did-topic"
+        },
+        {
+            "year": 2021,
+            "date": "2021-03-16",
+            "number": 2,
+            "text": "Update the registration table to include, status, first registered date, last reviewed date",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-16-did-topic#resolution2",
+            "call": "did-topic"
+        },
+        {
+            "year": 2021,
+            "date": "2021-03-16",
+            "number": 3,
+            "text": "create a new table for 1.0 conformant methods registered after the spec is published",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-03-16-did-topic#resolution3",
+            "call": "did-topic"
+        },
         {
             "year": 2021,
             "date": "2021-03-11",
