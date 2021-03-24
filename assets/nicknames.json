@@ -187,6 +187,12 @@
     },
     {
         "nick": [
+            "foucault"
+        ],
+        "name": "Michel Foucault"
+    },
+    {
+        "nick": [
             "fukami"
         ],
         "name": "Yoshiaki Fukami"
@@ -622,7 +628,10 @@
         "name": "Shigeya Suzuki"
     },
     {
-        "nick": ["soderberg"],
+        "nick": [
+            "soderberg",
+            "joakim"
+        ],
         "name": "Joakim Soderberg"
     },
     {
