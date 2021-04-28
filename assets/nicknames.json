@@ -330,6 +330,13 @@
         "name" : "Geun-Hyung Kim"
     },
     {
+        "nick": [
+            "mallory",
+            "knodel"
+        ],
+        "name": "Mallory Knodel"
+    },
+    {
         "nick" : [
             "lucian"
         ],
@@ -644,6 +651,12 @@
             "Liam"
         ],
         "name": "Liam Tait"
+    },
+    {
+        "nick": [
+            "Yoshifumi"
+        ],
+        "name": "Yoshifumi Takeuchi"
     },
     {
         "nick" : [
