@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-30T07:13:59.571Z",
+    "date": "2021-05-04T16:19:35.912Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -131,9 +131,18 @@
         "2021-04-13-did-topic.md",
         "2021-04-13-did.md",
         "2021-04-27-did.md",
-        "2021-04-29-did-topic.md"
+        "2021-04-29-did-topic.md",
+        "2021-05-04-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-05-04",
+            "number": 1,
+            "text": "remove CBOR from the DID Core Specification, publish it as a WG Note, and add CBOR to the DID Spec Registries with a reference to the WG Note",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-05-04-did#resolution1",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-03-16",
