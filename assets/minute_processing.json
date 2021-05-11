@@ -1,5 +1,5 @@
 {
-    "date": "2021-05-06T16:49:33.399Z",
+    "date": "2021-05-11T16:13:02.578Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -133,9 +133,26 @@
         "2021-04-27-did.md",
         "2021-04-29-did-topic.md",
         "2021-05-04-did.md",
-        "2021-05-06-did-topic.md"
+        "2021-05-06-did-topic.md",
+        "2021-05-11-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-05-11",
+            "number": 1,
+            "text": "CDDL will no longer be required for registration of items into the DID Spec Registries. All current CDDL will be removed from DID Spec Registries.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-05-11-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2021,
+            "date": "2021-05-11",
+            "number": 2,
+            "text": "JSON Schema will no longer be required for registration of items into the DID Spec Registries. All current JSON Schema, except for the one pertaining to DID Core, will be removed from DID Spec Registries.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-05-11-did#resolution2",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-05-04",
