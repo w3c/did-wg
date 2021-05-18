@@ -1,5 +1,5 @@
 {
-    "date": "2021-05-11T16:13:02.578Z",
+    "date": "2021-05-18T16:37:43.855Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -134,9 +134,19 @@
         "2021-04-29-did-topic.md",
         "2021-05-04-did.md",
         "2021-05-06-did-topic.md",
-        "2021-05-11-did.md"
+        "2021-05-11-did.md",
+        "2021-05-11-did-topic.md",
+        "2021-05-18-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-05-18",
+            "number": 1,
+            "text": "We approve ITU SG 17 referencing our DID Core Technical Report in their report on identity standards when it is completed.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-05-18-did#resolution1",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-05-11",
