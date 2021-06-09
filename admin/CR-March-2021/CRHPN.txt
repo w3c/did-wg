@@ -6,8 +6,8 @@ Subject: [DRAFT HPN] Candidate Recommendation published for Decentralized Identi
 ----------------------------
 
 <p>The <a href="https://www.w3.org/2019/did-wg/">Decentralized Identifier Working Group</a> has just 
-published a Candidate Recommendation for the 
-<a href="https://www.w3.org/TR/2021/CR-did-core-20210318/">Decentralized Identifiers (DIDs) v1.0</a> document.</p>
+published a 2nd Candidate Recommendation Snapshot for the 
+<a href="https://www.w3.org/TR/2021/CR-did-core-20210615/">Decentralized Identifiers (DIDs) v1.0</a> document.</p>
 
 <p>
 This document defines Decentralized identifiers (DIDs), a new type of identifier that enables 
@@ -20,14 +20,10 @@ subject. Each DID document can express cryptographic material, verification meth
 which provide a set of mechanisms enabling a DID controller to prove control of the DID. 
 </p>
 
-<p>The Working Group has also published a separate 
-<a href="https://www.w3.org/TR/did-use-cases/">Use Cases and Requirement document</a> 
-that provides some background for the usage of this technology.</p>
-
 <p>Candidate Recommendation means that the Working Group considers the technical design to be complete, 
 and is seeking implementation feedback on the document. The group is keen to get 
 comments and implementation experiences on this specification as issues raised in the 
 documents’ <a href="https://github.com/w3c/did-core/">Github repository</a>.</p>
 
 <p>The group expects to satisfy the implementation goals (i.e., at least two, independent
-implementations for each of the test cases) by April 18, 2021.</p>
+implementations for each of the test cases) by July 17, 2021.</p>

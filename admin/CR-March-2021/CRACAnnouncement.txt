@@ -1,8 +1,8 @@
 To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu
 
 
-[DRAFT] Decentralized Identifiers (DIDs) v1.0 is a W3C Candidate Recommendation (Call for Implementations)
------------------------------------------------------------------------------------------------------------
+[DRAFT] Decentralized Identifiers (DIDs) v1.0 is a W3C Candidate Recommendation Snapshot (Call for Implementations)
+-------------------------------------------------------------------------------------------------------------------
 
 
 Dear Advisory Committee Representatives,
@@ -11,12 +11,12 @@ Chairs,
 I am pleased to announce that the following document is now a Candidate Recommendation:
 
 Decentralized Identifiers (DIDs) v1.0
-	https://www.w3.org/TR/2021/CR-did-core-20210318/
+	https://www.w3.org/TR/2021/CR-did-core-20210615/
 
 The approval and publication are in response to this transition request:
    	https://github.com/w3c/transitions/issues/@@@@@
 
-The group welcomes feedback by 18 April 2021 via issues raised in:
+The group welcomes feedback by 17 July 2021 via issues raised in:
     https://github.com/w3c/did-core/issues/
 
 Patent disclosures relevant to this specification may be found on the 
@@ -39,10 +39,10 @@ Xueyuan Jia, W3C Marketing & Communications
 =============================
 Quoting from
 Decentralized Identifiers (DIDs) v1.0
-W3C Candidate Recommendation Snapshot 18 March 2021
+W3C Candidate Recommendation Snapshot 15 June 2021
 
 This version:
-     https://www.w3.org/TR/2021/CR-did-core-20210318/
+     https://www.w3.org/TR/2021/CR-did-core-20210615/
 Latest published version:
      https://www.w3.org/TR/did-core/
 
