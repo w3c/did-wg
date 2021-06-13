@@ -1,7 +1,7 @@
 To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu
 
 
-Subject: [DRAFT HPN] Candidate Recommendation published for Decentralized Identifiers (DIDs) v1.0.
+Subject: [DRAFT HPN] Candidate Recommendation Snapshot published for Decentralized Identifiers (DIDs) v1.0.
 
 ----------------------------
 

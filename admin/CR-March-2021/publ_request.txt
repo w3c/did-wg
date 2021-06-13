@@ -2,13 +2,13 @@ To: webmaster, Cc: jennyliang@w3.org, DID WG Chairs, Manu
 
 Denis,
 
-This is an official publication request for the publication of a DID WG document as Candidate Recommendation Snapshot. The publication date is the 15th of June, 2021. The transition request for CR Snapshot has been issued in:
+This is an official publication request for the publication of a DID WG's Decentralized Identifiers (DIDs) v1.0 as Candidate Recommendation Snapshot. The publication date is the 15th of June, 2021. The transition request for CR Snapshot has been issued in:
 
 	https://github.com/w3c/transitions/issues/343
 
 the Director's approval is in:
 
-	https://github.com/w3c/transitions/issues/320#@@@@
+	https://github.com/w3c/transitions/issues/343#issuecomment-859866035
 
 Document Title and URL
 ======================
