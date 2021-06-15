@@ -1,5 +1,5 @@
 {
-    "date": "2021-06-08T16:03:34.812Z",
+    "date": "2021-06-15T16:12:37.419Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -139,9 +139,18 @@
         "2021-05-18-did.md",
         "2021-05-25-did.md",
         "2021-06-01-did.md",
-        "2021-06-08-did.md"
+        "2021-06-08-did.md",
+        "2021-06-15-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-06-15",
+            "number": 1,
+            "text": "We will publish The Plain CBOR Representation v1.0 as a WG Note with the shortname did-cbor-representation, use echidna to publish updates automatically, and register the CBOR representation in the DID Spec Registries.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-06-15-did#resolution1",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-06-08",
