@@ -1,0 +1,29 @@
+To: webmaster, Cc: jennyliang@w3.org, DID WG Chairs, Manu
+
+Denis,
+
+This is an official publication request for the publication of the DID WG's "The Plain CBOR Representation v1.0" as First Public Working Group Note. The publication date is the 29th of June, 2021. The transition request for the Note has been issued in:
+
+	https://github.com/w3c/transitions/issues/348
+
+the Director's approval is in:
+
+	https://github.com/w3c/transitions/issues/348#issuecomment-XXXXXX
+
+Document Title and URL
+======================
+
+The Plain CBOR Representation v1.0
+	https://www.w3.org/TR/2021/NOTE-did-cbor-representation-20210629/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL.
+
+The documents is already in place and went through pubrules' checker. 
+
+Thanks!
+
+Ivan

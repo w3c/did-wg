@@ -1,0 +1,14 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu
+
+
+Subject: [DRAFT HPN] Working Group Note: The Plain CBOR Representation v1.0
+
+----------------------------
+
+<p>The <a href="https://www.w3.org/2019/did-wg/">Decentralized Identifier Working Group</a> 
+has just published a Working Group Note
+<a href="https://www.w3.org/TR/2021/NOTE-did-cbor-representation-20210629/">The Plain CBOR Representation v1.0, 
+Expressing a DID Document using the application/did+cbor media type</a> document.
+This document defines the production and consumption rules for a CBOR representation for <a href="https://www.w3.org/TR/did-core/#dfn-did-documents">DID Documents</a>,
+as defined in the <a href="https://www.w3.org/TR/did-core/">Decentralized Identifiers (DIDs) v1.0</a> Specification.
+</p>

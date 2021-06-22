@@ -1,0 +1,24 @@
+Sent to: denis, jennyliang@w3.org Cc: DID WG Chairs, Manu on 2021-03-09
+
+Denis, Jiaying,
+
+As you could see in [1], there is a transition request for a First Public WG Note, with a publication planned for the 29th of June.
+Hopefully we will get the approval of Philippe and Ralph in time.
+
+I have already put the document on TR space:
+
+https://www.w3.org/TR/2021/NOTE-did-cbor-representation-20210629/
+
+and the editors of the document (the lead editor, Manu Sporny, is cc-d) have gone through the pubrules' checker. However, 
+we would appreciate if you could check the document whether it is ready for publication, or whether
+we have to make some editorial changes.
+
+Of course, as soon as we get the transition approval, I will send you (i.e., the webmaster) an official
+publication request, and I will also send the drafts HPN to Xueyuan.
+
+Thanks
+
+Ivan
+
+
+[1] https://github.com/w3c/transitions/issues/348
