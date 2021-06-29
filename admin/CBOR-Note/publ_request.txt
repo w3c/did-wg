@@ -8,7 +8,7 @@ This is an official publication request for the publication of the DID WG's "The
 
 the Director's approval is in:
 
-	https://github.com/w3c/transitions/issues/348#issuecomment-XXXXXX
+	https://github.com/w3c/transitions/issues/348#issuecomment-868776961
 
 Document Title and URL
 ======================
