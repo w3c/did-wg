@@ -12,10 +12,11 @@ layout: default
 | DID Identifiers v1.0| [did-core](https://www.w3.org/TR/did-core/) | [ed](https://w3c.github.io/did-spec/) | [github rep](https://github.com/w3c/did-spec) |
 | DID Use Cases and Requirements<sup>†<sup>   | [did-use-cases](https://www.w3.org/TR/did-use-cases/) | [ed](https://w3c.github.io/did-use-cases/) | [github rep](https://github.com/w3c/did-use-cases) |
 | DID Specification Registries<sup>†<sup>   | [did-use-cases](https://www.w3.org/TR/did-spec-registries/) | [ed](https://w3c.github.io/did-spec-registries/) | [github rep](https://github.com/w3c/did-spec-registries/) |
+| The Plain CBOR Representation v1.0<sup>†<sup>   | [did-cbor-representation](hhttps://www.w3.org/TR/did-cbor-representation/) | [ed](https://w3c.github.io/did-cbor-note/) | [github rep](https://github.com/w3c/did-cbor-note/) |
 | Decentralized Characteristics Rubric<sup>†<sup>  | t.b.d. | [ed](https://w3c.github.io/did-rubric/) | [github rep](https://github.com/w3c/did-rubric) |
 {: .zebra}
 
-Non rec-track document
+<sup>†<sup>Non rec-track document
 {: .footer}
 
 <!-- <div data-apiary="specifications"></div> -->
