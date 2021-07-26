@@ -1,5 +1,5 @@
 {
-    "date": "2021-06-30T05:04:13.967Z",
+    "date": "2021-07-26T10:28:28.837Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -141,9 +141,43 @@
         "2021-06-01-did.md",
         "2021-06-08-did.md",
         "2021-06-15-did.md",
-        "2021-06-29-did.md"
+        "2021-06-29-did.md",
+        "2021-07-13-did.md",
+        "2021-07-20-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-07-20",
+            "number": 1,
+            "text": "Publish the DID Core specification at <a href=\"https://w3c.github.io/did-core/PR/2021-07-29/\">https://w3c.github.io/did-core/PR/2021-07-29/</a> as a Proposed Recommendation on July 29th 2021 with a review period that ends on August 26th 2021. Any objections from DID WG members before July 27th 2021 will require the group to rerun the proposal.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-20-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2021,
+            "date": "2021-07-13",
+            "number": 1,
+            "text": "While some of the normative statements around JSON Production did not receive at least two independent implementations (such as datetime, double, integer, and null), the Working Group desires to keep the normative statements in the specification to ensure full JSON data model support so future implementations can use the features if they have a need to express those data types.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-13-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2021,
+            "date": "2021-07-13",
+            "number": 2,
+            "text": "While the <code>deactivated: false</code> feature only received one independent implementation, the Working Group desires to keep the feature in the specification. Expressing <code>deactivated: false</code> is optional. The value space (true/false) for the <code>deactivated</code> feature was correctly implemented by more than 2 independent implementations (no implementations used values other than true/false). Implementers could express either <code>deactivated: false</code> or nothing, and all implementers except for one chose the latter option.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-13-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2021,
+            "date": "2021-07-13",
+            "number": 3,
+            "text": "If at least two independent implementations for the the <code>alsoKnownAs</code> feature are not registered in the test suite by 6pm ET Sunday July 18th 2021, the DID Core specification will remove the feature and notify the ActivityPub community of its removal.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-13-did#resolution3",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-06-15",
