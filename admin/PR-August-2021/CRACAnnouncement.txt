@@ -1,0 +1,55 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu
+
+
+Xueyuan,
+
+here is the draft announcement for the PR transition for the DID Core. I have already created the PR review form:
+
+https://www.w3.org/2002/09/wbs/33280/did-core-pr/
+
+But the starting date has been set to the 8th of August to avoid preliminary votes. You should set it to the publication date when the publication is announced...
+
+
+
+[DRAFT] Vote by 2021-08-26/27: Decentralized Identifiers (DIDs) v1.0 is a W3C Proposed Recommendation
+-----------------------------------------------------------------------------------------------------
+
+
+Dear Advisory Committee Representatives,
+Chairs,
+
+W3C is pleased to announce that the following document is now a Proposed Recommendation:
+
+Decentralized Identifiers (DIDs) v1.0
+	https://www.w3.org/TR/2021/PR-did-core-20210803/
+
+Please review the specification and indicate whether you endorse it as a 
+W3C Recommendation or object to its advancement by completing the 
+following questionnaire:
+     https://www.w3.org/2002/09/wbs/33280/did-core-pr/
+
+Additional details about the review are available in the questionnaire. 
+The deadline for responses is 03:59 UTC on 27 August 2021 (23:59, Eastern 
+time on 26 August) [0].
+
+The approval and publication are in response to this transition request:
+   	https://github.com/w3c/transitions/issues/@@@@@
+
+More information about the Web Audio Working Group is available on the 
+group home page:
+     https://www.w3.org/2019/did-wg/
+
+If you should have any questions or need further information, please 
+contact Ivan Herman <ivan@w3.org>, DID Working Group Team Contact.
+
+This Call for Review  follows section 6.2.9 of the W3C Process Document:
+     https://www.w3.org/2020/Process-20200915/#rec-pr
+
+Thank you,
+
+For Tim Berners-Lee, Director, and
+Philippe Le Hégaret, Project Management Lead;
+Ivan Herman, DID WG Staff contact;
+Xueyuan Jia, W3C Marketing & Communications
+
+[0] https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210826T2359&p1=43

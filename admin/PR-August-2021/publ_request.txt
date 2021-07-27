@@ -1,0 +1,29 @@
+To: webmaster, Cc: jennyliang@w3.org, DID WG Chairs, Manu
+
+Denis,
+
+This is an official publication request for the publication of a DID WG's Decentralized Identifiers (DIDs) v1.0 as Proposed Recommendation. The publication date is the 9th of August, 2021. The transition request for PR Snapshot has been issued in:
+
+	https://github.com/w3c/transitions/issues/@@@
+
+the Director's approval is in:
+
+	https://github.com/w3c/transitions/issues/@@@@#issuecomment-@@@@
+
+Document Title and URL
+======================
+
+Decentralized Identifiers (DIDs) v1.0
+	https://www.w3.org/TR/2021/PR-did-core-20210803/
+
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URL.
+
+The documents is already in place and went through pubrules' checker. 
+
+Thanks!
+
+Ivan
