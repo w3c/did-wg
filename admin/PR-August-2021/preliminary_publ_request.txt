@@ -14,11 +14,12 @@ we would appreciate if you could check the document whether it is ready for publ
 we have to make some editorial changes.
 
 Of course, as soon as we get the transition approval, I will send you (i.e., the webmaster) an official
-publication request, and I will also send the drafts for the PR AC announcement to Xueyuan.
+publication request, will send the drafts for the PR AC announcement to Xueyuan, and I will
+prepare the necessary WBS form.
 
 Thanks
 
 Ivan
 
 
-[1] https://github.com/w3c/transitions/issues/@@@@@@
+[1] https://github.com/w3c/transitions/issues/358

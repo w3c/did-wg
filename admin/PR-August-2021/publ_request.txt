@@ -4,11 +4,11 @@ Denis,
 
 This is an official publication request for the publication of a DID WG's Decentralized Identifiers (DIDs) v1.0 as Proposed Recommendation. The publication date is the 9th of August, 2021. The transition request for PR Snapshot has been issued in:
 
-	https://github.com/w3c/transitions/issues/@@@
+	https://github.com/w3c/transitions/issues/358
 
 the Director's approval is in:
 
-	https://github.com/w3c/transitions/issues/@@@@#issuecomment-@@@@
+	https://github.com/w3c/transitions/issues/358#issuecomment-@@@@
 
 Document Title and URL
 ======================
