@@ -7,8 +7,13 @@ here is the draft announcement for the PR transition for the DID Core. I have al
 
 https://www.w3.org/2002/09/wbs/33280/did-core-pr/
 
-But the starting date has been set to the 8th of August to avoid preliminary votes. You should set it to the publication date when the publication is announced...
+The starting date has been set to the 8th of August to avoid preliminary votes; please, check it whether it is otherwise o.k. You should set the opening date to the 3rd when the publication is announced...
 
+Thank you!
+
+A separate HPN draft will follow in a separate mail
+
+Ivan
 
 
 [DRAFT] Vote by 2021-08-26/27: Decentralized Identifiers (DIDs) v1.0 is a W3C Proposed Recommendation
@@ -33,9 +38,9 @@ The deadline for responses is 03:59 UTC on 27 August 2021 (23:59, Eastern
 time on 26 August) [0].
 
 The approval and publication are in response to this transition request:
-   	https://github.com/w3c/transitions/issues/@@@@@
+   	https://github.com/w3c/transitions/issues/358
 
-More information about the Web Audio Working Group is available on the 
+More information about the DID Working Group is available on the 
 group home page:
      https://www.w3.org/2019/did-wg/
 
