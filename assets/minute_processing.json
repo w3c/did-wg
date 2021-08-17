@@ -1,5 +1,5 @@
 {
-    "date": "2021-08-03T16:20:37.479Z",
+    "date": "2021-08-17T16:15:27.325Z",
     "file_names": [
         "2019-09-16-did.md",
         "2019-09-17-did.md",
@@ -146,9 +146,42 @@
         "2021-07-20-did.md",
         "2021-07-27-did.md",
         "2021-08-03-did.md",
-        "2021-08-10-did.md"
+        "2021-08-10-did.md",
+        "2021-08-17-did.md"
     ],
     "resolutions": [
+        {
+            "year": 2021,
+            "date": "2021-08-17",
+            "number": 1,
+            "text": "The WG will add editorial text to the acknowledgements section of the Proposed Recommendation that gives some historical context for the work and thanks those who were involved.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-08-17-did#resolution1",
+            "call": "did"
+        },
+        {
+            "year": 2021,
+            "date": "2021-08-17",
+            "number": 2,
+            "text": "the WG will ask W3C to transition the DID Rubric (<a href=\"https://w3c.github.io/did-rubric/FPWD/2021-08-26/\">https://w3c.github.io/did-rubric/FPWD/2021-08-26/</a>) to a WG Note, and set up echidna for automatically updating the Note.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-08-17-did#resolution2",
+            "call": "did"
+        },
+        {
+            "year": 2021,
+            "date": "2021-08-17",
+            "number": 3,
+            "text": "the WG will ask W3C to transition the DID Implementation Guide (<a href=\"https://w3c.github.io/did-imp-guide/FPWD/2021-08-26/\">https://w3c.github.io/did-imp-guide/FPWD/2021-08-26/</a>) to a WG Note, and set up echidna for automatically updating the Note.",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-08-17-did#resolution3",
+            "call": "did"
+        },
+        {
+            "year": 2021,
+            "date": "2021-08-17",
+            "number": 4,
+            "text": "We are not going to add dates in a table to the DID Registry",
+            "url": "https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-08-17-did#resolution4",
+            "call": "did"
+        },
         {
             "year": 2021,
             "date": "2021-07-20",
