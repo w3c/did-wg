@@ -1,0 +1,33 @@
+To: webmaster, Cc: jennyliang@w3.org, DID WG Chairs, Manu, Orie, Joe, comm
+
+Denis,
+
+This is an official publication request for the publication of two DID WG First Public Working Group Notes. The publication date is the 26th of August, 2021. The transition request for the Notes have been issued in:
+
+	https://github.com/w3c/transitions/issues/365
+	https://github.com/w3c/transitions/issues/366
+
+the Director's approvals are in:
+
+	https://github.com/w3c/transitions/issues/365#issuecomment-902077314
+	https://github.com/w3c/transitions/issues/366#issuecomment-902077974
+
+
+Document Titles and URLs
+========================
+
+DID Method Rubric v1.0
+	https://www.w3.org/TR/2021/NOTE-did-rubric-20210826/
+DID Implementation Guide v1.0
+	https://www.w3.org/TR/2021/NOTE-did-imp-guide-20210826/
+
+Abstract and Status Sections
+----------------------------
+
+See the previous URLs.
+
+The documents are already in place and went through pubrules' checker. 
+
+Thanks!
+
+Ivan

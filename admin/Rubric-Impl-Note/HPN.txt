@@ -1,0 +1,18 @@
+To: xueyuan, Cc: coralie, comm team, denis, jennyliang@w3.org, DID WG Chairs, Manu, joe, orie
+
+
+Subject: [DRAFT HPN] Two Working Group Notes: DID Rubric and DID Implementation Guide
+
+----------------------------
+
+<p>The <a href="https://www.w3.org/2019/did-wg/">Decentralized Identifier Working Group</a> 
+has just published two Working Group Notes:<p>
+
+<ul>
+<li><a href="https://www.w3.org/TR/2021/NOTE-did-imp-guide-20210826/">DID Method Rubric v1.0</a>: The communities behind Decentralized Identifiers (DIDs) bring together a diverse group of contributors who have decidedly different notions of exactly what "decentralization" means. Rather than attempting to resolve this potentially unresolvable question, we propose a rubric — a scoring guide used to evaluate performance, a product, or a project — that teaches how to evaluate a given DID Method according to one's own requirements.
+</li>
+
+<li><a href="https://www.w3.org/TR/2021/NOTE-did-imp-guide-20210826/">DID Implementation Guide v1.0</a>: This document provides guidance to <a href="https://www.w3.org/TR/did-core/#dfn-did-methods">DID method</a> developers, related to serialization, cryptographic primitive selection, governance, and interoperability.
+</li>
+</ul>
+
