@@ -13,7 +13,8 @@ layout: default
 | DID Use Cases and Requirements<sup>†<sup>   | [did-use-cases](https://www.w3.org/TR/did-use-cases/) | [ed](https://w3c.github.io/did-use-cases/) | [github rep](https://github.com/w3c/did-use-cases) |
 | DID Specification Registries<sup>†<sup>   | [did-use-cases](https://www.w3.org/TR/did-spec-registries/) | [ed](https://w3c.github.io/did-spec-registries/) | [github rep](https://github.com/w3c/did-spec-registries/) |
 | The Plain CBOR Representation v1.0<sup>†<sup>   | [did-cbor-representation](https://www.w3.org/TR/did-cbor-representation/) | [ed](https://w3c.github.io/did-cbor-note/) | [github rep](https://github.com/w3c/did-cbor-note/) |
-| Decentralized Characteristics Rubric<sup>†<sup>  | t.b.d. | [ed](https://w3c.github.io/did-rubric/) | [github rep](https://github.com/w3c/did-rubric) |
+| Decentralized Characteristics Rubric V1.0<sup>†<sup>  | [did-rubric](https://www.w3.org/TR/did-rubric/) | [ed](https://w3c.github.io/did-rubric/) | [github rep](https://github.com/w3c/did-rubric) |
+| DID Implementation Guide v1.0<sup>†<sup>  | [did-imp-guide](https://www.w3.org/TR/did-imp-guide/) | [ed](https://w3c.github.io/did-imp-guide/) | [github rep](https://github.com/w3c/did-imp-guide) |
 {: .zebra}
 
 <sup>†<sup>Non rec-track document
@@ -37,6 +38,6 @@ The Editors’ drafts are managed in GitHub repositories; the list of those repo
     * First Public Working Draft (FPWD): June 2020 (✓)
     * Note: August 2021. (✓)
 * Decentralized Characteristics Rubric (Note):
-    * First Public Working Draft (FPWD): December 2019
-    * Note: September 2021.
+    * First Public Working Draft (FPWD): August 2021 (✓)
+    * Note: August 2021.  (✓)
 
