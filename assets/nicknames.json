@@ -229,6 +229,13 @@
         "name": "Adrian Gropper"
     },
     {
+        "nick" : [
+            "rgrant"
+        ],
+        "github": "rxgrant",
+        "name": "Ryan Grant"
+    },
+    {
         "nick": [
             "rhiaro",
             "amyg",
@@ -337,7 +344,8 @@
     },
     {
         "nick" : [
-            "Geunhyung_Kim"
+            "Geunhyung_Kim",
+            "Geun-Hyung"
         ],
         "name" : "Geun-Hyung Kim"
     },
@@ -464,8 +472,7 @@
     },
     {
         "nick": [
-            "grantnoble",
-            "rgrant"
+            "grantnoble"
         ],
         "name": "Grant Noble",
         "github": "grantnoble"
@@ -498,7 +505,7 @@
     },
     {
         "nick": [
-            "Prorock"
+            "Prorock", "mprorock"
         ],
         "name": "Michael Prorock"
     },
@@ -865,5 +872,9 @@
     {
         "nick": ["deborah"],
         "name": "Deborah Shands"
+    },
+    {
+        "nick": ["chn"],
+        "name": "Cihan Saglam"
     }
 ]
