@@ -5,12 +5,14 @@ links about the recent set of objections that Google, Apple, and
 Mozilla filed against the W3C Decentralized Identifier specification.
 
 1. [What is going on?](#what-is-going-on)
-2. [Did the DID Working Group follow its charter?](#did-the-did-working-group-follow-its-charter)
-3. [Was practical interoperability achieved?](#was-practical-interoperability-achieved)
-4. [Is the DID specification decentralized enough?](#is-the-did-specification-decentralized-enough)
-5. [Does the DID specification cause great environmental harm?](#does-the-did-specification-cause-great-environmental-harm)
-6. [Why the concern over Google, Apple, and Mozilla objecting?](#why-the-concern-over-google-apple-mozilla-objecting)
-7. [How long will this take?](#how-long-will-this-take)
+1. [What happens if the objections are upheld?](#what-happens-if-the-objections-are-upheld)
+1. [Why the concern over Google, Apple, and Mozilla objecting?](#why-the-concern-over-google-apple-and-mozilla-objecting)
+1. [Did the DID Working Group follow its charter?](#did-the-did-working-group-follow-its-charter)
+1. [Was practical interoperability achieved?](#was-practical-interoperability-achieved)
+1. [Is the DID specification decentralized enough?](#is-the-did-specification-decentralized-enough)
+1. [Does the DID specification cause great environmental harm?](#does-the-did-specification-cause-great-environmental-harm)
+1. [Does the DID specification encourage ever growing divergence?](#does-the-did-specification-encourage-ever-growing-divergence)
+1. [How long will this take?](#how-long-will-this-take)
 
 ### What is going on?
 
@@ -60,6 +62,14 @@ two-year charter was in the days before the poll closed to approve DID Core
 1.0 as a W3C Recommendation.
 
 That is, in a nutshell, what is going on.
+
+### What happens if the objections are upheld?
+
+There will be no official Decentralized Identifier standard for the forseeable
+future. If the objections are upheld, the specification will be sent back to 
+the DID WG for "further work". The further work will be determined by 
+negotiating with the objectors on what they want to see changed in the
+specification or the approach.
 
 ### Did the DID Working Group follow its charter?
 
@@ -187,9 +197,41 @@ which DID Methods best meet their needs.
 
 The DID WG is actively 
 [addressing this concern in the DID Implementation Guide](https://github.com/w3c/did-imp-guide/pull/27) and the 
-[DID Rubric]https://www.w3.org/TR/did-rubric/), intends to continue this
+[DID Rubric](https://www.w3.org/TR/did-rubric/), intends to continue this
 discussion in future WGs, and welcomes others to contribute to the 
 authoring of this sort of material.
+
+### Does the DID specification encourage ever growing divergence?
+
+One property of decentralized systems is not being able to control the
+number of individuals and organizations that implement the system. The
+DID Spec Registries provide one mechanism for DID Methods to register,
+but there is no requirement for them to use it. The nature of a
+decentralized system is not compatible with a required central authority
+determining who may do what.
+
+To put the number of DID Methods in perspective, however, we point out
+that there are currently 346 URI Schemes registered in the IANA URI
+Scheme Registry, yet many don't seem to be concerned with an ever
+growing number of URI Schemes. One of the reasons for this is an inverse
+power law that comes into play in most markets, where a market over
+time, will tend to consolidate on a handful of implementation choices.
+Many modern systems have largely settled on https and webrtc and left
+gopher and ftp behind; but the consolidation took many years to play
+out. In the same way, we expect this to happen with DID Methods. 
+
+This is
+already happening to a degree, with many implementers supporting things
+like did:key and did:web over some of the more esoteric DID Methods. The
+start of successful technology cycles often start with an explosion of
+options followed by market consolidation due to the difficulty of
+supporting every option. This is something that any W3C WG has very
+little control over when introducing new technologies.
+
+The DID WG would most likely be open to strategies that would provide
+healthy nudges to the market to consolidate sooner rather than later,
+understanding that we have few tools to enforce that in a decentralized
+ecosystem.
 
 ### Why the concern over Google, Apple, and Mozilla objecting?
 
