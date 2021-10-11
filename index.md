@@ -33,7 +33,7 @@ objection to engage in what is supposed to be an impartial process.
 individuals that might have a conflict of interest can voluntarily recuse
 themselves; the decision is left up to the individual. Apple has raised a
 formal objection and sits on both the W3C AB and W3C TAG; are both individuals
-expected to recuse themselves? I hope the answer to this question is "Yes,
+expected to recuse themselves? The hope is that the answer to this question is "Yes,
 because the formal objection is on behalf of Apple and therefore, there is a
 conflict of interest." The same recusal issue applies to Google's representatives.
 
