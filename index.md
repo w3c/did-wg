@@ -10,15 +10,19 @@ Mozilla filed against the W3C Decentralized Identifier specification.
 
 ### What is going on?
 
-The W3C Decentralized Identifier (DID) Working Group[2] had consensus[3] to
-propose publication of DID Core 1.0[4] as a W3C Proposed Recommendation 
-(basically, a global Web standard). There were 40 W3C Member companies that 
+The [W3C Decentralized Identifier (DID) Working Group](https://www.w3.org/2019/did-wg/)
+had [consensus](https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-20-did#resolution1) to
+propose publication of [DID Core 1.0](https://www.w3.org/TR/did-core/) as a W3C Proposed Recommendation 
+(basically, a global Web standard). There were 
+[40 W3C Member companies](https://www.w3.org/2002/09/wbs/33280/did-core-pr/results) that 
 agreed to publication of DID Core 1.0 as a W3C Recommendation and there were 
 3 companies that objected: Google, Apple, and Mozilla. The W3C Team stepped 
-in to mediate a discussion[6] that did not resolve the formal objections.
+in to [mediate a discussion](https://www.w3.org/2021/09/21-did10-minutes.html) 
+that did not resolve the formal objections.
 
-The acting W3C Director then decided to request feedback from the W3C
-Council[7], which is composed of the W3C Advisory Board and the W3C Technical
+The acting W3C Director then decided to 
+[request feedback from the W3C Council](https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-10-05-did#section2), 
+which is composed of the W3C Advisory Board and the W3C Technical
 Architecture Group, and take the new W3C Council Formal Objection resolution
 process for a spin. The Decentralized Identifier Working Group is deeply
 frustrated by this recent turn of events, but understands that someone needs
@@ -51,21 +55,15 @@ Recommendation. The first time the group heard of these objections during its
 two-year charter was in the days before the poll closed to approve DID Core
 1.0 as a W3C Recommendation.
 
-That, in a nutshell, is what is going on.
-
-[1]https://www.w3.org/2021/05/W3C_Council_Guide.html <br>
-[2]https://www.w3.org/2019/did-wg/ <br>
-[3]https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-20-did#resolution1 <br>
-[4]https://www.w3.org/TR/did-core/ <br>
-[5]https://www.w3.org/2002/09/wbs/33280/did-core-pr/results <br>
-[6]https://www.w3.org/2021/09/21-did10-minutes.html <br>
-[7]https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-10-05-did#section2 <br>
+That is, in a nutshell, what is going on.
 
 ### Why the concern over 3 companies objecting?
 
 The concern is that Google, Apple, and Mozilla are objecting and then 
 get to be on the W3C Council that determines whether or not the objection
-is valid. There are concerns around some of the biggest tech companies
+is valid. That is, these three companies have a non-trivial influence
+on overriding what 40 companies have found consensus to standardize 
+at W3C. There are concerns around some of the biggest tech companies
 on the planet being able to stop global standards that would open 
 their businesses up to more competition.
 
@@ -116,6 +114,6 @@ and how they're being processed.
 
 ### How long will this take?
 
-There is no time limit set on when these things resolve. It is typically 
-done within a month or two of the formal objections being raised, but can
-drag on for months after that.
+There is no time limit set on when objections are upheld or rejected. It 
+is typically  done within a month or two of the formal objections being 
+raised, but can drag on for months after that.
