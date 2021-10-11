@@ -4,6 +4,8 @@ This is a single place that collects Frequently Asked Questions and
 links about the recent set of objections that Google, Apple, and 
 Mozilla filed against the W3C Decentralized Identifier specification.
 
+1. [What is going on?](#what-is-going-on)
+
 ### What is going on?
 
 The W3C Decentralized Identifier (DID) Working Group[2] had consensus[3] to
