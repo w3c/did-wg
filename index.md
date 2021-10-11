@@ -5,7 +5,7 @@ links about the recent set of objections that Google, Apple, and
 Mozilla filed against the W3C Decentralized Identifier specification.
 
 1. [What is going on?](#what-is-going-on)
-2. [Why the concern over 3 companies objecting?](#why-the-concern-over-3-companies-objecting)
+2. [Why the concern over Google, Apple, and Mozilla objecting?](#why-the-concern-over-3-companies-objecting)
 3. [How long will this take?](#how-long-will-this-take)
 
 ### What is going on?
