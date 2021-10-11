@@ -51,10 +51,10 @@ two-year charter was in the days before the poll closed to approve DID Core
 
 That, in a nutshell, is what is going on.
 
-[1]https://www.w3.org/2021/05/W3C_Council_Guide.html
-[2]https://www.w3.org/2019/did-wg/
-[3]https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-20-did#resolution1
-[4]https://www.w3.org/TR/did-core/
-[5]https://www.w3.org/2002/09/wbs/33280/did-core-pr/results
-[6]https://www.w3.org/2021/09/21-did10-minutes.html
-[7]https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-10-05-did#section2
+[1]https://www.w3.org/2021/05/W3C_Council_Guide.html <br>
+[2]https://www.w3.org/2019/did-wg/ <br>
+[3]https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-20-did#resolution1 <br>
+[4]https://www.w3.org/TR/did-core/ <br>
+[5]https://www.w3.org/2002/09/wbs/33280/did-core-pr/results <br>
+[6]https://www.w3.org/2021/09/21-did10-minutes.html <br>
+[7]https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-10-05-did#section2 <br>
