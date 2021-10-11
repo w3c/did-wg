@@ -5,6 +5,8 @@ links about the recent set of objections that Google, Apple, and
 Mozilla filed against the W3C Decentralized Identifier specification.
 
 1. [What is going on?](#what-is-going-on)
+2. [Why the concern over 3 companies objecting?](#why-the-concern-over-3-companies-objecting)
+3. [How long will this take?](#how-long-will-this-take)
 
 ### What is going on?
 
@@ -58,3 +60,62 @@ That, in a nutshell, is what is going on.
 [5]https://www.w3.org/2002/09/wbs/33280/did-core-pr/results <br>
 [6]https://www.w3.org/2021/09/21-did10-minutes.html <br>
 [7]https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-10-05-did#section2 <br>
+
+### Why the concern over 3 companies objecting?
+
+The concern is that Google, Apple, and Mozilla are objecting and then 
+get to be on the W3C Council that determines whether or not the objection
+is valid. There are concerns around some of the biggest tech companies
+on the planet being able to stop global standards that would open 
+their businesses up to more competition.
+
+Google and Apple are two of the largest identity providers on the planet.
+Google Accounts, Apple ID, Sign in with Google, and Sign in with Apple are a
+few of the products and services that could be viewed as competing with the
+W3C Decentralized Identifiers specification.
+
+Speaking more broadly, Google Wallet, Apple Wallet, and initiatives such as
+Apple's integration of Mobile Driver's Licenses into an ecosystem that does
+not allow open competition is also problematic:
+
+[https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/](https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/)
+
+There is a belief that some of these systems are not in the best interest of the
+general public. Here is a statement from the Technical Director of the DHS 
+Silicon Valley Innovation Program commenting on why the approach taken with 
+some of these closed Digital Wallet ecosystems is problematic:
+
+[https://lists.w3.org/Archives/Public/public-credentials/2021Oct/0005.html](https://lists.w3.org/Archives/Public/public-credentials/2021Oct/0005.html)
+
+The W3C Decentralized Identifier WG, W3C Verifiable Credentials WG, and the
+Credentials Community Group are working on open wallet ecosystems. Yet another
+class of products and services that could be viewed as competitive.
+
+There is concern over the individuals that work for these corporations
+being biased in some way by the competing
+technologies and services that their companies are producing. While 
+these individuals are believed to be unbiased by some and are not 
+expected to just tow tow the company line... it's not appropriate for them 
+to be a part of the decision making process for their company's formal 
+objections because it raises doubt over the fairness of the W3C Council 
+Formal Objection process. That's the more damaging thing to W3C as a community; 
+accidentally fomenting distrust in the process. We're already starting to see the
+first well-written opinion pieces hit the media outlets on this concern:
+
+[https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/](https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/)
+
+[https://www.coincenter.org/open-blockchains-and-decentralized-identity-standards/](https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/)
+
+It was quite difficult to get many of these "decentralized technology"
+companies to W3C and convince them that the browser vendors didn't run the
+show at W3C. It took years of concerted effort, and it's exactly this sort of
+situation that reassures their fears. Members of the DID Working Group
+have received a substantive number of texts and emails since Apple, Google, 
+and Mozilla's formal objections, primarily due to the way they were raised 
+and how they're being processed.
+
+### How long will this take?
+
+There is no time limit set on when these things resolve. It is typically 
+done within a month or two of the formal objections being raised, but can
+drag on for months after that.
