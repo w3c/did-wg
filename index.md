@@ -3,6 +3,8 @@
 This is a single place that collects Frequently Asked Questions and
 links about the recent set of objections that Google, Apple, and 
 Mozilla filed against the W3C Decentralized Identifier specification.
+This document is maintained by one of the Editors of the 
+DID Core 1.0 specification.
 
 1. [What is going on?](#what-is-going-on)
 1. [What happens if the objections are upheld?](#what-happens-if-the-objections-are-upheld)
