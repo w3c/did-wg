@@ -13,6 +13,7 @@ Mozilla filed against the W3C Decentralized Identifier specification.
 1. [Does the DID specification cause great environmental harm?](#does-the-did-specification-cause-great-environmental-harm)
 1. [Does the DID specification encourage ever growing divergence?](#does-the-did-specification-encourage-ever-growing-divergence)
 1. [How long will this take?](#how-long-will-this-take)
+1. [What could be done in the future to avoid this?](#what-could-be-done-in-the-future-to-avoid-this)
 
 ### What is going on?
 
@@ -293,3 +294,32 @@ and how they're being processed.
 There is no time limit set on when objections are upheld or rejected. It 
 is typically  done within a month or two of the formal objections being 
 raised, but can drag on for months after that.
+
+### What could be done in the future to avoid this?
+
+Probably not much; formal objections at the last minute can and do 
+happen. It's been this way for decades and is unlikely to change.
+This particular occurence is especially disruptive because of an
+experiment that is being run to determine if the new formal 
+objection process is acceptable to the membership. There are courses 
+of action that the W3C Membership can take to resolve 
+these concerns (but again, all of these are currently being debated):
+
+1. Make communicating with the W3C Council regarding the formal objection
+strictly off-limits outside of the formal objection process (public
+communication is allowed, but "backroom" communication is disallowed). Violating
+this hard line should result in removal from the W3C TAG or W3C AB because it
+is an egregious violation of trust in our elected representatives.
+
+2. Make recusal from the W3C Council decision mandatory for any individual
+that is associated on either side of the formal objection.
+
+3. Ensure that the W3C Staff are a substantive part of the formal objection
+process, and not relegated to the sidelines as they seem to be in the new W3C
+Council-based process. They are a check and balance that we should be
+depending on as a community.
+
+4. Strike down formal objections that made no attempt to engage with the
+Working Group. Allowing formal objections in the 11th hour accomplishes
+nothing other than stress, distrust, and drama -- three things we don't need
+more of at W3C. The W3C Process should be predictable, trustworthy, and boring.
