@@ -35,14 +35,17 @@ which is composed of the W3C Advisory Board and the W3C Technical
 Architecture Group, and take the new W3C Council Formal Objection resolution
 process for a spin. The Decentralized Identifier Working Group is deeply
 frustrated by this recent turn of events, but understands that someone needs
-to be the first through this new process.
+to be the first through this new process. Ultimately, the decision to overturn
+the objections or to uphold them will be up to the W3C Director, however, it is
+expected that this particular run will set precedent for how this is handled
+at W3C in the future.
 
-There are four aspects of how this is playing out that are deeply concerning:
+There are four aspects of how this came about and how the Formal Objection Council will operate that are deeply concerning:
 
 1. The objectors (Google, Apple, and Mozilla), and the proponents (over 40
-companies) collectively hold 7 out of the 21 seats on the W3C Council. This
-enables 1/3rd of the W3C Council who are taking a position on the formal
-objection to engage in what is supposed to be an impartial process.
+companies) collectively hold 7 out of the 21 seats on the W3C Formal Objection Council. This
+enables 1/3rd of the W3C Council who are formally objecting to the 
+ratification of DID Core to engage in what is supposed to be an impartial and fair process.
 
 2. The new W3C Council Formal Objection Process gently suggests that
 individuals that might have a conflict of interest can voluntarily recuse
@@ -53,8 +56,11 @@ because the formal objection is on behalf of Apple and therefore, there is a
 conflict of interest." The same recusal issue applies to Google's representatives.
 
 3. The W3C Team, who have a long and positive track record of striking the
-right balance when providing input into these sorts of decisions, have been
-stripped of any decision making authority.
+right balance when providing input into these sorts of decisions, will be
+all but stripped of any voting authority (having only 1 seat out of 21 on the 
+council) when the W3C Formal Objection Council process is finalized. While
+the current decision is going to be with the Director, the future situation
+largely eliminates substantive input from the W3C Team.
 
 4. Lastly, Google, Apple, and Mozilla made no attempt to bring their formal
 objections to the Decentralized Identifier Working Group since the Working
@@ -65,6 +71,10 @@ two-year charter was in the days before the poll closed to approve DID Core
 1.0 as a W3C Recommendation.
 
 That is, in a nutshell, what is going on.
+
+You can read more about what's going on here:
+
+[Does the W3C Still Believe in Tim Berners-Lee’s Vision of Decentralization?](https://www.evernym.com/blog/w3c-vision-of-decentralization/)
 
 ### What happens if the objections are upheld?
 
