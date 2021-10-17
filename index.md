@@ -177,6 +177,73 @@ as well as [European Union initiatives](https://essif-lab-infrastructure-oriente
 The DID WG seems to be willing to add the topic of standardizing some DID
 Methods under a future charter.
 
+To explain this from a differnt angle, it helps to understand how DIDs are
+used within 
+[Verifiable Credentials](https://www.w3.org/TR/vc-data-model/#introduction), 
+which was ratified as a W3C global standard two years ago.
+
+In order to verify a Verifiable Credential that was digitally signed using a
+public key associated with a Decentralized Identifier, you have to use a
+couple of things.
+
+1. DID Syntax
+2. DID Resolver
+3. DID Document
+
+First, you need to know what a DID looks like -- that's DID Syntax. You then
+need to feed that DID into something to get a DID Document back -- that's the
+DID Resolver. Then you need to be able to interpret what you got back in order
+to find the public key you're looking for -- that's the DID Document.
+
+To see if you have interoperability at a high level (also known as an
+integration test), you can take a Verifiable Credential and give it to two
+different Verifier implementations. If both implementations verify
+successfully, and use different code bases, you can be fairly certain that
+interoperability exists in the ecosystem. Why is this?
+
+If you look at this from the perspective of a Verifier, the only thing it
+cares about is that it has a DID, it feeds it to a DID Resolver, and it gets
+back a DID Document. It doesn't necessarily care how the DID Resolver gets the
+DID Document (which is defined by the DID Method), just that the DID Document
+that it does get is going to be the same as other Verifiers when they run the
+same process. In other words, how the DID Method works or how resolution
+happens doesn't really matter, as long as you can see that multiple code bases
+get the same DID Document back when Resolving and come to the same conclusion
+when verifying a Verifiable Credential.
+
+In the first iteration of the DID Working Group, we standardized DID Syntax,
+the DID Resolver interface, and the DID Document. We didn't standardize DID
+Methods because 1) we were asked to aggressively narrow scope by the W3C
+Advisory Committee, 2) we didn't feel that the entire community could agree on
+standardizing any singular DID Method when we chartered the group and the W3C
+Advisory committee had concerns over "picking a winning DID Method", 3) we
+don't need to do that to demonstrate interoperability for a data model
+specification, and 4) we can (and did) test for interoperability without 
+standardizing DID Methods (as described above).
+
+You can see this in action today (huge shout out to Charles Lehner and Spruce
+for putting this tool together) by going to:
+
+https://demo.didkit.dev/2021/08/multiverifier/
+
+Copy-pasting the contents of this page into the tool above:
+
+https://raw.githubusercontent.com/w3c-ccg/vc-http-api-test-suite/main/packages/vc-http-api-test-server/__fixtures__/verifiableCredentials/case-1.json
+
+... and clicking "Verify". You'll see that some of the endpoints fail, but at
+least five of the vendors pass. This is "practical interoperability" for at
+least did:key because many of the passing systems don't use the same DID
+Resolver implementation, but successfully resolve the did:key:z6Mki...vJ3
+value into the appropriate DID Document and use the public key contained
+within to verify the digital signature.
+
+Do we want to do more than just that? Of course we do! We want to fully
+specify how some of these DID Methods work, generate thorough test suites for
+them, and take those specifications through the W3C standardization process.
+Do we need to do that to demonstrate practical interoperability? Nope, 
+because we have achieved demonstrating practical interoperability through
+end-to-end integration testing.
+
 ### Is the DID specification decentralized enough?
 
 Yes, there are [112 DID Methods](https://www.w3.org/TR/did-spec-registries/#did-methods) 
