@@ -7,6 +7,7 @@ This document is maintained by Manu Sporny, one of the Editors of the
 DID Core 1.0 specification.
 
 1. [What is going on?](#what-is-going-on)
+1. [Why does the W3C hate decentralization?](#why-does-the-w3c-hate-decentralization)
 1. [What happens if the objections are upheld?](#what-happens-if-the-objections-are-upheld)
 1. [Why the concern over Google, Apple, and Mozilla objecting?](#why-the-concern-over-google-apple-and-mozilla-objecting)
 1. [Did the DID Working Group follow its charter?](#did-the-did-working-group-follow-its-charter)
@@ -75,6 +76,31 @@ That is, in a nutshell, what is going on.
 You can read more about what's going on here:
 
 [Does the W3C Still Believe in Tim Berners-Lee’s Vision of Decentralization?](https://www.evernym.com/blog/w3c-vision-of-decentralization/)
+
+### Why does the W3C hate decentralization?
+
+The W3C does not hate decenrtalization. Much of social media reporting on 
+this incident has confused what is and is not an official W3C position.
+
+W3C is a membership organization that consists of over 450 companies. When
+there is a new technology that has completed standardization in a Working
+Group, the entire membership is urged to vote on the standard. One company,
+one vote; a startup consisting of three people has the same voting power
+as the biggest technology company. In this case, three of those companies 
+objected (0.6%, a little over half of a percent are concerned about the
+standard) and the [W3C Process](https://www.w3.org/Consortium/Process/), 
+which operates on consensus, and requires that we process those objections.
+This is a case of a very small minority disagreeing about the standard.
+It is not the position of the majority of the membership.
+
+In fact, there is work to establish a new 
+[Vision for the W3C](https://github.com/WebStandardsFuture/Vision), 
+firmly rooted in principles, where one of those principles is to
+"Ensure the Web does not favor centralization." While it doesn't
+go as far as saying "The Web must favor decentralization.", it 
+is certainly not a position against decentralization. There are many 
+individuals and companies at W3C that believe in decentralization 
+and continue to push the Web to be more decentralized than it is today.
 
 ### What happens if the objections are upheld?
 
