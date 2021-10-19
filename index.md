@@ -11,6 +11,7 @@ DID Core 1.0 specification.
 1. [What happens if the objections are upheld?](#what-happens-if-the-objections-are-upheld)
 1. [Why the concern over Google, Apple, and Mozilla objecting?](#why-the-concern-over-google-apple-and-mozilla-objecting)
 1. [Did the DID Working Group follow its charter?](#did-the-did-working-group-follow-its-charter)
+1. [Did the DID Core specification get wide review?](#did-the-did-core-specification-get-wide-review)
 1. [Was practical interoperability achieved?](#was-practical-interoperability-achieved)
 1. [Is the DID specification decentralized enough?](#is-the-did-specification-decentralized-enough)
 1. [Does the DID specification cause great environmental harm?](#does-the-did-specification-cause-great-environmental-harm)
@@ -156,6 +157,24 @@ implementations within a single DID Method. That said, it happened
 anyway (outside of the WG) to some degree that is elaborated upon
 in the question about 
 [practical interoperability](#was-practical-interoperability-achieved).
+
+### Did the DID Core specification get wide review?
+
+Yes, more than many W3C specifications that have been published 
+as global standards. Here are the communities outside of the DID 
+Working Group that reviewed the DID specification, many of which 
+sent representatives to participate in the work over the years 
+before and during the Working Group's lifetime:
+
+* W3C Technical Architecture Working Group ([review](https://github.com/w3ctag/design-reviews/issues/556#issuecomment-763900128))
+* W3C Security and Privacy Interest Group ([review](https://lists.w3.org/Archives/Public/public-privacy/2021JanMar/0021.html))
+* W3C Accessibility Working Group ([review](https://github.com/w3c/did-core/issues/105#issuecomment-655616261))
+* W3C Internationalization Working Group ([review](https://github.com/w3c/did-core/issues/104#issuecomment-649187234))
+* W3C Credentials Community Group (CCG) (sent participants who became a core part of the DID WG)
+* Decentralized Identity Foundation (DIF) (sent participants who became a core part of the DID WG)
+* Hyperledger Indy and Aries (sent participants who became a core part of the DID WG)
+* Rebooting the Web of Trust Community (sent participants who became a core part of the DID WG)
+* 42 DID Method implementers provided implementations to the test suite (most from outside of the DID WG)
 
 ### Was practical interoperability achieved?
 
