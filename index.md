@@ -243,11 +243,11 @@ standardizing DID Methods (as described above).
 You can see this in action today (huge shout out to Charles Lehner and Spruce
 for putting this tool together) by going to:
 
-https://demo.didkit.dev/2021/08/multiverifier/
+[https://demo.didkit.dev/2021/08/multiverifier/](https://demo.didkit.dev/2021/08/multiverifier/)
 
 Copy-pasting the contents of this page into the tool above:
 
-https://raw.githubusercontent.com/w3c-ccg/vc-http-api-test-suite/main/packages/vc-http-api-test-server/__fixtures__/verifiableCredentials/case-1.json
+[https://raw.githubusercontent.com/w3c-ccg/vc-api-test-suite/main/packages/vc-http-api-test-server/__fixtures__/verifiableCredentials/case-1.json](https://raw.githubusercontent.com/w3c-ccg/vc-api-test-suite/main/packages/vc-http-api-test-server/__fixtures__/verifiableCredentials/case-1.json)
 
 ... and clicking "Verify". You'll see that some of the endpoints fail, but at
 least five of the vendors pass. This is "practical interoperability" for at
