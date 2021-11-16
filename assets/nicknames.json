@@ -881,5 +881,11 @@
     {
         "nick": ["chn"],
         "name": "Cihan Saglam"
+    },
+    {
+        "nick": [
+            "logan", "Logan_Porter"
+        ],
+        "name": "Logan Porter"
     }
 ]
