@@ -218,7 +218,7 @@ To see if you have interoperability at a high level (also known as an
 integration test), you can take a Verifiable Credential and give it to two
 different Verifier implementations. If both implementations verify
 successfully, and use different code bases, you can be fairly certain that
-interoperability exists in the ecosystem. Why is this?
+practical interoperability exists in the ecosystem. Why is this?
 
 If you look at this from the perspective of a Verifier, the only thing it
 cares about is that it has a DID, it feeds it to a DID Resolver, and it gets
@@ -245,23 +245,27 @@ for putting this tool together) by going to:
 
 [https://demo.didkit.dev/2021/08/multiverifier/](https://demo.didkit.dev/2021/08/multiverifier/)
 
-Copy-pasting the contents of this page into the tool above:
+Copy-pasting the contents of these pages, which utilize the did:key and did:web
+Methods respectively, into the tool above:
 
 [https://raw.githubusercontent.com/w3c-ccg/vc-api-test-suite/main/packages/vc-http-api-test-server/__fixtures__/verifiableCredentials/case-1.json](https://raw.githubusercontent.com/w3c-ccg/vc-api-test-suite/main/packages/vc-http-api-test-server/__fixtures__/verifiableCredentials/case-1.json)
 
+[https://raw.githubusercontent.com/w3c-ccg/vc-api-test-suite/61d498cd04c45a22b9578774e6a066b59a8f4e94/packages/vc-http-api-test-server/__fixtures__/verifiableCredentials/case-5.json](https://raw.githubusercontent.com/w3c-ccg/vc-api-test-suite/61d498cd04c45a22b9578774e6a066b59a8f4e94/packages/vc-http-api-test-server/__fixtures__/verifiableCredentials/case-5.json)
+
 ... and clicking "Verify". You'll see that some of the endpoints fail, but at
 least five of the vendors pass. This is "practical interoperability" for at
-least did:key because many of the passing systems don't use the same DID
-Resolver implementation, but successfully resolve the did:key:z6Mki...vJ3
-value into the appropriate DID Document and use the public key contained
-within to verify the digital signature.
+least did:key and did:web because many of the passing systems don't use the 
+same DID Resolver implementation, but successfully resolve the 
+did:key:z6Mki...vJ3 and did:web:vc.transmute.world values into the appropriate 
+DID Documents and use the public key contained within to verify the 
+digital signature.
 
 Do we want to do more than just that? Of course we do! We want to fully
 specify how some of these DID Methods work, generate thorough test suites for
 them, and take those specifications through the W3C standardization process.
 Do we need to do that to demonstrate practical interoperability? Nope, 
-because we have achieved demonstrating practical interoperability through
-end-to-end integration testing.
+because we have already achieved demonstrating practical interoperability 
+through end-to-end integration testing.
 
 ### Is the DID specification decentralized enough?
 
