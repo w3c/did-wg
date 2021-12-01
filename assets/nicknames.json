@@ -694,7 +694,8 @@
     },
     {
         "nick": [
-            "Yoshifumi"
+            "Yoshifumi",
+            "takeuchi"
         ],
         "name": "Yoshifumi Takeuchi"
     },
@@ -887,5 +888,18 @@
             "logan", "Logan_Porter"
         ],
         "name": "Logan Porter"
+    },
+    {
+        "nick": [
+            "Dongwon_Kang"
+        ],
+        "name": "Dongwon Kang"
+    },
+    {
+        "nick": [
+            "Emanuel_Silva"
+        ],
+        "name": "Emanuel Silva"
     }
+
 ]
