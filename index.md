@@ -35,19 +35,19 @@ that did not resolve the formal objections.
 The acting W3C Director then decided to request feedback using an 
 [experimental group called the W3C Formal Objection Council](https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-10-05-did#section2),
 which is to be composed of the W3C CEO, the W3C Advisory Board, and the W3C
-Technical Architecture Group. This will be the first time the new W3C Council
-Formal Objection resolution process is going to be used for this sort of
+Technical Architecture Group. This will be the first time the new W3C 
+Formal Objection Council resolution process is going to be used for this sort of
 objection. The Decentralized Identifier Working Group is deeply frustrated by
 this recent turn of events, but understands that someone needs to be the first
 through this new process. Ultimately, the decision to overturn the objections or
 to uphold them will be up to the W3C Director, however, it is expected that this
 particular run will set precedent for how this is handled at W3C in the future.
 
-It has been over three months since the formal objection was raised, with 
-an expectation that the W3C Formal Objection Council will hear arguments 
-for and against in early 2022. The W3C Advisory Board has struggled to 
-finalize the rules of operation for the W3C Formal Objection Council over 
-the past several months.
+It has been over three months since the formal objection was raised, with an
+expectation that the W3C Formal Objection Council will hear arguments for and
+against the ratification of DID Core in early 2022. The W3C Advisory Board has
+struggled to finalize the rules of operation for the W3C Formal Objection
+Council over the past several months.
 
 That is, in a nutshell, what is going on.
 
@@ -169,7 +169,7 @@ Principles.
 
 ### Why does the W3C hate decentralization?
 
-The W3C does not hate decenrtalization. Much of social media reporting on this
+The W3C does not hate decentralization. Much of social media reporting on this
 incident has confused what is and is not an official W3C position.
 
 W3C is a membership organization that consists of over 450 companies. When there
@@ -194,7 +194,7 @@ it is today.
 
 ### What happens if the objections are upheld?
 
-There will be no official Decentralized Identifier standard for the forseeable
+There will be no official Decentralized Identifier standard for the foreseeable
 future. If the objections are upheld, the specification will be sent back to
 the DID Working Group for "further work". The further work will be determined by
 negotiating with the objectors on what they want to see changed in the
@@ -219,7 +219,7 @@ The success criteria described in the DID Working Group charter states:
   production and consumption of DIDs (URI syntax) and DID Documents
   (data model).
 
-There are 112 DID Methods that have been registered as "Provisional" in
+There are 112 DID Methods that have been registered in
 the [DID Method Registry](https://www.w3.org/TR/did-spec-registries/#did-methods). 
 Of these, 47 DID Method implementations have been submitted to the DID Core test
 suite with the 
@@ -284,18 +284,14 @@ as well as [European Union initiatives](https://essif-lab-infrastructure-oriente
 The DID Working Group seems to be willing to add the topic of standardizing some
 DID Methods under a future charter.
 
-To explain this from a differnt angle, it helps to understand how DIDs are used
+To explain this from a different angle, it helps to understand how DIDs are used
 within 
 [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/#introduction), 
 which was ratified as a W3C global standard two years ago.
 
 In order to verify a Verifiable Credential that was digitally signed using a
 public key associated with a Decentralized Identifier, you have to use a couple
-of things.
-
-1. DID Syntax
-2. DID Resolver
-3. DID Document
+of things: 1) the DID Syntax, 2) a DID Resolver, and 3) a DID Document.
 
 First, you need to know what a DID looks like -- that's DID Syntax. You then
 need to feed that DID into something to get a DID Document back -- that's the
@@ -304,9 +300,9 @@ to find the public key you're looking for -- that's the DID Document.
 
 To see if you have interoperability at a high level (also known as an
 integration test), you can take a Verifiable Credential and give it to two
-different Verifier implementations. If both implementations verify successfully,
-and use different code bases, you can be fairly certain that practical
-interoperability exists in the ecosystem. Why is this?
+different Verifier implementations. If both implementations verify the digital
+signatures successfully, and use different code bases, you can be fairly certain
+that practical interoperability exists in the ecosystem. Why is this?
 
 If you look at this from the perspective of a Verifier, the only thing it cares
 about is that it has a DID, it feeds it to a DID Resolver, and it gets back a
@@ -378,12 +374,12 @@ contains 36 criteria to be considered, a number of them on different axes of
 
 What the group has discovered over the past several years of pre-standards and
 standards work is that "decentralization" is not a binary condition, but a
-multi-dimensional one where different parties weigh each dimension differently
-and there is no single correct answer wrt. Centralized vs. Decentralized. The
-DID Working Group did, as much as it could practically do, without imposing
-draconian rules that at best, wouldn't be followed, or at worst, could be viewed
-as censoring the ability of an individual or organization from choosing a
-solution based on their needs.
+multi-dimensional one where different parties weigh each dimension differently.
+There is no single correct answer with respect to the question of Centralized
+vs. Decentralized. The DID Working Group did, as much as it could practically
+do, without imposing draconian rules that at best, wouldn't be followed, or at
+worst, could be viewed as censoring the ability of an individual or organization
+from choosing a solution based on their needs.
 
 The DID Working Group believes that it has achieved the decentralization goals
 that it intended to achieve and has documented the areas of debate such that
@@ -400,10 +396,11 @@ There is a good article on this particular point here:
 
 Some distributed ledgers consume greater computational resources than others.
 Whether that consumption is warranted or wasteful is an ongoing conversation far
-beyond the scope of the DID Working Group. Within the WG, resource usage has
-been a regular topic of debate, and like the "centralized vs. decentralized"
-discussion, the answer largely depends on the requirements of the individual or
-organization using the DID Method. There is implementation guidance that is 
+beyond the scope of the DID Working Group. Within the Working Group, resource
+usage has been a regular topic of debate, and like the "centralized vs.
+decentralized" discussion, the answer largely depends on the requirements of the
+individual or organization using the DID Method. There is implementation
+guidance that is 
 [currently being written](https://github.com/w3c/did-imp-guide/pull/27) 
 that urges implementers to carefully consider the potential environmental
 impacts of their DID Methods, as well as additional criteria for the 
@@ -437,33 +434,28 @@ This is already happening to a degree, with many implementers supporting things
 like did:key and did:web over some of the more esoteric DID Methods. The start
 of successful technology cycles often start with an explosion of options
 followed by market consolidation due to the difficulty of supporting every
-option. This is something that any W3C WG has very little control over when
-introducing new technologies.
+option. This is something that any W3C Working Group has very little control 
+over when introducing new technologies.
 
 The DID Working Group would most likely be open to strategies that would provide
 healthy nudges to the market to consolidate sooner rather than later,
 understanding that we have few tools to enforce that in a decentralized
 ecosystem.
 
-### Why the concern over Google, Apple, and Mozilla objecting?
-
-The concern is that Google, Apple, and Mozilla are objecting and then get to be
-on the W3C Council that determines whether or not the objection is valid. That
-is, these three companies have a non-trivial influence on overriding what 40
-companies have found consensus to standardize at W3C. There are concerns around
-some of the biggest tech companies on the planet being able to stop global
-standards that would open their businesses up to more competition.
+### Why the concern over Google and Apple objecting?
 
 Google and Apple are two of the largest identity providers on the planet. Google
 Accounts, Apple ID, Sign in with Google, and Sign in with Apple are a few of the
 products and services that could be viewed as competing with the W3C
-Decentralized Identifiers specification.
+Decentralized Identifiers specification. Similarly, the DID Working Group is 
+composed of companies that might compete with Google and Apple's identity 
+services.
 
 Speaking more broadly, Google Wallet, Apple Wallet, and initiatives such as
 Apple's integration of Mobile Driver's Licenses into an ecosystem that does not
 allow open competition is also problematic:
 
-[https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/](https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/)
+[https://www.cnbc.com/2021/11/14/apple-sticking-taxpayers-with-part-of-the-bill-for-digital-id-rollout.html](https://www.cnbc.com/2021/11/14/apple-sticking-taxpayers-with-part-of-the-bill-for-digital-id-rollout.html)
 
 There is a belief that some of these systems are not in the best interest of the
 general public. Here is a statement from the Technical Director of the DHS
@@ -497,69 +489,40 @@ took years of concerted effort, and it's exactly this sort of situation that
 reassures their fears. Members of the DID Working Group have received a
 substantive number of texts and emails since Apple, Google, and Mozilla's
 formal objections, primarily due to the way they were raised and how they're
-being processed.
+being processed. That said, the same could be levied against the organizations 
+supporting the publication of DIDs as a global standard. They too have 
+commercial interests. The concern is ensuring that everyone gets to make their 
+arguments on equal footing to the W3C Formal Objection Council, and progress 
+is being made to ensure that that happens.
 
 ### How long will this take?
 
 There is no time limit set on when objections are upheld or rejected. It is
 typically done within a month or two of the formal objections being raised,
-but can drag on for months after that.
+but can drag on for months after that. There is recent news that expects 
+the Formal Objection Council to convene and take up this issue in the early 
+part of 2022.
 
 ### What could be done in the future to avoid this?
 
 Probably not much; formal objections at the last minute can and do happen. It's
-been this way for decades and is unlikely to change. This particular occurence
+been this way for decades and is unlikely to change. This particular occurrence
 is especially disruptive because of an experiment that is being run to determine
 if the new formal objection process is acceptable to the membership.
 
-There are four aspects of how this came about and how the Formal Objection Council will operate that are deeply concerning:
+There is, however, one aspect that the DID Working Group finds distasteful and
+is currently not being considered for revision. Google, Apple, and Mozilla made
+no attempt to bring their formal objections to the Decentralized Identifier
+Working Group since the Working Group started, and then during the first
+transition to Candidate Recommendation and then during the second transition to
+Candidate Recommendation. The first time the group heard of these objections
+during its two-year charter was in the days before the poll closed to approve
+DID Core 1.0 as a W3C Recommendation.
 
-1. The objectors (Google, Apple, and Mozilla), and the proponents (over 40
-companies) collectively hold 7 out of the 21 seats on the W3C Formal Objection
-Council. This enables 1/3rd of the W3C Council who are formally objecting to the
-ratification of DID Core to engage in what is supposed to be an impartial and
-fair process.
+There are courses of action that the W3C Membership can take to resolve this 
+(but again, this is currently a topic of debate):
 
-2. The new W3C Council Formal Objection Process gently suggests that individuals
-that might have a conflict of interest can voluntarily recuse themselves; the
-decision is left up to the individual. Apple has raised a formal objection and
-sits on both the W3C AB and W3C TAG; are both individuals expected to recuse
-themselves? The hope is that the answer to this question is "Yes, because the
-formal objection is on behalf of Apple and therefore, there is a conflict of
-interest." The same recusal issue applies to Google's representatives.
-
-3. The W3C Team, who have a long and positive track record of striking the right
-balance when providing input into these sorts of decisions, will be all but
-stripped of any voting authority (having only 1 seat out of 21 on the council)
-when the W3C Formal Objection Council process is finalized. While the current
-decision is going to be with the Director, the future situation largely
-eliminates substantive input from the W3C Team.
-
-4. Lastly, Google, Apple, and Mozilla made no attempt to bring their formal
-objections to the Decentralized Identifier Working Group since the Working Group
-started, and then during the first transition to Candidate Recommendation and
-then during the second transition to Candidate Recommendation. The first time
-the group heard of these objections during its two-year charter was in the days
-before the poll closed to approve DID Core 1.0 as a W3C Recommendation.
-
-There are courses of action that the W3C Membership can take to resolve these
-concerns (but again, all of these are currently being debated):
-
-1. Make communicating with the W3C Council regarding the formal objection
-strictly off-limits outside of the formal objection process (public
-communication is allowed, but "backroom" communication is disallowed). Violating
-this hard line should result in removal from the W3C TAG or W3C AB because it is
-an egregious violation of trust in our elected representatives.
-
-2. Make recusal from the W3C Council decision mandatory for any individual that
-is associated on either side of the formal objection.
-
-3. Ensure that the W3C Staff are a substantive part of the formal objection
-process, and not relegated to the sidelines as they seem to be in the new W3C
-Council-based process. They are a check and balance that we should be depending
-on as a community.
-
-4. Strike down formal objections that made no attempt to engage with the Working
+Strike down formal objections that made no attempt to engage with the Working
 Group. Allowing formal objections in the 11th hour accomplishes nothing other
 than stress, distrust, and drama -- three things we don't need more of at W3C.
 The W3C Process should be predictable, trustworthy, and boring.
