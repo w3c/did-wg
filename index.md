@@ -1,4 +1,4 @@
-## DID Core Formal Objection FAQ
+## DID Formal Objection FAQ
 
 This is a single place that collects Frequently Asked Questions and links about
 the recent set of objections that Google, Apple, and Mozilla filed against the
