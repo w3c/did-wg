@@ -1,15 +1,23 @@
 ## DID Formal Objection FAQ
 
-This is a single place that collects Frequently Asked Questions and links about
-the recent set of objections that Google, Apple, and Mozilla filed against the
-W3C Decentralized Identifier specification. This document is maintained by Manu
-Sporny, one of the Editors of the DID Core 1.0 specification.
+This document is an informative document that has been reviewed, 
+published, and is maintained by the 
+[W3C Decentralized Identifier Working Group](https://www.w3.org/2019/did-wg/).
+The document IS NOT a reflection of the views of the objectors 
+(Apple, Google, and Mozilla) to the publication of the DID Core specification.
+Comments regarding this FAQ are welcome and should be sent to the 
+[W3C Advisory Committee Forum](mailto:w3c-ac-forum@w3.org), a
+Member-only W3C mailing list. Any member of the public is also welcome to 
+join the discussion in the 
+[W3C Credentials Community Group](https://www.w3.org/community/credentials/),
+where updates on the status of the DID Core Formal Objections 
+are provided on a regular basis.
 
 1. [What is going on?](#what-is-going-on)
 2. [What are the points of contention?](#what-are-the-points-of-contention)
 3. [Why does the W3C hate decentralization?](#why-does-the-w3c-hate-decentralization)
 4. [What happens if the objections are upheld?](#what-happens-if-the-objections-are-upheld)
-5. [Why the concern over Google, Apple, and Mozilla objecting?](#why-the-concern-over-google-apple-and-mozilla-objecting)
+5. [Why the concern over Google, Apple, and Mozilla objecting?](#why-the-concern-over-google-and-apple-objecting)
 6. [Did the DID Working Group follow its charter?](#did-the-did-working-group-follow-its-charter)
 7. [Did the DID Core specification get wide review?](#did-the-did-core-specification-get-wide-review)
 8. [Was practical interoperability achieved?](#was-practical-interoperability-achieved)
