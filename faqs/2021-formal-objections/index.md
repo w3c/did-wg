@@ -1,16 +1,19 @@
+---
+layout: default
+---
 ## DID Formal Objection FAQ
 
-This document is an informative document that has been reviewed, 
-published, and is maintained by the 
+This document is an informative document that has been reviewed,
+published, and is maintained by the
 [W3C Decentralized Identifier Working Group](https://www.w3.org/2019/did-wg/).
-The document IS NOT a reflection of the views of the objectors 
+The document IS NOT a reflection of the views of the objectors
 (Apple, Google, and Mozilla) to the publication of the DID Core specification.
-Comments regarding this FAQ are welcome and should be sent to the 
+Comments regarding this FAQ are welcome and should be sent to the
 [W3C Advisory Committee Forum](mailto:w3c-ac-forum@w3.org), a
-Member-only W3C mailing list. Any member of the public is also welcome to 
-join the discussion in the 
+Member-only W3C mailing list. Any member of the public is also welcome to
+join the discussion in the
 [W3C Credentials Community Group](https://www.w3.org/community/credentials/),
-where updates on the status of the DID Core Formal Objections 
+where updates on the status of the DID Core Formal Objections
 are provided on a regular basis.
 
 1. [What is going on?](#what-is-going-on)
@@ -32,18 +35,18 @@ are provided on a regular basis.
 
 The [W3C Decentralized Identifier (DID) Working Group](https://www.w3.org/2019/did-wg/)
 achieved [consensus](https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-07-20-did#resolution1) to
-publish [DID Core 1.0](https://www.w3.org/TR/did-core/) as a W3C Recommendation 
-(basically, a global Web standard). There were 
-[40 W3C Member companies](https://www.w3.org/2002/09/wbs/33280/did-core-pr/results) that 
-agreed to publication of DID Core 1.0 as a W3C Recommendation and there were 
-3 companies that objected: Google, Apple, and Mozilla. The W3C Team stepped 
-in to [mediate a discussion](https://www.w3.org/2021/09/21-did10-minutes.html) 
+publish [DID Core 1.0](https://www.w3.org/TR/did-core/) as a W3C Recommendation
+(basically, a global Web standard). There were
+[40 W3C Member companies](https://www.w3.org/2002/09/wbs/33280/did-core-pr/results) that
+agreed to publication of DID Core 1.0 as a W3C Recommendation and there were
+3 companies that objected: Google, Apple, and Mozilla. The W3C Team stepped
+in to [mediate a discussion](https://www.w3.org/2021/09/21-did10-minutes.html)
 that did not resolve the formal objections.
 
-The acting W3C Director then decided to request feedback using an 
+The acting W3C Director then decided to request feedback using an
 [experimental group called the W3C Formal Objection Council](https://www.w3.org/2019/did-wg/Meetings/Minutes/2021-10-05-did#section2),
 which is to be composed of the W3C CEO, the W3C Advisory Board, and the W3C
-Technical Architecture Group. This will be the first time the new W3C 
+Technical Architecture Group. This will be the first time the new W3C
 Formal Objection Council resolution process is going to be used for this sort of
 objection. The Decentralized Identifier Working Group is deeply frustrated by
 this recent turn of events, but understands that someone needs to be the first
@@ -73,7 +76,7 @@ one of the reasons why standardizing DID Methods was explicitly out of scope for
 the first iteration of the DID Working Group. At least one of the objectors
 believes that to have been a mistake, but will have to concretely articulate how
 whatever alternate path they propose will lead to a better or more guaranteed
-outcome. 
+outcome.
 
 The definition of "truly decentralized methods" was a topic of discussion for
 much of the DID Working Group's lifetime, and the discussion produced the DID
@@ -141,7 +144,7 @@ define "truly decentralized" methods, and it's better to document the reality of
 the entire ecosystem than pretend that part of it doesn't exist. We could refuse
 to register centralized DID Methods, but then we must make the whole "is it
 decentralized enough" value judgement when people try to register their DID
-Methods, which often does not come down to an objective measure. 
+Methods, which often does not come down to an objective measure.
 
 If any of the objectors would like to pursue this, the DID Working Group would
 need to understand what concrete set of objective requirements we could apply to
@@ -153,14 +156,14 @@ objective criteria that the group has not already considered.
 #### Sustainability and Conflict Within Ethical Web Principles ("EWP")
 
 As a general rule, the objectors and the DID Working Group care about
-sustainability and the 
-[W3C Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/) 
+sustainability and the
+[W3C Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/)
 (EWP). The DID Working Group would like concrete guidance from the W3C TAG, such
-as updated sections in the 
-[Web Platform Design Principles](https://www.w3.org/TR/design-principles/) 
+as updated sections in the
+[Web Platform Design Principles](https://www.w3.org/TR/design-principles/)
 that are more thoughtful about balancing conflicting EWP requirements, such as
-may arise between sustainability and innovations in 
-[public key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) 
+may arise between sustainability and innovations in
+[public key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 to support digital human rights. Part of this discussion mirrors the
 "decentralized enough" issues highlighted above. What is "compliant enough" from
 an EWP sustainability or EWP freedom of expression perspective? When a solution
@@ -185,14 +188,14 @@ is a new technology that has completed standardization in a Working Group, the
 entire membership is urged to vote on the standard. One company, one vote; a
 startup consisting of three people has the same voting power as the biggest
 technology company. In this case, three of those companies objected (0.6%, a
-little over half of a percent are concerned about the standard) and the 
+little over half of a percent are concerned about the standard) and the
 [W3C Process](https://www.w3.org/Consortium/Process/),
 which operates on consensus, and requires that we process those objections. This
 is a case of a very small minority disagreeing about the standard. It is not the
 position of the majority of the membership.
 
-In fact, there is work to establish a new 
-[Vision for the W3C](https://github.com/WebStandardsFuture/Vision), 
+In fact, there is work to establish a new
+[Vision for the W3C](https://github.com/WebStandardsFuture/Vision),
 firmly rooted in principles, where one of those principles is to "Ensure the Web
 does not favor centralization." While it doesn't go as far as saying "The Web
 must favor decentralization.", it is certainly not a position against
@@ -210,7 +213,7 @@ specification or the approach.
 
 ### Did the DID Working Group follow its charter?
 
-In short, yes it did exactly what was agreed to in the 
+In short, yes it did exactly what was agreed to in the
 [W3C DID Working Group Charter](https://www.w3.org/2020/12/did-wg-charter.html).
 
 The success criteria described in the DID Working Group charter states:
@@ -228,9 +231,9 @@ The success criteria described in the DID Working Group charter states:
   (data model).
 
 There are 112 DID Methods that have been registered in
-the [DID Method Registry](https://www.w3.org/TR/did-spec-registries/#did-methods). 
+the [DID Method Registry](https://www.w3.org/TR/did-spec-registries/#did-methods).
 Of these, 47 DID Method implementations have been submitted to the DID Core test
-suite with the 
+suite with the
 [vast majority passing all features each method implemented](https://w3c.github.io/did-test-suite/#report-by-methods).
 
 The interoperability goal of DID Core was at the data model and serialization
@@ -247,12 +250,12 @@ data model and serialization.
 Some of the preliminary DID Working Group Charter proposals included
 standardizing DID Methods. However, several W3C Members objected to
 standardizing DID Methods and thus standardizing DID Methods was negotiated to
-be out of scope when the 
-[DID Working Group Chartering discussions happened](https://www.w3.org/2020/12/did-wg-charter.html#out-of-scope). 
+be out of scope when the
+[DID Working Group Chartering discussions happened](https://www.w3.org/2020/12/did-wg-charter.html#out-of-scope).
 The DID Working Group was specifically prevented from ensuring multiple
 interoperable implementations within a single DID Method. That said, it happened
 anyway (outside of the WG) to some degree that is elaborated upon in the
-question about 
+question about
 [practical interoperability](#was-practical-interoperability-achieved).
 
 ### Did the DID Core specification get wide review?
@@ -283,18 +286,18 @@ interoperability across DID Methods.
 Going above and beyond what was required by our charter, some DID Method
 implementers, such as for did:key and did:web, have demonstrated
 interoperability between multiple independent implementations in forums such as
-those the US DHS Silicon Valley Innovation Program has required of 
-[vendors implementing this technology in government programs](https://docs.google.com/presentation/d/1MeeP7vDXb9CpSBfjTybYbo8qJfrrbrXCSJa0DklNe2k/edit). 
-The same is true for 
-[Canadian government initiatives](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html) 
+those the US DHS Silicon Valley Innovation Program has required of
+[vendors implementing this technology in government programs](https://docs.google.com/presentation/d/1MeeP7vDXb9CpSBfjTybYbo8qJfrrbrXCSJa0DklNe2k/edit).
+The same is true for
+[Canadian government initiatives](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
 as well as [European Union initiatives](https://essif-lab-infrastructure-oriented.fundingbox.com/).
 
 The DID Working Group seems to be willing to add the topic of standardizing some
 DID Methods under a future charter.
 
 To explain this from a different angle, it helps to understand how DIDs are used
-within 
-[Verifiable Credentials](https://www.w3.org/TR/vc-data-model/#introduction), 
+within
+[Verifiable Credentials](https://www.w3.org/TR/vc-data-model/#introduction),
 which was ratified as a W3C global standard two years ago.
 
 In order to verify a Verifiable Credential that was digitally signed using a
@@ -361,8 +364,8 @@ integration testing.
 
 ### Is the DID specification decentralized enough?
 
-Yes, there are 
-[112 DID Methods](https://www.w3.org/TR/did-spec-registries/#did-methods) 
+Yes, there are
+[112 DID Methods](https://www.w3.org/TR/did-spec-registries/#did-methods)
 where the majority of them are based on more "decentralized" technologies, such
 as distributed ledgers (did:ion, did:sov, did:v1) or storage-less distributed
 systems (did:key), than others that are based on centralized systems (did:ccp,
@@ -373,8 +376,8 @@ their DID Methods are based should be an indicator that we have achieved to make
 things decentralized. That said, it became evident early on that not everyone
 agrees on every type of "decentralization" (governance, computational,
 political, regional, etc.) that is important for a DID Method. For this reason,
-the DID Working Group has spent a considerable amount of time creating a 
-[DID Rubric](https://www.w3.org/TR/did-rubric/) 
+the DID Working Group has spent a considerable amount of time creating a
+[DID Rubric](https://www.w3.org/TR/did-rubric/)
 that enables organizations to evaluate whether or not a DID Method meets the
 decentralization criteria that's important to them. The Rubric currently
 contains 36 criteria to be considered, a number of them on different axes of
@@ -408,17 +411,17 @@ beyond the scope of the DID Working Group. Within the Working Group, resource
 usage has been a regular topic of debate, and like the "centralized vs.
 decentralized" discussion, the answer largely depends on the requirements of the
 individual or organization using the DID Method. There is implementation
-guidance that is 
-[currently being written](https://github.com/w3c/did-imp-guide/pull/27) 
+guidance that is
+[currently being written](https://github.com/w3c/did-imp-guide/pull/27)
 that urges implementers to carefully consider the potential environmental
-impacts of their DID Methods, as well as additional criteria for the 
-[DID Rubric](https://www.w3.org/TR/did-rubric/) to help people decide 
+impacts of their DID Methods, as well as additional criteria for the
+[DID Rubric](https://www.w3.org/TR/did-rubric/) to help people decide
 which DID Methods best meet their needs.
 
-The DID Working Group is actively 
-[addressing this concern in the DID Implementation Guide](https://github.com/w3c/did-imp-guide/pull/27) and the 
+The DID Working Group is actively
+[addressing this concern in the DID Implementation Guide](https://github.com/w3c/did-imp-guide/pull/27) and the
 [DID Rubric](https://www.w3.org/TR/did-rubric/), intends to continue this
-discussion in future WGs, and welcomes others to contribute to the 
+discussion in future WGs, and welcomes others to contribute to the
 authoring of this sort of material.
 
 ### Does the DID specification encourage ever growing divergence?
@@ -436,13 +439,13 @@ One of the reasons for this is an inverse power law that comes into play in most
 markets, where a market over time, will tend to consolidate on a handful of
 implementation choices. Many modern systems have largely settled on https and
 webrtc and left gopher and ftp behind; but the consolidation took many years to
-play out. In the same way, we expect this to happen with DID Methods. 
+play out. In the same way, we expect this to happen with DID Methods.
 
 This is already happening to a degree, with many implementers supporting things
 like did:key and did:web over some of the more esoteric DID Methods. The start
 of successful technology cycles often start with an explosion of options
 followed by market consolidation due to the difficulty of supporting every
-option. This is something that any W3C Working Group has very little control 
+option. This is something that any W3C Working Group has very little control
 over when introducing new technologies.
 
 The DID Working Group would most likely be open to strategies that would provide
@@ -455,8 +458,8 @@ ecosystem.
 Google and Apple are two of the largest identity providers on the planet. Google
 Accounts, Apple ID, Sign in with Google, and Sign in with Apple are a few of the
 products and services that could be viewed as competing with the W3C
-Decentralized Identifiers specification. Similarly, the DID Working Group is 
-composed of companies that might compete with Google and Apple's identity 
+Decentralized Identifiers specification. Similarly, the DID Working Group is
+composed of companies that might compete with Google and Apple's identity
 services.
 
 Speaking more broadly, Google Wallet, Apple Wallet, and initiatives such as
@@ -497,18 +500,18 @@ took years of concerted effort, and it's exactly this sort of situation that
 reassures their fears. Members of the DID Working Group have received a
 substantive number of texts and emails since Apple, Google, and Mozilla's
 formal objections, primarily due to the way they were raised and how they're
-being processed. That said, the same could be levied against the organizations 
-supporting the publication of DIDs as a global standard. They too have 
-commercial interests. The concern is ensuring that everyone gets to make their 
-arguments on equal footing to the W3C Formal Objection Council, and progress 
+being processed. That said, the same could be levied against the organizations
+supporting the publication of DIDs as a global standard. They too have
+commercial interests. The concern is ensuring that everyone gets to make their
+arguments on equal footing to the W3C Formal Objection Council, and progress
 is being made to ensure that that happens.
 
 ### How long will this take?
 
 There is no time limit set on when objections are upheld or rejected. It is
 typically done within a month or two of the formal objections being raised,
-but can drag on for months after that. There is recent news that expects 
-the Formal Objection Council to convene and take up this issue in the early 
+but can drag on for months after that. There is recent news that expects
+the Formal Objection Council to convene and take up this issue in the early
 part of 2022.
 
 ### What could be done in the future to avoid this?
@@ -527,7 +530,7 @@ Candidate Recommendation. The first time the group heard of these objections
 during its two-year charter was in the days before the poll closed to approve
 DID Core 1.0 as a W3C Recommendation.
 
-There are courses of action that the W3C Membership can take to resolve this 
+There are courses of action that the W3C Membership can take to resolve this
 (but again, this is currently a topic of debate):
 
 Strike down formal objections that made no attempt to engage with the Working
