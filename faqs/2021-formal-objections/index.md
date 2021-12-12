@@ -501,7 +501,7 @@ these stories highlight this particular concern:
 
 [https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/](https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/)
 
-[https://www.coincenter.org/open-blockchains-and-decentralized-identity-standards/](https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/)
+[https://www.coincenter.org/open-blockchains-and-decentralized-identity-standards/](https://www.coincenter.org/open-blockchains-and-decentralized-identity-standards/)
 
 There was significant effort expended to get many of these "decentralized
 technology" companies to W3C and convince them that the browser vendors didn't
@@ -533,22 +533,27 @@ if the new formal objection process is acceptable to the membership.
 There is, however, one aspect that the DID Working Group finds distasteful and
 is currently not being considered for revision. Google, Apple, and Mozilla made
 no attempt to bring their formal objections to the Decentralized Identifier
-Working Group since the Working Group started, and then during the first
-transition to Candidate Recommendation and then during the second transition to
-Candidate Recommendation. The first time the group heard of these objections
-during its two-year charter was in the days before the poll closed to approve
-DID Core 1.0 as a W3C Recommendation.
+Working Group since the Working Group started (September 2019), and then during
+the first transition to Candidate Recommendation (March 2021) and then during
+the second transition to Candidate Recommendation (June 2021). The first time
+the group heard of these objections during its two-years of operation was in the
+days before the poll closed to approve DID Core 1.0 as a W3C Recommendation
+(global standard).
 
 There are courses of action that the W3C Membership can take to resolve this
 (but again, this is currently a topic of debate):
 
 Strike down formal objections that made no attempt to engage with the Working
 Group. Allowing formal objections in the 11th hour accomplishes nothing other
-than stress, distrust, and drama -- three things we don't need more of at W3C.
-The W3C Process should be predictable, trustworthy, and boring.
+than stress, distrust, and drama -- three things that should be avoided at  a
+global standards-setting organization such as the W3C. The W3C Process should be
+predictable, trustworthy, and boring.
 
 ### Who else has written about this?
 
-You can read more about what's going on here:
+There are a number of parties that have written in detail about the DID Core 
+Formal Objections:
 
-[Does the W3C Still Believe in Tim Berners-Lee’s Vision of Decentralization?](https://www.evernym.com/blog/w3c-vision-of-decentralization/)
+* [Does the W3C Still Believe in Tim Berners-Lee’s Vision of Decentralization?](https://www.evernym.com/blog/w3c-vision-of-decentralization/)
+* [Open Blockchains and Decentralized Identity Standards](https://www.coincenter.org/open-blockchains-and-decentralized-identity-standards/)
+* [Is Mozilla Trying To Sabotage Distributed Identity?](https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/)
