@@ -455,56 +455,65 @@ ecosystem.
 
 ### Why the concern over Google and Apple objecting?
 
-Google and Apple are two of the largest identity providers on the planet. Google
+NOTE: This question is in the FAQ because it has been asked multiple times by 
+W3C Members and the general public. Note that the concerns raised in this 
+answer are not shared by every member of the W3C, W3C Decentralized Identifier 
+Working Group, or all parties associated with the work on Decentralized 
+Identifiers. The answer highlights what has been articulated as a concern by 
+a number of parties.
+
+Google and Apple are two of the largest identity providers in the world. Google
 Accounts, Apple ID, Sign in with Google, and Sign in with Apple are a few of the
 products and services that could be viewed as competing with the W3C
 Decentralized Identifiers specification. Similarly, the DID Working Group is
 composed of companies that might compete with Google and Apple's identity
-services.
+services, and therefore it is important to understand that there is bias in 
+both directions.
 
-Speaking more broadly, Google Wallet, Apple Wallet, and initiatives such as
-Apple's integration of Mobile Driver's Licenses into an ecosystem that does not
-allow open competition is also problematic:
+Speaking specifically to the concern over Google and Apple; Google Wallet, Apple
+Wallet, and initiatives such as Apple's integration of Mobile Driver's Licenses
+into an ecosystem that does not allow open competition is of concern:
 
 [https://www.cnbc.com/2021/11/14/apple-sticking-taxpayers-with-part-of-the-bill-for-digital-id-rollout.html](https://www.cnbc.com/2021/11/14/apple-sticking-taxpayers-with-part-of-the-bill-for-digital-id-rollout.html)
 
 There is a belief that some of these systems are not in the best interest of the
 general public. Here is a statement from the Technical Director of the DHS
 Silicon Valley Innovation Program commenting on why the approach taken with
-some of these closed Digital Wallet ecosystems is problematic:
+some of these closed Digital Wallet ecosystems is concerning:
 
 [https://lists.w3.org/Archives/Public/public-credentials/2021Oct/0005.html](https://lists.w3.org/Archives/Public/public-credentials/2021Oct/0005.html)
 
 The W3C Decentralized Identifier WG, W3C Verifiable Credentials WG, and the
 Credentials Community Group are working on open wallet ecosystems. Yet another
-class of products and services that could be viewed as competitive.
+class of products and services that could be viewed as competitive with 
+Google and Apple's current lines of business.
 
 There is concern over the individuals that work for these corporations being
 biased in some way by the competing technologies and services that their
 companies are producing. While these individuals are believed to be unbiased by
-some and are not expected to just tow tow the company line... it's not
-appropriate for them to be a part of the decision making process for their
-company's formal objections because it raises doubt over the fairness of the
-W3C Council Formal Objection process. That's the more damaging thing to W3C as
-a community; accidentally fomenting distrust in the process. We're already
-starting to see the first well-written opinion pieces hit the media outlets on
-this concern:
+some and are not expected to just tow tow the company line... it has between
+suggested that it is inappropriate for them to be a part of the decision making
+process for their company's formal objections because it raises doubt over the
+fairness of the W3C Council Formal Objection process. There is concern that
+W3C's reputation  might be damaged if there is an unevenness in representation,
+which might accidentally foment distrust in the process. Media coverage such as
+these stories highlight this particular concern:
 
 [https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/](https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/)
 
 [https://www.coincenter.org/open-blockchains-and-decentralized-identity-standards/](https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/)
 
-It was quite difficult to get many of these "decentralized technology" companies
-to W3C and convince them that the browser vendors didn't run the show at W3C. It
-took years of concerted effort, and it's exactly this sort of situation that
-reassures their fears. Members of the DID Working Group have received a
-substantive number of texts and emails since Apple, Google, and Mozilla's
-formal objections, primarily due to the way they were raised and how they're
-being processed. That said, the same could be levied against the organizations
-supporting the publication of DIDs as a global standard. They too have
-commercial interests. The concern is ensuring that everyone gets to make their
-arguments on equal footing to the W3C Formal Objection Council, and progress
-is being made to ensure that that happens.
+There was significant effort expended to get many of these "decentralized
+technology" companies to W3C and convince them that the browser vendors didn't
+run the show at W3C. It took years of concerted effort, and it's exactly this
+sort of situation that reassures their fears. Members of the DID Working Group
+have received a substantive number of communications since Apple, Google, and
+Mozilla's formal objections, primarily due to the way they were raised and how
+they're being processed. That said, the same concern could be levied against the
+organizations supporting the publication of DIDs as a global standard; they too,
+have a profit motive and  commercial interests. The concern is ensuring that
+everyone gets to make their arguments on equal footing to the W3C Formal
+Objection Council, and progress is being made to ensure that that happens.
 
 ### How long will this take?
 
