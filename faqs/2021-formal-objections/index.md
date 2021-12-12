@@ -554,6 +554,10 @@ predictable, trustworthy, and boring.
 There are a number of parties that have written in detail about the DID Core 
 Formal Objections:
 
+* [Decentralized Identity Foundation and ToIP joint Statement of Support for the Decentralized Identifiers (DIDs) v1.0 specification becoming a W3C Standard](https://blog.identity.foundation/w3cdidspec/)
 * [Does the W3C Still Believe in Tim Berners-Lee’s Vision of Decentralization?](https://www.evernym.com/blog/w3c-vision-of-decentralization/)
+* [Indicio’s support for the W3C DID Specification and its path to standardization](https://indicio.tech/indicios-support-for-the-w3c-did-specification-and-its-path-to-standardization/)
+* [DIDs are Dead](https://dwhuseby.medium.com/dids-are-dead-32a5295016c4)
 * [Open Blockchains and Decentralized Identity Standards](https://www.coincenter.org/open-blockchains-and-decentralized-identity-standards/)
 * [Is Mozilla Trying To Sabotage Distributed Identity?](https://www.coindesk.com/business/2021/10/01/is-mozilla-trying-to-sabotage-distributed-identity/)
+* [In Denouncing Bitcoin, Mozilla Undermines Ethical Web Principles](https://bitcoinmagazine.com/culture/mozilla-vs-bitcoin)
