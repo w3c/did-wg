@@ -64,40 +64,40 @@ That is, in a nutshell, what is going on.
 
 ### What are the points of contention?
 
-#### Standardizing "Truly" Decentralized Methods
+#### Standardizing "Usefully Decentralized Methods"
 
 There seems to be general agreement among the objectors and DID Working Group
-that a good future state would be to have a handful of "truly decentralized
+that a good future state would be to have a handful of "usefully decentralized
 methods" that are standardized and broadly adopted. The challenge is that there
 is no concrete proposal among the objectors or the DID Working Group that would
-achieve standardizing a set of "ideal" DID Methods in the near term, because
-there is no agreement on what "truly decentralized" means. This challenge was
-one of the reasons why standardizing DID Methods was explicitly out of scope for
-the first iteration of the DID Working Group. At least one of the objectors
-believes that to have been a mistake, but will have to concretely articulate how
-whatever alternate path they propose will lead to a better or more guaranteed
-outcome.
+achieve standardizing a set of "usefully decentralized DID Methods" in the near
+term, because there is no agreement on what "usefully decentralized" means. This
+challenge was one of the reasons why standardizing DID Methods was explicitly
+out of scope for the first iteration of the DID Working Group. At least one of
+the objectors believes that to have been a mistake, but will have to concretely
+articulate how whatever alternate path they propose will lead to a better or
+more guaranteed outcome.
 
-The definition of "truly decentralized methods" was a topic of discussion for
-much of the DID Working Group's lifetime, and the discussion produced the DID
-Rubric which lists over 36 different types of decentralization that one might
-consider when selecting a DID Method. The WG asks that the objectors be concrete
-in defining which types of decentralization matter to them in a way that will
-result in consensus for the DID Working Group re-chartering process.
+The definition of what "decentralized enough" meant was a topic of discussion
+for much of the DID Working Group's lifetime, and the discussion produced the
+DID Rubric which lists over 36 different types of decentralization that one
+might consider when selecting a DID Method. The WG asks that the objectors be
+concrete in defining which types of decentralization matter to them in a way
+that will result in consensus for the DID Working Group re-chartering process.
 
 #### Usefulness of DID Core, by Itself, as a global standard
 
 At least one of the objectors believes that the DID Core specification by itself
 is not useful enough to publish as a global standard because it does not
-standardize at least a few "truly decentralized methods". The DID Working Group
-believes that DID Core by itself is useful as a global standard today because it
-enables software libraries to be written that conform to the DID Document data
-model (rotatable/revokable public key expression and service descriptions) as
-well as the interface for resolving a DID Document using a DID Document
-Resolver. This is the sort of interoperability that the DID Working Group
-targeted and what the test suite demonstrates today. Standardizing the
+standardize at least a few "usefully decentralized methods". The DID Working
+Group believes that DID Core by itself is useful as a global standard today
+because it enables software libraries to be written that conform to the DID
+Document data model (rotatable/revokable public key expression and service
+descriptions) as well as the interface for resolving a DID Document using a DID
+Document Resolver. This is the sort of interoperability that the DID Working
+Group targeted and what the test suite demonstrates today. Standardizing the
 interfaces that the DID Document provides is useful in and of itself. Further
-standardization of "truly decentralized methods" will also be useful for
+standardization of "usefully decentralized methods" will also be helpful when
 instructing implementers on how to interact with the ecosystem, but that must be
 done with great care to ensure that we do not prevent other decentralized
 methods. It's not that we don't have options; it's that consensus around those
@@ -109,7 +109,7 @@ why they don't believe it is useful to publish DID Core as a global standard.
 The DID Working Group understands that at least one objector wants us to show
 "more" interop, but concretely articulating that more interop is possible at
 this time is challenging because 1) the objections contain conflicting
-requirements, and 2) there is no consensus around what "truly decentralized"
+requirements, and 2) there is no consensus around what "usefully decentralized"
 means; those that utter the phrase appear to mean it to be an objective measure,
 but upon analysis, it tends to turn into a subjective one. Nevertheless, the
 objectors will need to make the case why the DID Working Group and implementers
@@ -123,7 +123,7 @@ demonstrate the sort of utility that is practically useful. The DID Working
 Group believes that did:key and did:web are useful. A number of implementers
 make use of did:key for ephemeral DIDs in production settings, while did:web
 offers large institutions an on-ramp into the DID ecosystem without having to
-commit to a "truly decentralized" DID method.
+commit to a "usefully decentralized" DID method.
 
 The DID Working Group was planning to standardize did:key and did:web for
 practical reasons (people do use these DID Methods, which do exercise most
@@ -137,13 +137,13 @@ Group.
 #### Centralized DID Methods
 
 Many of us (objectors and DID Working Group members) do not want to support the
-registration of "centralized" (by some definition) DID Methods. However, I
-expect that we all understand that we can't stop centralized DID Methods from
+registration of "centralized" (by some definition) DID Methods. However, the DID
+WG expects that many understand that we can't stop centralized DID Methods from
 existing, just as we cannot all agree on which factor(s) outlined in the rubric
-define "truly decentralized" methods, and it's better to document the reality of
-the entire ecosystem than pretend that part of it doesn't exist. We could refuse
-to register centralized DID Methods, but then we must make the whole "is it
-decentralized enough" value judgement when people try to register their DID
+define "usefully decentralized" methods, and it's better to document the reality
+of the entire ecosystem than pretend that part of it doesn't exist. We could
+refuse to register centralized DID Methods, but then we must make the whole "is
+it decentralized enough" value judgement when people try to register their DID
 Methods, which often does not come down to an objective measure.
 
 If any of the objectors would like to pursue this, the DID Working Group would
@@ -274,7 +274,7 @@ lifetime:
 * Decentralized Identity Foundation (DIF) (sent participants who became a core part of the DID Working Group)
 * Hyperledger Indy and Aries (sent participants who became a core part of the DID Working Group)
 * Rebooting the Web of Trust Community (sent participants who became a core part of the DID Working Group)
-* 42 DID Method implementers provided implementations to the test suite (most from outside of the DID Working Group)
+* 47 DID Method implementers provided implementations to the test suite (most from outside of the DID Working Group)
 
 ### Was practical interoperability achieved?
 
@@ -355,12 +355,12 @@ did:key:z6Mki...vJ3 and did:web:vc.transmute.world values into the appropriate
 DID Documents and use the public key contained within to verify the digital
 signature.
 
-Do we want to do more than just that? Of course we do! We want to fully specify
-how some of these DID Methods work, generate thorough test suites for them, and
-take those specifications through the W3C standardization process. Do we need to
-do that to demonstrate practical interoperability? Nope, because we have
-already achieved demonstrating practical interoperability through end-to-end
-integration testing.
+Does the DID Working Group want to do more than just that? Of course it does! We
+want to fully specify how some of these DID Methods work, generate thorough test
+suites for them, and take those specifications through the W3C standardization
+process. Do we need to do that to demonstrate practical interoperability? Nope,
+because we have already achieved demonstrating practical interoperability
+through end-to-end integration testing.
 
 ### Is the DID specification decentralized enough?
 
