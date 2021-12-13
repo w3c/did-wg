@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ## DID Formal Objection FAQ
 
 This document is an informative document that has been reviewed,
