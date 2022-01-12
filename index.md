@@ -24,12 +24,17 @@ json-ld: |
               "email": "brent.zundel@evernym.com"
           }]
       },
-      "contactPoint": {
+      "contactPoint": [{
+          "@type": "ContactPoint",
+          "name": "Pierre-Antoine Champin",
+          "email": "pierre-antoine@w3.org",
+          "contactType": "W3C Staff Contact"
+      },{
           "@type": "ContactPoint",
           "name": "Ivan Herman",
           "email": "ivan@w3.org",
           "contactType": "W3C Staff Contact"
-      }
+      }]
   }
 ---
 
