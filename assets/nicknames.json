@@ -152,6 +152,12 @@
     },
     {
         "nick": [
+            "corsi"
+        ],
+        "name": "Frank Corsi"
+    },
+    {
+        "nick": [
             "Dudley"
         ],
         "name": "Dudley Collinson"
@@ -191,6 +197,12 @@
             "pamela"
         ],
         "name": "Pamela Dingle"
+    },
+    {
+        "nick": [
+            "dvorak"
+        ],
+        "name": "Rachel Dvorak"
     },
     {
         "nick": [
@@ -428,6 +440,12 @@
     },
     {
         "nick": [
+            "shenole"
+        ],
+        "name": "Shenole Latimer"
+    },
+    {
+        "nick": [
             "lucian"
         ],
         "name": "Lucian Lauritz"
@@ -555,7 +573,7 @@
             "sid"
         ],
         "name": "Sid Mishra"
-    }
+    },
     {
         "nick": [
             "nelson"
@@ -763,6 +781,12 @@
             "ned_smith"
         ],
         "name": "Ned Smith"
+    },
+    {
+        "nick": [
+            "sheri"
+        ],
+        "name": "Sheri Smith"
     },
     {
         "nick": [
