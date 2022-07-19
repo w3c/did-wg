@@ -21,18 +21,13 @@ json-ld: |
           },{
               "@type": "Person",
               "name": "Brent Zundel",
-              "email": "brent.zundel@evernym.com"
+              "email": "brent.zundel@avast.com"
           }]
       },
       "contactPoint": [{
           "@type": "ContactPoint",
           "name": "Pierre-Antoine Champin",
           "email": "pierre-antoine@w3.org",
-          "contactType": "W3C Staff Contact"
-      },{
-          "@type": "ContactPoint",
-          "name": "Ivan Herman",
-          "email": "ivan@w3.org",
           "contactType": "W3C Staff Contact"
       }]
   }
