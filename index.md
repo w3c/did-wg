@@ -20,8 +20,8 @@ json-ld: |
               "email": "danielcburnett@gmail.com"
           },{
               "@type": "Person",
-              "name": "Brent Zundel",
-              "email": "brent.zundel@avast.com"
+              "name": "Gabe Cohen",
+              "email": "gabe@tbd.email"
           }]
       },
       "contactPoint": [{

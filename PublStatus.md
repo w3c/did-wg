@@ -30,7 +30,12 @@ The Editors’ drafts are managed in GitHub repositories; the list of those repo
     * First Public Working Draft (FPWD): November 2019 (✓)
     * Candidate Recommendation (CR): March 2021 (✓)
     * Proposed Recommendation (PR): August 2021 (✓)
-    * Recommendation (REC): September 2021.
+    * Recommendation (REC): September 2021. (✓)
+* Decentralized Identifier (DID) Resolution and DID URL Dereferencing v1.0
+    * First Public Working Draft (FPWD)
+    * Candidate Recommendation (CR)
+    * Proposed Recommendation (PR)
+    * Recommendation (REC): April 2026.
 * Decentralized Identifier Use Cases & Requirements (Note):
     * First Public Working Draft (FPWD): November 2019 (✓)
     * Note: March 2021 (✓).
