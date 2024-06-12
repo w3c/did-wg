@@ -1,6 +1,6 @@
 baseurl: /2019/did-wg
 groupid: 117488
-charter: /2020/12/did-wg-charter.html
+charter: /2024/04/did-wg-charter.html
 wgname_lc: did
 wgname_uc: DID
 mission: "The mission of the Decentralized Identifier Working Group is two-fold. First, it will maintain the Decentralized Identifiers (DIDs) specification and related Working Group Notes. Second, it will seek consensus around the best way to achieve effective interoperability through common requirements, algorithms, architectural options, and various considerations for the DID resolution and DID URL dereferencing processes. "
