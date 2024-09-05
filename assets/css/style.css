@@ -429,3 +429,8 @@ The flex consists of items:
         }
     }
 }
+
+#legacy {
+    border: thick solid red;
+    text-align: center;
+}
