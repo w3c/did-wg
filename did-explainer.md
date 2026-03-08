@@ -83,7 +83,7 @@ The three parts of a DID, separated by colons, are:
   - For that, you might want to look into IPFS, DataShards, the Textile project,
     or IPLD
 - Human-readable identifiers
-- Defining or specificing DID-based authentication or authorization mechanisms
+- Defining or specifying DID-based authentication or authorization mechanisms
   - We do everything possible to support those efforts and align on primitives,
     but those topics are out of scope here
 - Identifiers for bearing or binding to Personally Identifiable Information (PII)
@@ -210,7 +210,7 @@ Although existing identifiers may display some of these characteristics, none
 currently displays all of them.
 
 ## Stakeholder Support or Opposition
-There is broad interest in and support for DIDs across the digit laidentity
+There is broad interest in and support for DIDs across the digital identity
 community. Early in the Working Group's history there was a concern around *DID
 Documents* only having a JSON-LD-based format defined. Since then the
 specification has added both JSON-only and CBOR formats.
